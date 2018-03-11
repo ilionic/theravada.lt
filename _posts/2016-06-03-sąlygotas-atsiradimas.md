@@ -1,12 +1,9 @@
 ---
 layout: post
+title: Sąlygotas Atsiradimas
 category: mokymas
-slug: salygotas-atsiradimas
 tags:
   - mokymas
-image:
-  feature: headers/buddha-002.jpg
-published: true
 ---
 
 ***(Paṭiccasamuppāda)***
