@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Cattāri ariyasaccāni
+category: mokymas
+tags:
+  - mokymas
+image:
+  feature: headers/buddha-002.jpg
 ---
 Visa Budos mokymo esmė gali būti suvesta į du nedalomus dalykus: Keturias tauriąsias tiesas ir <a href="http://theravada.lt/mokymas/post-astuonialypis-kelias">Aštuonialypį taurųjį kelią</a>. Paskutinioji iš keturių tiesų yra kelias, vedantis į _dukhos_ (pali k. _dukkha_)  išnykimą, t. y. Aštuonialypis kelias. O pirmoji Aštuonialypio kelio sudedamoji dalis yra Keturių tiesų supratimas. Tokiu būdu jie yra taip glaudžiai susiję, kad vienas negali būti be kito. Nežiūrint į tai, kad skirtingos budizmo mokyklos turi nevienodas tam tikrų mokymo aspektų interpretacijas, šie kertiniai tiesų ir kelio akmenys yra bendri joms visoms. Nuo pat pirmojo savo pamokslo, kurį atbudęs Buda davė savo penkiems draugams, per visą 45 metų mokytojo karjerą jis nuolat, nenuilstamai, pakartotinai sakė:
 
