@@ -3,6 +3,6 @@ layout: page
 title: title test
 category: vidutinio
 index: A
-sortIndex: 300
+sortIndex: 3002
 ---
 body test
