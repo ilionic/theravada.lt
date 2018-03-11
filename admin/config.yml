@@ -31,5 +31,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Category", name: "category", widget: "string", required: true}
       - {label: "Index", name: "index", widget: "string", required: true}
+      - {label: "Sort Index", name: "sortIndex", widget: "number", required: false}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
