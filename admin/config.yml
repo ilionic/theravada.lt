@@ -34,5 +34,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Category", name: "category", widget: "select", options: ["ilgos suttos", "vidutinio", "suristos suttos", "palaipsnines", "dziaugsmingi", "trumpesni"]}
       - {label: "Index", name: "index", widget: "string", required: true}
       - {label: "Sort Index", valueType: "int", default: 1, name: "sortIndex", widget: "number", required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
