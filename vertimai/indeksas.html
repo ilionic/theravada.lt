@@ -1,0 +1,162 @@
+---
+layout: post-index
+title: Sutų indeksas
+description: An archive of posts sorted by tag.
+comments: false
+image:
+  feature: headers/pali-0.jpg
+published: true
+---
+
+
+<article>
+  <h2 class="tag-heading">Ilgos sutos (Dīghanikāyo, DN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","ilgos suttos" | sort: 'sortIndex' %}
+    {% for post in category %}
+      {% unless post.hideIndex %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          {% if post.parts %}
+            [{% for part in post.parts %}
+              {% capture postNum %}-p{{ part }}{% endcapture %}
+              {% assign postName = post.url | replace: '-p1', postNum %}
+              <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">{{ part }}-a dalis</a>
+              {% if part != post.parts.size %}
+              |
+              {% endif %}
+            {% endfor %}]
+          {% endif %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</article>
+
+<article>
+  <h2 class="tag-heading">Vidutinio ilgio sutos (Majjhimanikāyo, MN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","vidutinio" | sort: 'sortIndex' %}
+    {% for post in category %}
+      {% unless post.hideIndex %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          {% if post.parts %}
+            [{% for part in post.parts %}
+              {% capture postNum %}-p{{ part }}{% endcapture %}
+              {% assign postName = post.url | replace: '-p1', postNum %}
+              <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">{{ part }}-a dalis</a>
+              {% if part != post.parts.size %}
+              |
+              {% endif %}
+            {% endfor %}]
+          {% endif %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</article>
+
+<article>
+  <h2 class="tag-heading">Surištos sutos (Saṃyuttanikāyo, SN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","suristos suttos" | sort: 'sortIndex' %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</article>
+
+<article>
+  <h2 class="tag-heading">Palaipsninės sutos (Aṅguttaranikāyo, AN)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","palaipsnines" | sort: 'sortIndex' %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</article>
+
+<article>
+  <h2 class="tag-heading">Trumpesni tekstai (Khuddakanikāyo, KN)</h2>
+  <h3 class="tag-heading">Džiaugsmingi žodžiai (Uddana, Ud)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","dziaugsmingi" | sort: 'sortIndex' %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <h3 class="tag-heading">Trumpesni skaitiniai (Khuddakapatha, Khd)</h2>
+  <ul>
+    {% assign category = site.vertimai | where: "category","trumpesni" | sort: 'sortIndex' %}
+    {% for post in category %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</article>
+
+
+<h1 class="text-center">Sutų indeksas pagal abėcėlę</h1>
+<!-- {% capture site_tags %}{% for tag in site[vertimai].tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %} -->
+<!-- {% assign tags_list = site_tags | split:',' | sort %} -->
+<!-- Create empty arrays -->
+{% assign tags = '' | split: ',' %}
+{% assign unique_tags = '' | split: ',' %}
+
+{% assign tags =  site.vertimai | map: 'tags' | join: ',' | split: ','  %}
+<!-- Uniq -->
+{% assign tags = tags | sort %}
+{% for tag in tags %}
+  <!-- If not equal to previous then it must be unique as sorted -->
+  {% unless tag == previous %}
+    <!-- Push to unique_tags -->
+    {% assign unique_tags = unique_tags | push: tag %}
+  {% endunless %}
+  {% assign previous = tag %}
+{% endfor %}
+
+
+{% for item in (0..unique_tags.size) %}{% unless forloop.last %}
+  {% capture this_word %}{{ unique_tags[item] | strip_newlines }}{% endcapture %}
+	<article>
+	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
+		<ul>
+    {% assign tagPosts = site.vertimai | where: "index",this_word %}
+
+    {% for post in tagPosts %}{% if post.title != null %}
+        {% unless post.hideIndex %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.parts %}
+          [{% for part in post.parts %}
+            {% capture postNum %}-p{{ part }}{% endcapture %}
+            {% assign postName = post.url | replace: '-p1', postNum %}
+            <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">dalis {{ part }}</a>
+            {% if part != post.parts.size %}
+            |
+            {% endif %}
+          {% endfor %}]
+        {% endif %}
+        </li>
+        {% endunless %}
+    {% endif %}{% endfor %}
+		</ul>
+	</article><!-- /.hentry -->
+
+
+	</article><!-- /.hentry -->
+{% endunless %}{% endfor %}
+
+<!-- {% for post in tagPost %}
+<article class="hentry">
+  <header>
+    {% if post.image.feature %}
+      <div class="entry-image-index">
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+      </div>
+    {% endif %}
+    <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+  </header>
+  <div class="entry-content">
+    {{ post.excerpt }}
+    <a href="{{ post.url }}">Read more →</a>
+  </div>
+</article>
+{% endfor %} -->

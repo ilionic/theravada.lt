@@ -1,0 +1,37 @@
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		<li><a href="{{ site.url }}/">Pradžia</a></li>
+		<li><a href="{{ site.url }}/vertimai/indeksas">Vertimai</a></li>
+		<li><a href="{{ site.url }}/budizmas/">Budizmas</a></li>
+		<li><a href="{{ site.url }}/tipitaka/">Tipiṭaka ir Pāḷi</a></li>
+		<li><a href="{{ site.url }}/mokymas/">Mokymas</a></li>
+		<li><a href="{{ site.url }}/praktika/">Praktika</a></li>
+		<li><a href="{{ site.url }}/zodinelis/">Žodinėlis</a></li>
+		<li><a href="{{ site.url }}/tags/">Nuorodos</a></li>
+		<li><a href="{{ site.url }}/prisidekite/">Prisidėkite</a></li>
+		<!-- <li>
+			<a href="#">Mokymas</a>
+			<ul class="dl-submenu">
+				<li><a href="{{ site.url }}/mokymas/">Žiūrėti visus</a></li>
+				<li><a href="{{ site.url }}/mokymas/trys-brangenybes">Trys brangenybės</a></li>
+				<li><a href="{{ site.url }}/tags/">Keturios tauriosios tiesos</a></li>
+				<li><a href="{{ site.url }}/tags/">Aštuonialypis taurusis kelias</a></li>
+				<li><a href="{{ site.url }}/tags/">Trys būties bruožai</a></li>
+				<li><a href="{{ site.url }}/tags/">Sąlygotas atsiradimas</a></li>
+				<li><a href="{{ site.url }}/mokymas/kamma">Kamma</a></li>
+				<li><a href="{{ site.url }}/tags/">Abhidhamma</a></li>
+				<li><a href="{{ site.url }}/tags/">Gotama Buddhos gyvenimas</a></li>
+			</ul>
+		</li> -->
+
+		<!-- {% for link in site.data.navigation %}
+	    {% if link.url contains 'http' %}
+	        {% assign domain = '' %}
+	        {% else %}
+	        {% assign domain = site.url %}
+	    {% endif %}
+	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+	  {% endfor %} -->
+	</ul><!-- /.dl-menu -->
+</nav><!-- /.dl-menuwrapper -->
