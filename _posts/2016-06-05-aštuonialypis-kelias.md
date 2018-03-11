@@ -2,6 +2,8 @@
 layout: post
 title: Aštuonialypis Kelias
 category: mokymas
+tags:
+  - mokymas
 ---
 
 Dažnai tie, kas yra tik paviršutiniškai susipažinę su budizmu, sako, kad tai yra pesimistiškas mokymas: „Jis gi teigia, kad gyvenimas yra kančia!“ Ir jei ne ketvirtoji taurioji tiesa, sunku būtų nesutikti su šiais žodžiais. Bet Buda ne tik nurodė problemą, mūsų visų ligą, bet ir aprašė problemos sprendimo būdą, išrašė vaistų ligos gydymui, o tai padaro šį mokymą kupiną optimizmo. Vaistas, kuris išvaduoja iš visų būties kančių, yra Aštuonialypis taurusis kelias arba Vidurio kelias - tai toks gyvenimo būdas, kai nėra atsiduodama nei besaikiam juslių tenkinimui, nei ekstremaliam savęs kankinimui.  Sudaro šį kelią aštuoni veiksniai: teisingas požiūris, teisingas ketinimas, teisinga kalba, teisingas veiksmas, teisingas pragyvenimo šaltinis, teisinga pastanga, teisingas atidumas ir teisingas susitelkimas. Paprastai šios kelio sudedamosios dalys yra suskirstomos į tris grupes: <a href="http://theravada.lt/praktika/post-dorove">dorovę</a> arba *sylą* (teisinga kalba, teisingas veiksmas, teisingas pragyvenimo šaltinis), <a href="http://theravada.lt/praktika/post-meditacija">susitelkimą</a> arba *samadhį* (teisinga pastanga, teisingas sąmoningumas ir teisingas susitelkimas) ir <a href="http://theravada.lt/praktika/post-meditacija">įžvalgą</a> arba *vipasaną* (teisingas požiūris, teisingas ketinimas).
