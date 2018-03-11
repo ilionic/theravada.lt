@@ -29,7 +29,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Category", name: "category", widget: "string", required: true}
+      # - {label: "Category", name: "category", widget: "string", required: true}
+      - {label: "Category", name: "category", widget: "select", options: ["ilgos suttos", "vidutinio", "suristos suttos", "palaipsnines", "dziaugsmingi", "trumpesni"]}
       - {label: "Index", name: "index", widget: "string", required: true}
       - {label: "Sort Index", name: "sortIndex", widget: "number", required: false}
     meta: # Meta data fields. Just like fields, but without any preview element
