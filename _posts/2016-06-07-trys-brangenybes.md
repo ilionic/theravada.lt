@@ -1,4 +1,5 @@
 ---
+title: Tiratana&Tisarana
 layout: post
 category: mokymas
 tags:
@@ -7,8 +8,6 @@ image:
   feature: headers/buddha-002.jpg
 published: true
 ---
-
-**_Tiratana&Tisaraṇa_**
 
 Buda, *Dharma* ir *Sangha* yra vadinami Trimis Brangenybėmis dėl to, kad kaip ir brangenybės, jie pasižymi puikiomis, vertingomis savybėmis. Kai nuodugniai jas ištyrinėjęs žmogus įvertina šias ypatingas, į išsilaisvinimą nuo gyvenimo kančių vedančias savybes, jis pradeda jas laikyti savo prieglobsčiu. Nuo paties Budos ir iki šių laikų šis žingsnis (Trijų Brangenybių pripažinimas savo prieglobsčiu) yra tarsi vartai į Budos mokymą. Jis atveria prieigą prie įvairiausių *Dharmos* aspektų gilumų. Bet kas, kas priima tą mokymą, praeina pro šiuos vartus. 
 Žmogus, sakydamas:
