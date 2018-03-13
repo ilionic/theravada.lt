@@ -1,9 +1,9 @@
 ---
 layout: page
-title: SN III.I.iii.5-7 Assādasuttaṃ
+title: 'Pasitenkinimas (Assādasuttaṃ, SN III.I.iii.5-7)'
 category: palaipsnines
-index: '3135'
-sortIndex: 1
+index: A
+sortIndex: 3135
 ---
 Pasitenkinimas (SN III.I.iii.5, Assādasuttaṃ)
 
