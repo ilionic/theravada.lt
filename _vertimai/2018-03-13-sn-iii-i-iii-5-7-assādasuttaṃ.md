@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Pasitenkinimas (Assādasuttaṃ, SN III.I.iii.5-7)'
-category: palaipsnines
+category: suristos suttos
 index: A
 sortIndex: 3135
 ---
