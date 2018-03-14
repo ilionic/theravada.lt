@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Vystymas (Bhāvanāsuttaṃ, AN 7.7.7)'
+title: 'Vystymas (Bhāvanāsuttaṃ, AN 7.II.ii.7)'
 category: palaipsnines
 index: B
-sortIndex: 777
+sortIndex: 7227
 tags:
   - B
 ---
