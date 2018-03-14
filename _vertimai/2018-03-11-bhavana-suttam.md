@@ -19,7 +19,7 @@ Sakykime, vienuoliai, dailidė ar dailidės padėjėjas žiūrėdamas į kirvio 
 
 Sakykime, vienuoliai būtų vandenyno laivas su lynais švartavimui. Po šešių mėnesių buvimo vandenyje, kai jis žiemą pastatytas krante, veikiami vėjo ir saulės lynai, permerkti lietaus iš lietaus debesies, nesunkiai suirs, taps supuvę. Lygiai taip pat, vienuoliai, vienuolio užsiimančio \[proto] vystymu {meditacija} saitai nesunkiai atsileidžia, tampa supuvę.
 
-**Vystymas (Bhāvanāsuttaṃ, AN 7.7.7)**
+**Vystymas (Bhāvanāsuttaṃ, AN 7.II.ii.7)**
 
 **‘‘Bhāvanaṃ ananuyuttassa, bhikkhave, bhikkhuno viharato** Vienuoliai, vienuoliui neužsiimančiam \[proto] vystymu {meditacija} **kiñcāpi evaṃ icchā uppajjeyya –** kad ir kiltų toks noras: **‘aho vata me anupādāya āsavehi cittaṃ vimucceyyā’ti,** "O, kad mano protas išsilaisvintų dėl neprisirišimo nuo intakų!" **atha khvassa neva anupādāya āsavehi cittaṃ vimuccati.** Jo protas tuomet neišsilaisvintų dėl neprisirišimo nuo intakų. **Taṃ kissa hetu?** Kodėl taip yra? **‘Abhāvitattā’tissa vacanīyaṃ.** Pasakytina, dėl \[proto] neišvystymo. **Kissa abhāvitattā?** Ko neišvystymo? **Catunnaṃ satipaṭṭhānānaṃ,** Keturių atidumo įsteigimų, **catunnaṃ sammappadhānānaṃ,** keturių teisingų stengimųsi, **catunnaṃ iddhipādānaṃ,** keturių antžmogiškų galių pagrindų, **pañcannaṃ indriyānaṃ,** penkių valdančių gebėjimų, **pañcannaṃ balānaṃ,** penkių stiprybių, **sattannaṃ bojjhaṅgānaṃ,** septynių atbudimo veiksnių, **ariyassa aṭṭhaṅgikassa maggassa.** tauriojo aštuonialypio kelio.
 
