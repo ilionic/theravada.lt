@@ -7,7 +7,7 @@ category: tipitaka
 | --- | --- |
 | -tar | 	-tojas |	
 | aggi	| ugnis	|
-| āneti | 	atnešti	bring |
+| āneti | 	atnešti	 |
 | aṅgāra |	anglis |	
 | asi	| esi | 
 | asma	| esame |
