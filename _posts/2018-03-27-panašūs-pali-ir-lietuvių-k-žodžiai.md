@@ -13,7 +13,10 @@ category: tipitaka
 | asma	| esame |
 | bhaya	| baimė | 
 | dadāti/deti |	duoti |	
+
 <!--break-->
+
+| --- | --- |
 | ḍahati | 	degti |	
 | deseti |	destyti	| 
 | divā	| dieną |
