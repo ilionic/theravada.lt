@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visuotinių budistų susirinkimų (*saṅgīti*) istorija
+title: Visuotinių budistų susirinkimų (saṅgīti) istorija
 category: tipitaka
 ---
 
