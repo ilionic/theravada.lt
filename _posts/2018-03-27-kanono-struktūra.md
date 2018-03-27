@@ -3,7 +3,7 @@ layout: post
 title: Kanono struktūra
 category: tipitaka
 ---
-(iš prof. A. Beinoriaus “_Evaṃ me suttam_: Apie ankstyvojo budizmo bendruomenės, kanono ir kalbos raidą”)
+##### (iš prof. A. Beinoriaus “_Evaṃ me suttam_: Apie ankstyvojo budizmo bendruomenės, kanono ir kalbos raidą”)
 
 Nors esama įvairių formalių kanono skirstymo būdų – devynios dalys (_aṅghas_), penki skyriai (_nikāyas_), 84 tūkstančiai Dhammos skyrių (_dhammakhanda_) ir panašiai, – tradiciškai dažniausiai minimos trys „mokymo pintinės” ar „krepšiai” (_tipiṭaka_). Pastarasis terminas aiškinamas įvairiai. Anot vienų tyrinėtojų (G. Bühler), ankstyvieji kanono rankraščiai tiesiog saugoti krepšiuose, iš čia tat ir atitinkamų mokymo dalių skirstymas į „krepšius”. Tačiau, kaip dabar tapo žinoma, užrašinėti tekstus imta palyginti vėlai, kai šis terminas jau buvo plačiai vartojamas. Todėl įtikinamesnis atrodo kitas aiškinimas (V. Trenckner). Ūkyje buvo naudojamos tokios iš vytelių pintos pintinės, kuriomis iš rankų į rankas būdavo perduodama, pavyzdžiui, iškasta žemė. Taigi tokia pintinė ir ėmusi simbolizuoti tai, kas perduodama iš rankų į rankas – būtent perdavą, arba tradiciją. Šį aiškinimą patvirtintų ir kai kuriuose budizmo tekstuose (kaip antai Majjhima Nikāya II.95) sutinkama formulė „pintinių tradicija” (_piṭaka sampradāya_), žyminti minėtas vedų tradicijos saugojimo ir perdavimo šakas (_śākha_).
 <!--break-->
