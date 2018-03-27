@@ -1,15 +1,12 @@
 ---
 layout: page
 title: 'Sykiu (Yuganaddhasuttaṃ, AN 4.IV.ii.10)'
-tags:
-  - 'Y'
-index: 'Y'
-comments: false
 category: palaipsnines
+index: 'Y'
 sortIndex: 442
-image:
-  feature: abstract-2.jpg
-published: true
+tags:
+  - Meditacija
+  - Praktika
 ---
 
 Taip aš girdėjau: vieną kartą gerbiamas Ananda buvo apsistojęs Kosambhėje Ghositos vienuolyne. Tada gi gerbiamas Ananda kreipėsi į vienuolius:
