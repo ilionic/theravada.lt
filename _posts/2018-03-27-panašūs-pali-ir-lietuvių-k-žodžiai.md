@@ -7,12 +7,13 @@ category: tipitaka
 | --- | --- |
 | -tar | 	-tojas |	
 | aggi	| ugnis	|
-| āneti | 	atnešti	 |
+| āneti | 	atnešti	bring |
 | aṅgāra |	anglis |	
 | asi	| esi | 
 | asma	| esame |
 | bhaya	| baimė | 
 | dadāti/deti |	duoti |	
+<!--break-->
 | ḍahati | 	degti |	
 | deseti |	destyti	| 
 | divā	| dieną |
