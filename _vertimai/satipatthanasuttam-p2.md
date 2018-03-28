@@ -1,18 +1,10 @@
 ---
 layout: page
-title: 'Satipaṭṭhānasuttaṃ (Keturi sąmoningumo įsteigimai, MN I.i10)'
+title: 'Satipaṭṭhānasuttaṃ (Keturi atidumo įsteigimai, MN I.i10)'
+category: vidutinio
+index: S
 tags:
   - S
-index: S
-parts:
-  - 1
-  - 2
-comments: false
-category: vidutinio
-hideIndex: true
-image:
-  feature: abstract-2.jpg
-published: true
 ---
 
 
