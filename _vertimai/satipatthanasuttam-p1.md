@@ -1,18 +1,11 @@
 ---
 layout: page
-title: 'Keturi sąmoningumo įsteigimai (Satipaṭṭhānasuttaṃ, MN I.i.10)'
+title: 'Keturi atidumo įsteigimai (Satipaṭṭhānasuttaṃ, MN I.i.10)'
+category: vidutinio
+index: S
+sortIndex: 110
 tags:
   - S
-index: S
-parts:
-  - 1
-  - 2
-comments: false
-category: vidutinio
-sortIndex: 110
-image:
-  feature: abstract-2.jpg
-published: true
 ---
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Kurų šalyje Kurų kaime pavadinimu Kamasadhama. Tada gi Palaimintasis kreipėsi į vienuolius:  
