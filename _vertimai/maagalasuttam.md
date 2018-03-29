@@ -1,15 +1,11 @@
 ---
 layout: page
 title: 'Palaima (Maṅgalasuttaṃ, Khp 5, Sn II.4)'
+category: trumpesni
+index: M
+sortIndex: 5
 tags:
   - M
-index: M
-comments: false
-category: trumpesni
-sortIndex: 524
-image:
-  feature: abstract-2.jpg
-published: true
 ---
 1.Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. Tada gi gilią naktį vienas dėva, neprilygstama šviesa nušvietęs visą Džetos girią, atėjo pas Palaimintąjį. Atėjęs pasveikino jį ir atsistojo iš šono. Iš šono stovėdamas tas dėva ištarė Palaimintajam posmą:
 
