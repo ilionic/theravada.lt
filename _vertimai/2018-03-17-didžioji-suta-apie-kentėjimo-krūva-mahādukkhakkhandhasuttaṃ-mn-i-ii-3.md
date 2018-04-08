@@ -5,6 +5,10 @@ category: vidutinio
 index: M
 sortIndex: 123
 ---
+Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. Tada gi iš ryto būrys vienuolių apsirengę, pasiėmę dubenis aukoms ir viršutinius apdarus, nuėjo į Savathę aukų [rinkti]. Tada gi tie vienuoliai taip pagalvojo: „Dar per anksti eiti į Savathę aukų rinkti, tad kodėl gi nenuėjus į kitatikių klajotojų parką?“ Tada gi tie vienuoliai nuėjo į kitatikių klajotojų parką, nuėję, su tais kitatikiais klajotojais apsikeitė mandagiais sveikinimais. Apsikeitę mandagiais sveikinimais ir draugiškais žodžiais atsisėdo iš šono. Sėdintiems gi iš šono tiems vienuoliams kitatikiai klajotojai štai ką pasakė:  
+—Draugai, atsiskyrėlis Gotama aiškina visišką juslinių malonumų supratimą, mes irgi aiškiname visišką juslinių malonumų supratimą. Draugai, atsiskyrėlis Gotama aiškina visišką materijos supratimą, mes irgi aiškiname visišką materijos supratimą. Draugai, atsiskyrėlis Gotama aiškina visišką jausmų supratimą, mes irgi aiškiname visišką jausmų supratimą. Koks, draugai, čia skirtumas, kokia skirtis[^1], koks nesutapimas tarp atsiskyrėlio Gotamos ir mūsų Dharmos dėstymo, apmokymo.   
+Tada gi tie vienuoliai kitatikių klajotojų kalba  nei pasidžiaugė, nei ją išpeikė. Nepasidžiaugę, neišpeikę, atsikėlė ir išėjo, [galvodami]: „Sužinosime šios kalbos prasme kai būsime šalia Palaimintojo“.
+ 
 
 Tada gi tie vienuoliai pavaikščiojo rinkdami aukas Savathėje. Sugrįžę po aukų rinkimo ir pavalgę, nuėjo pas Palaimintąjį. Atėję pasveikino jį ir atsisėdo iš šono, sėdėdami gi iš šono tie vienuoliai štai ką pasakė Palaimintajam:  
 —Štai, gerbiamasis, mes... kai būsime šalia Palaimintojo.
