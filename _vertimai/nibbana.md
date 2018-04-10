@@ -1,15 +1,11 @@
 ---
 layout: page
-title: 'Su Nirvana surištos sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1-4)'
+title: 'Su Nirvana susijusios sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1-4)'
+category: dziaugsmingi
+index: 'N'
+sortIndex: 81
 tags:
   - 'N'
-index: 'N'
-comments: false
-category: dziaugsmingi
-sortIndex: 81
-image:
-  feature: abstract-2.jpg
-published: true
 ---
 
 
