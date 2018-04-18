@@ -3,22 +3,22 @@ layout: post
 title: Panašūs pali ir lietuvių k. žodžiai
 category: tipitaka
 ---
-| **pali** | **lietuvių** |
-| --- | --- |
-| -tar | 	-tojas |	
-| aggi	| ugnis	|
-| āneti | 	atnešti	bring |
-| aṅgāra |	anglis |	
-| asi	| esi | 
-| asma	| esame |
-| bhaya	| baimė | 
-| dadāti/deti |	duoti |	
+| **pali**    | **lietuvių**  |
+| ----------- | ------------- |
+| \-tar       | \-tojas       |
+| aggi        | ugnis         |
+| āneti       | atnešti	bring |
+| aṅgāra      | anglis        |
+| asi         | esi           |
+| asma        | esame         |
+| bhaya       | baimė         |
+| dadāti/deti | duoti         |
 
 <!--break-->
 
-| --- | --- |
+\| --- | --- |
 | ḍahati | 	degti |	
-| deseti |	destyti	| 
+| deseti |	dėstyti	| 
 | divā	| dieną |
 | dvāra	| durys	|
 | eti | eiti |	
