@@ -57,7 +57,7 @@ Ir kas yra šeši jutimo pagrindai? Akies jutimo pagrindas, ausies jutimo pagrin
 
 Ir kas yra protas-materija? Jausmas, suvokimas, čėtana, sąlytis, dėmesys – tai vadinama protu. Keturi pirminiai \[materijos] elementai ir materija, priklausanti nuo jų – tai vadinama materija. Taigi, tai yra protas, o tai yra materija. Tai vadinama protu-materija.
 
-Ir kas yra sąmonė? Vienuoliai, yra šios šešios sąmonės grupės: akies sąmonė, ausies sąmonė, nosies sąmonė, liežuvio sąmonė, kūno sąmonė, proto sąmonė. Tai vadinama sąmone.
+Ir kas yra sąmonė? Vienuoliai, yra šios šešios sąmonių grupės: akies sąmonė, ausies sąmonė, nosies sąmonė, liežuvio sąmonė, kūno sąmonė, proto sąmonė. Tai vadinama sąmone.
 
 Ir kas yra valingi veiksmai? Vienuoliai, yra šie trys valingi veiksmai: kūno valingi veiksmai, kalbos valingi veiksmai, proto valingi veiksmai. Tai vadinama valingais veiksmais.
 
@@ -103,7 +103,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 **"Katamañca, bhikkhave, nāmarūpaṃ?** Ir kas yra protas-materija? **Vedanā, saññā,** Jausmas, suvokimas, **cetanā, phasso, manasikāro –** čėtana, sąlytis, dėmesys – **idaṃ vuccati nāmaṃ.** tai vadinama protu. **Cattāro ca \[4] mahābhūtā,** Keturi pirminiai \[materijos] elementai **catunnañca mahābhūtānaṃ upādāyarūpaṃ.** ir materija, priklausanti nuo didžiųjų pagrindų – **Idaṃ vuccati rūpaṃ.** tai vadinama materija. **Iti idañca nāmaṃ, idañca rūpaṃ.** Taigi, tai yra protas, o tai yra materija. **Idaṃ vuccati, bhikkhave, nāmarūpaṃ.** Tai vadinama protu-materija.
 
-**"Katamañca, bhikkhave, viññāṇaṃ?** Ir kas yra sąmonė? **Chayime, bhikkhave, viññāṇakāyā –** Vienuoliai, yra šios šešios sąmonės grupės: **cakkhuviññāṇaṃ, sotaviññāṇaṃ,** akies sąmonė, ausies sąmonė, **ghānaviññāṇaṃ, jivhāviññāṇaṃ,** nosies sąmonė, liežuvio sąmonė, **kāyaviññāṇaṃ, manoviññāṇaṃ.** kūno sąmonė, proto sąmonė. **Idaṃ vuccati, bhikkhave, viññāṇaṃ.** Tai vadinama sąmone.
+**"Katamañca, bhikkhave, viññāṇaṃ?** Ir kas yra sąmonė? **Chayime, bhikkhave, viññāṇakāyā –** Vienuoliai, yra šios šešios sąmonių grupės: **cakkhuviññāṇaṃ, sotaviññāṇaṃ,** akies sąmonė, ausies sąmonė, **ghānaviññāṇaṃ, jivhāviññāṇaṃ,** nosies sąmonė, liežuvio sąmonė, **kāyaviññāṇaṃ, manoviññāṇaṃ.** kūno sąmonė, proto sąmonė. **Idaṃ vuccati, bhikkhave, viññāṇaṃ.** Tai vadinama sąmone.
 
 **"Katame ca, bhikkhave, saṅkhārā?** Ir kas yra valingi veiksmai? **Tayome, bhikkhave, saṅkhārā –** Vienuoliai, yra šie trys valingi veiksmai: **kāyasaṅkhāro,** kūno valingi veiksmai, **vacīsaṅkhāro,** kalbos valingi veiksmai, **cittasaṅkhāro.** proto valingi veiksmai. **Ime vuccanti, bhikkhave, saṅkhārā.** Tai vadinama valingais veiksmais.
 
