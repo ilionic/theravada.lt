@@ -29,9 +29,9 @@ sąlygotas sąlyčio yra jausmas;
 
 sąlygotas jausmo yra troškimas;
 
-sąlygotas troškimo yra prisirišimas;
+sąlygotas troškimo yra įsikibimas;
 
-sąlygota prisirišimo yra būtis;
+sąlygota įsikibimo yra būtis;
 
 sąlygotas būties yra gimimas;
 
@@ -45,7 +45,7 @@ Ir kas yra gimimas? Bet kokių būtybių, bet kokioje būtybių klasėje gimimas
 
 Ir kas yra būtis? Vienuoliai, yra šios trys būtys: jausminė būtis, subtilios materijos būtis, būtis be materijos. Tai vadinama būtimi.
 
-Ir kas yra prisirišimas? Vienuoliai, yra šie keturi prisirišimai: prisirišimas prie juslinių malonumų, prisirišimas prie neteisingų pažiūrų, prisirišimas prie neteisingo ritualų ir įžadų paskirties supratimo, prisirišimas prie tikėjimo į savastį \[sielą]. Tai vadinama prisirišimu.
+Ir kas yra įsikibimas? Vienuoliai, yra šie keturi įsikibimai: įsikibimas į juslinius malonumus, įsikibimas į neteisingas pažiūras, įsikibimas į neteisingą ritualų ir įžadų paskirties supratimą, įsikibimas į tikėjimą į savastį \[sielą]. Tai vadinama įsikibimu.
 
 Ir kas yra troškimas? Vienuoliai, yra šios šešios troškimo grupės: formų troškimas, garsų troškimas, kvapų troškimas, skonių troškimas,troškimas apčiuopiamo, \[proto] reiškinių troškimas. Tai vadinama troškimu.
 
