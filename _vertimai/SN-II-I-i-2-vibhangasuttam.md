@@ -43,7 +43,7 @@ Ir kas yra senėjimas ir mirtis? Bet kokių būtybių, esančių bet kokioje bū
 
 Ir kas yra gimimas? Bet kokių būtybių, bet kokioje būtybių klasėje gimimas, gymis, pradėjimas, prigimimas, atgimimas, sankaupų atsiradimas, \[jutimo] pagrindų įgijimas – tai vadinama gimimu.
 
-Ir kas yra būtis? Vienuoliai, yra šios trys būtys: jausminė būtis, subtilios materijos būtis, nemateriali būtis. Tai vadinama būtimi.
+Ir kas yra būtis? Vienuoliai, yra šios trys būtys: jausminė būtis, subtilios materijos būtis, būtis be materijos. Tai vadinama būtimi.
 
 Ir kas yra prisirišimas? Vienuoliai, yra šie keturi prisirišimai: prisirišimas prie juslinių malonumų, prisirišimas prie neteisingų pažiūrų, prisirišimas prie neteisingo ritualų ir įžadų paskirties supratimo, prisirišimas prie tikėjimo į savastį \[sielą]. Tai vadinama prisirišimu.
 
@@ -89,7 +89,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 **"Katamā ca, bhikkhave, jāti?** Ir kas yra gimimas? **Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye** Bet kokių būtybių bet kokioje būtybių klasėje **jāti sañjāti** gimimas, gymis, **okkanti nibbatti abhinibbatti** pradėjimas, prigimimas, atgimimas, **khandhānaṃ pātubhāvo** sankaupų atsiradimas, **āyatanānaṃ paṭilābho.** \[jutimo] pagrindų įgijimas. **Ayaṃ vuccati, bhikkhave, jāti.** Tai vadinama gimimu.
 
-**"Katamo ca, bhikkhave, bhavo?** Ir kas yra būtis? **Tayo me, bhikkhave, bhavā –** Vienuoliai, yra šios trys būtys: **kāmabhavo, rūpabhavo, arūpabhavo.** jausminė būtis, subtilios materijos būtis, nemateriali būtis. **Ayaṃ vuccati, bhikkhave, bhavo.** Tai vadinama būtimi.
+**"Katamo ca, bhikkhave, bhavo?** Ir kas yra būtis? **Tayo me, bhikkhave, bhavā –** Vienuoliai, yra šios trys būtys: **kāmabhavo, rūpabhavo, arūpabhavo.** jausminė būtis, subtilios materijos būtis, būtis be materijos. **Ayaṃ vuccati, bhikkhave, bhavo.** Tai vadinama būtimi.
 
 **"Katamañca, bhikkhave, upādānaṃ?** Ir kas yra prisirišimas? **Cattārimāni, bhikkhave, upādānāni –** Vienuoliai, yra šie keturi prisirišimai: **kāmupādānaṃ**, prisirišimas prie juslinių malonumų, **diṭṭhupādānaṃ**, prisirišimas prie neteisingų pažiūrų, **sīlabbatupādānaṃ,** prisirišimas prie neteisingo ritualų ir įžadų paskirties supratimo, **attavādupādānaṃ.** prisirišimas prie tikėjimo į savastį \[sielą]. **Ayaṃ vuccati, bhikkhave, upādānaṃ.** Tai vadinama prisirišimu.
 
