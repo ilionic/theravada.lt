@@ -55,7 +55,7 @@ Ir kas yra sąlytis? Vienuoliai, yra šios šešios sąlyčio grupės: akies są
 
 Ir kas yra šeši jutimo pagrindai? Akies jutimo pagrindas, ausies jutimo pagrindas, nosies jutimo pagrindas, liežuvio jutimo pagrindas, kūno jutimo pagrindas, proto jutimo pagrindas – tai vadinama šešiais jutimo pagrindais.
 
-Ir kas yra protas-materija? Jausmas, suvokimas, čėtana, sąlytis, dėmesys – tai vadinama protu. Keturi didieji \[materijos] pagrindai ir materija, priklausanti nuo jų – tai vadinama materija. Taigi, tai yra protas, o tai yra materija. Tai vadinama protu-materija.
+Ir kas yra protas-materija? Jausmas, suvokimas, čėtana, sąlytis, dėmesys – tai vadinama protu. Keturi pirminiai \[materijos] elementai ir materija, priklausanti nuo jų – tai vadinama materija. Taigi, tai yra protas, o tai yra materija. Tai vadinama protu-materija.
 
 Ir kas yra sąmonė? Vienuoliai, yra šios šešios sąmonės grupės: akies sąmonė, ausies sąmonė, nosies sąmonė, liežuvio sąmonė, kūno sąmonė, proto sąmonė. Tai vadinama sąmone.
 
@@ -101,7 +101,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 **"Katamañca, bhikkhave, saḷāyatanaṃ?** Ir kas yra šeši jutimo pagrindai? **Cakkhāyatanaṃ, sotāyatanaṃ,** Akies jutimo pagrindas, ausies jutimo pagrindas, **ghānāyatanaṃ, jivhāyatanaṃ,** nosies jutimo pagrindas, liežuvio jutimo pagrindas, **kāyāyatanaṃ, manāyatanaṃ –** kūno jutimo pagrindas, proto jutimo pagrindas – **idaṃ vuccati, bhikkhave, saḷāyatanaṃ.** tai vadinama šešiais jutimo pagrindais.
 
-**"Katamañca, bhikkhave, nāmarūpaṃ?** Ir kas yra protas-materija? **Vedanā, saññā,** Jausmas, suvokimas, **cetanā, phasso, manasikāro –** čėtana, sąlytis, dėmesys – **idaṃ vuccati nāmaṃ.** tai vadinama protu. **Cattāro ca \[4] mahābhūtā,** Keturi didieji \[materijos] pagrindai **catunnañca mahābhūtānaṃ upādāyarūpaṃ.** ir materija, priklausanti nuo didžiųjų pagrindų – **Idaṃ vuccati rūpaṃ.** tai vadinama materija. **Iti idañca nāmaṃ, idañca rūpaṃ.** Taigi, tai yra protas, o tai yra materija. **Idaṃ vuccati, bhikkhave, nāmarūpaṃ.** Tai vadinama protu-materija.
+**"Katamañca, bhikkhave, nāmarūpaṃ?** Ir kas yra protas-materija? **Vedanā, saññā,** Jausmas, suvokimas, **cetanā, phasso, manasikāro –** čėtana, sąlytis, dėmesys – **idaṃ vuccati nāmaṃ.** tai vadinama protu. **Cattāro ca \[4] mahābhūtā,** Keturi pirminiai \[materijos] elementai **catunnañca mahābhūtānaṃ upādāyarūpaṃ.** ir materija, priklausanti nuo didžiųjų pagrindų – **Idaṃ vuccati rūpaṃ.** tai vadinama materija. **Iti idañca nāmaṃ, idañca rūpaṃ.** Taigi, tai yra protas, o tai yra materija. **Idaṃ vuccati, bhikkhave, nāmarūpaṃ.** Tai vadinama protu-materija.
 
 **"Katamañca, bhikkhave, viññāṇaṃ?** Ir kas yra sąmonė? **Chayime, bhikkhave, viññāṇakāyā –** Vienuoliai, yra šios šešios sąmonės grupės: **cakkhuviññāṇaṃ, sotaviññāṇaṃ,** akies sąmonė, ausies sąmonė, **ghānaviññāṇaṃ, jivhāviññāṇaṃ,** nosies sąmonė, liežuvio sąmonė, **kāyaviññāṇaṃ, manoviññāṇaṃ.** kūno sąmonė, proto sąmonė. **Idaṃ vuccati, bhikkhave, viññāṇaṃ.** Tai vadinama sąmone.
 
