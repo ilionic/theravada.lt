@@ -19,89 +19,89 @@ Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
 
   Lūpiniai               _p_, _ph_, _b_, _bh_, _m_  – pa grupė  
 
-\*\Palatalinis               y  
+\*\Palatalinis               _y_  
 
-\*\Retrofleksinis         r  
+\*\Retrofleksinis        _ r_  
 
-\*\Dantinis                   l  
+\*\Dantinis                   _l_  
 
-\*\Dantinis ir lūpinis   v  
+\*\Dantinis ir lūpinis   _v _ 
 
-  Dantinis                      s  
+  Dantinis                     _s_  
 
-  Aspiruotas                 h  
+  Aspiruotas                 _h_  
 
-  Retrofleksinis             ḷ  
+  Retrofleksinis            _ḷ_  
 
-  Niggahita                   ṃ 
+  Niggahita                   _ṃ_ 
 
 \*\Pusiau balsiai
 
 Pali kalba yra fonetinė ir kiekviena raidė turi jai būdingą garsą.
 
-  a   tariasi kaip žodžio   m**a**n     a  
+  _a_   tariasi kaip žodžio   m**a**n     a  
 
-  ā   tariasi kaip žodžio   s**a**vas   a  
+  _ā_   tariasi kaip žodžio   s**a**vas   a  
 
 <!--break-->
 
-  i   tariasi kaip žodžio   v**i**s                i  
+ _ i_   tariasi kaip žodžio   v**i**s                i  
 
-  ī   tariasi kaip žodžio   l**y**gis             y  
+  _ī _  tariasi kaip žodžio   l**y**gis             y  
 
-  u   tariasi kaip žodžio   t**u**rgus        u  
+  _u_   tariasi kaip žodžio   t**u**rgus        u  
 
-  ū   tariasi kaip žodžio   r**ū**ta            ū  
+  _ū_   tariasi kaip žodžio   r**ū**ta            ū  
 
-  e   tariasi kaip žodžio   d**ė**k             ė  
+  _e_   tariasi kaip žodžio   d**ė**k             ė  
 
-  o   tariasi kaip žodžio   p**o**ra           o  
+  _o_   tariasi kaip žodžio   p**o**ra           o  
 
-  k   tariasi kaip žodžio   **k**ai               k  
+  _k_   tariasi kaip žodžio   **k**ai               k  
 
-  g   tariasi kaip žodžio   **g**al              g  
+  _g_   tariasi kaip žodžio   **g**al              g  
 
-  ṅ   tariasi kaip žodžio   že**nk**          nk  
+  _ṅ_   tariasi kaip žodžio   že**nk**          nk  
 
-  c   tariasi kaip žodžio   **č**ekis          č  
+  _c_   tariasi kaip žodžio   **č**ekis          č  
 
-  j   tariasi kaip žodžio   **dž**iunglės   dž\
-  ñ   tariasi kaip žodžio   se**nj**oras   nj  
+  _j_   tariasi kaip žodžio   **dž**iunglės   d\
+  _ñ_   tariasi kaip žodžio   se**nj**oras   nj  
 
   ṭ   tariasi kaip žodžio   be**t**               t  
 
-  ḍ   tariasi kaip žodžio   ka**d**a           d  
+  _ḍ_   tariasi kaip žodžio   ka**d**a           d  
 
-  ṇ   tariasi kaip žodžio   a**n**t              n  
+  _ṇ_   tariasi kaip žodžio   a**n**t              n  
 
-  p   tariasi kaip žodžio   **p**ora           p  
+  _p_   tariasi kaip žodžio   **p**ora           p  
 
-  b   tariasi kaip žodžio   **b**et              b  
+  _b_   tariasi kaip žodžio   **b**et              b  
 
-  m   tariasi kaip žodžio   **m**es          m  
+  _m_  tariasi kaip žodžio   **m**es          m  
 
-  y   tariasi kaip žodžio   **j**i                  j  
+  _y_   tariasi kaip žodžio   **j**i                  j  
 
-  r   tariasi kaip žodžio   **r**ūta             r  
+  _r_   tariasi kaip žodžio   **r**ūta             r  
 
-  l   tariasi kaip žodžio   **l**ai                l  
+  _l_   tariasi kaip žodžio   **l**ai                l  
 
-  v   tariasi kaip žodžio   **v**os             v  
+  _v_   tariasi kaip žodžio   **v**os             v  
 
-  s   tariasi kaip žodžio   **s**au            s  
+  _s_   tariasi kaip žodžio   **s**au            s  
 
-  h   tariasi kaip žodžio   **ch**oras      ch  
+  _h_   tariasi kaip žodžio   **ch**oras      ch  
 
-  ḷ   tariasi kaip žodžio   ša**l**ta             l  
+  _ḷ_   tariasi kaip žodžio   ša**l**ta             l  
 
-  ṃ   tariasi kaip žodžio   a**ng**a         ng  
+  _ṃ_   tariasi kaip žodžio   a**ng**a         ng  
 
-Balsiai „e“ ir „o“ visuomet ilgi, išskyrus tuos atvėjus, kaip po jų eina dvigubas balsis, pvz. up**e**kkhā, adhim**o**kka.
+Balsiai „_e_“ ir „_o_“ visuomet ilgi, išskyrus tuos atvėjus, kaip po jų eina dvigubas balsis, pvz. up**e**kkhā, adhim**o**kka.
 
 Kiekvienos grupės penktas balsis vadinamas nosiniu.
 
-Dantiniai „t“ ir „d“ tariami liežuvio galiukui liečiant dantis.
+Dantiniai „_t_“ ir „_d_“ tariami liežuvio galiukui liečiant dantis.
 
-Retrofleksiniai „ṭ“ ir „ḍ“ tariami kaip atitinkami dantiniai, tik liežuvis remiasi ne į dantis, o į gomurį.
+Retrofleksiniai „_ṭ_“ ir „_ḍ_“ tariami kaip atitinkami dantiniai, tik liežuvis remiasi ne į dantis, o į gomurį.
 
-Aspiruotųjų „kh“, „gh“, „ch“, „jh“, „ṭh“, „ḍh“, „th“, „dh“, „ph“, „bh“ tarimas: pradinis priebalsis palydimas garsu „h“, kaip, pavyzdžiui, žodyse **č**ia, A**bch**azija.
+Aspiruotųjų „_kh_“, „_gh_“, „_ch_“, „_jh_“, „_ṭh_“, „_ḍh_“, „_th_“, „_dh_“, „_ph_“, „_bh_“ tarimas: pradinis priebalsis palydimas garsu „h“, kaip, pavyzdžiui, žodyse **č**ia, A**bch**azija.
