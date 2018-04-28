@@ -29,9 +29,9 @@ sąlygotas sąlyčio yra jausmas;
 
 sąlygotas jausmo yra troškimas;
 
-sąlygotas troškimo yra įsikibimas;
+sąlygotas troškimo yra prisirišimas;
 
-sąlygota įsikibimo yra būtis;
+sąlygota prisirišimo yra būtis;
 
 sąlygotas būties yra gimimas;
 
@@ -45,7 +45,7 @@ Ir kas yra gimimas? Bet kokių būtybių, bet kokioje būtybių klasėje gimimas
 
 Ir kas yra būtis? Vienuoliai, yra šios trys būtys: jausminė būtis, subtilios materijos būtis, būtis be materijos. Tai vadinama būtimi.
 
-Ir kas yra įsikibimas? Vienuoliai, yra šie keturi įsikibimai: įsikibimas į juslinius malonumus, įsikibimas į neteisingas pažiūras, įsikibimas į neteisingą ritualų ir įžadų paskirties supratimą, įsikibimas į tikėjimą į savastį \[sielą]. Tai vadinama įsikibimu.
+Ir kas yra prisirišimas? Vienuoliai, yra šie keturi prisirišimai: prisirišimas prie juslinių malonumų, prisirišimas prie neteisingų pažiūrų, prisirišimas prie neteisingo ritualų ir įžadų paskirties supratimo, prisirišimas prie tikėjimo į savastį \[sielą]. Tai vadinama prisirišimu.
 
 Ir kas yra troškimas? Vienuoliai, yra šios šešios troškimo grupės: formų troškimas, garsų troškimas, kvapų troškimas, skonių troškimas, troškimas apčiuopiamo, \[proto] reiškinių troškimas. Tai vadinama troškimu.
 
@@ -85,7 +85,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 **jātipaccayā jarāmaraṇaṃ** sąlygotas gimimo yra senėjimo, mirties, **sokaparidevadukkhadomanassupāyāsā sambhavanti.** liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.\
 **Evametassa kevalassa dukkhakkhandhassa samudayo hoti.** Tokiu būdu atsiranda visa ši kentėjimų daugybė. **Ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.** Tai vadinama sąlygotu atsiradimu.  
 
-**"Katamañca, bhikkhave,** Ir kas yra **jarāmaraṇaṃ?** senėjimas ir mirtis? **Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye** Bet kokių būtybių, esančių bet kokioje būtybių klasėje, **jarā jīraṇatā** senėjimas, senatvė, **khaṇḍiccaṃ pāliccaṃ** subyrėję dantys, žilumas, **valittacatā āyuno saṃhāni** susiraukšlėjimas, gyvybinių jėgų nykimas, **indriyānaṃ paripāko;** gebėjimų sumenkėjimas – **ayaṃ vuccati jarā.** tai vadinama senėjimu. **Yā tesaṃ \[3] tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā** Bet kokių būtybių išnykimas, pranykimas iš bet kokios būtybių klasės, **bhedo antaradhānaṃ** susiskaidymas, pradingimas, **maccu maraṇaṃ** giltinė, mirtis, **kālakiriyā** galo gavimas, **khandhānaṃ bhedo** komponentų susiskaidymas, **kaḷevarassa nikkhepo** griaučių numetimas, **[(jīvitindriyassa upacchedo) (syā. kaṃ.)** [(gyvybinės jėgos nutrūkimas) **\*\*evamuparipi, aṭṭhakathāyaṃ pana na dissati] **tai yra tekste, bet neaptinkama komentaruose]** idaṃ vuccati maraṇaṃ. **tai vadinama mirtimi. **Iti ayañca jarā, idañca maraṇaṃ. **Taigi tai yra senėjimas,  o tai yra mirtis. **Idaṃ vuccati, bhikkhave, jarāmaraṇaṃ.\*\*** Tai vadinama senėjimu ir mirtimi.
+**"Katamañca, bhikkhave,** Ir kas yra **jarāmaraṇaṃ?** senėjimas ir mirtis? **Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye** Bet kokių būtybių, esančių bet kokioje būtybių klasėje, **jarā jīraṇatā** senėjimas, senatvė, **khaṇḍiccaṃ pāliccaṃ** subyrėję dantys, žilumas, **valittacatā āyuno saṃhāni** susiraukšlėjimas, gyvybinių jėgų nykimas, **indriyānaṃ paripāko;** gebėjimų sumenkėjimas – **ayaṃ vuccati jarā.** tai vadinama senėjimu. **Yā tesaṃ \[3] tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā** Bet kokių būtybių išnykimas, pranykimas iš bet kokios būtybių klasės, **bhedo antaradhānaṃ** susiskaidymas, pradingimas, **maccu maraṇaṃ** giltinė, mirtis, **kālakiriyā** galo gavimas, **khandhānaṃ bhedo** komponentų susiskaidymas, **kaḷevarassa nikkhepo** griaučių numetimas, **[(jīvitindriyassa upacchedo) (syā. kaṃ.)** \[(gyvybinės jėgos nutrūkimas) \*\*\*\*evamuparipi, aṭṭhakathāyaṃ pana na dissati] **tai yra tekste, bet neaptinkama komentaruose]** idaṃ vuccati maraṇaṃ. **tai vadinama mirtimi. **Iti ayañca jarā, idañca maraṇaṃ. **Taigi tai yra senėjimas,  o tai yra mirtis. **Idaṃ vuccati, bhikkhave, jarāmaraṇaṃ.\*\*\*\* Tai vadinama senėjimu ir mirtimi.
 
 **"Katamā ca, bhikkhave, jāti?** Ir kas yra gimimas? **Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye** Bet kokių būtybių bet kokioje būtybių klasėje **jāti sañjāti** gimimas, gymis, **okkanti nibbatti abhinibbatti** pradėjimas, prigimimas, atgimimas, **khandhānaṃ pātubhāvo** sankaupų atsiradimas, **āyatanānaṃ paṭilābho.** \[jutimo] pagrindų įgijimas. **Ayaṃ vuccati, bhikkhave, jāti.** Tai vadinama gimimu.
 
