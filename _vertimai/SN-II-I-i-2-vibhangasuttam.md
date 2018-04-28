@@ -79,8 +79,8 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 **saḷāyatanapaccayā phasso;** sąlygotas šešių jutimo pagrindų yra sąlytis;\
 **phassapaccayā vedanā;** sąlygotas sąlyčio yra jausmas;\
 **vedanāpaccayā taṇhā;** sąlygotas jausmo yra troškimas;\
-**taṇhāpaccayā upādānaṃ;** sąlygotas troškimo yra įsikibimas;\
-**upādānapaccayā bhavo;** sąlygota įsikibimo yra būtis;\
+**taṇhāpaccayā upādānaṃ;** sąlygotas troškimo yra prisirišimas;\
+**upādānapaccayā bhavo;** sąlygota prisirišimo yra būtis;\
 **bhavapaccayā jāti;** sąlygotas būties yra gimimas;\
 **jātipaccayā jarāmaraṇaṃ** sąlygotas gimimo yra senėjimo, mirties, **sokaparidevadukkhadomanassupāyāsā sambhavanti.** liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.\
 **Evametassa kevalassa dukkhakkhandhassa samudayo hoti.** Tokiu būdu atsiranda visa ši kentėjimų daugybė. **Ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.** Tai vadinama sąlygotu atsiradimu.  
@@ -91,7 +91,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 **"Katamo ca, bhikkhave, bhavo?** Ir kas yra būtis? **Tayo me, bhikkhave, bhavā –** Vienuoliai, yra šios trys būtys: **kāmabhavo, rūpabhavo, arūpabhavo.** jausminė būtis, subtilios materijos būtis, būtis be materijos. **Ayaṃ vuccati, bhikkhave, bhavo.** Tai vadinama būtimi.
 
-**"Katamañca, bhikkhave, upādānaṃ?** Ir kas yra įsikibimas? **Cattārimāni, bhikkhave, upādānāni –** Vienuoliai, yra šie keturi įsikibimai: **kāmupādānaṃ**, įsikibimas į juslinius malonumus, **diṭṭhupādānaṃ**, įsikibimas į neteisingas pažiūras, **sīlabbatupādānaṃ,** įsikibimas į neteisingą ritualų ir įžadų paskirties supratimą, **attavādupādānaṃ.** įsikibimas į tikėjimą į savastį \[sielą]. **Ayaṃ vuccati, bhikkhave, upādānaṃ.** Tai vadinama įsikibimu.
+**"Katamañca, bhikkhave, upādānaṃ?** Ir kas yra prisirišimas? **Cattārimāni, bhikkhave, upādānāni –** Vienuoliai, yra šie keturi prisirišimai: **kāmupādānaṃ**, prisirišimas prie juslinių malonumų, **diṭṭhupādānaṃ**, prisirišimas prie neteisingų pažiūrų, **sīlabbatupādānaṃ,** prisirišimas prie neteisingo ritualų ir įžadų paskirties supratimo, **attavādupādānaṃ.** prisirišimas prie tikėjimo į savastį \[sielą]. **Ayaṃ vuccati, bhikkhave, upādānaṃ.** Tai vadinama prisirišimu.
 
 **"Katamā ca, bhikkhave, taṇhā?** Ir kas yra troškimas? **Chayime, bhikkhave, taṇhākāyā –** Vienuoliai, yra šios šešios troškimo grupės: **rūpataṇhā, saddataṇhā,** formų troškimas, garsų troškimas, **gandhataṇhā, rasataṇhā,** kvapų troškimas, skonių troškimas, **phoṭṭhabbataṇhā, dhammataṇhā.** troškimas apčiuopiamo, \[proto] reiškinių troškimas. **Ayaṃ vuccati, bhikkhave, taṇhā.** Tai vadinama troškimu.
 
