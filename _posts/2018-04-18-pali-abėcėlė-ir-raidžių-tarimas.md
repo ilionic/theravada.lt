@@ -3,30 +3,29 @@ layout: post
 title: Pali abėcėlė ir raidžių tarimas
 category: tipitaka
 ---
-
 Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
 
-8 balsiai (*sara*) a, ā, i, ī, u, ū, e, o.
+8 balsiai (_sara_): _a_, _ā_, _i_, _ī_, _u_, _ū_, _e_, _o_.
 
-33 priebalsiai (*vyañjana*)
+33 priebalsiai (_vyañjana_):
 
-  Velariniai            k, kh, g, gh, ṅ   ka grupė  
+  Velariniai            _k_, _kh_, _g_, _gh_, _ṅ_   – ka grupė  
 
-  Palataliniai         c, ch, j, jh, ñ      ca grupė  
+  Palataliniai         _c_, _ch_, _j_, _jh_, _ñ_      – ca grupė  
 
-  Retrofleksiniai   ṭ, ṭh, ḍ, ḍh, ṇ     ṭa grupė   
+  Retrofleksiniai   _ṭ_, _ṭh_, _ḍ_, _ḍh_, _ṇ_    – ṭa grupė   
 
-  Dantiniai             t, th, d, dh, n     ta grupė  
+  Dantiniai             _t_, _th_, _d_, _dh_, _n_      – ta grupė  
 
-  Lūpiniai               p, ph, b, bh, m  pa grupė  
+  Lūpiniai               _p_, _ph_, _b_, _bh_, _m_  – pa grupė  
 
-  *\Palatalinis               y  
+\*\Palatalinis               y  
 
-  *\Retrofleksinis         r  
+\*\Retrofleksinis         r  
 
-  *\Dantinis                   l  
+\*\Dantinis                   l  
 
-  *\Dantinis ir lūpinis   v  
+\*\Dantinis ir lūpinis   v  
 
   Dantinis                      s  
 
@@ -35,8 +34,8 @@ Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
   Retrofleksinis             ḷ  
 
   Niggahita                   ṃ 
- 
-*\Pusiau balsiai
+
+\*\Pusiau balsiai
 
 Pali kalba yra fonetinė ir kiekviena raidė turi jai būdingą garsą.
 
@@ -66,8 +65,7 @@ Pali kalba yra fonetinė ir kiekviena raidė turi jai būdingą garsą.
 
   c   tariasi kaip žodžio   **č**ekis          č  
 
-
-  j   tariasi kaip žodžio   **dž**iunglės   dž  
+  j   tariasi kaip žodžio   **dž**iunglės   dž\
   ñ   tariasi kaip žodžio   se**nj**oras   nj  
 
   ṭ   tariasi kaip žodžio   be**t**               t  
@@ -106,4 +104,4 @@ Dantiniai „t“ ir „d“ tariami liežuvio galiukui liečiant dantis.
 
 Retrofleksiniai „ṭ“ ir „ḍ“ tariami kaip atitinkami dantiniai, tik liežuvis remiasi ne į dantis, o į gomurį.
 
-Aspiruotųjų „kh“, „gh“, „ch“, „jh“, „ṭh“, „ḍh“, „th“, „dh“, „ph“, „bh“ tarimas: pradinis priebalsis palydimas garsu „h“, kaip, pavyzdžiui, žodyse **č**ia, A**bch**azija. 
+Aspiruotųjų „kh“, „gh“, „ch“, „jh“, „ṭh“, „ḍh“, „th“, „dh“, „ph“, „bh“ tarimas: pradinis priebalsis palydimas garsu „h“, kaip, pavyzdžiui, žodyse **č**ia, A**bch**azija.
