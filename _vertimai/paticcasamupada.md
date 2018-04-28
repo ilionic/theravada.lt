@@ -27,8 +27,8 @@ sąlygoti proto-materijos yra šeši jutimo pagrindai;
 sąlygotas šešių jutimo pagrindų yra sąlytis;
 sąlygotas sąlyčio yra jausmas;
 sąlygotas jausmo yra troškimas;
-sąlygotas troškimo yra įsikibimas;
-sąlygota įsikibimo yra būtis;
+sąlygotas troškimo yra prisirišimas;
+sąlygota prisirišimo yra būtis;
 sąlygotas būties yra gimimas;
 sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.
 Tokiu būdu atsiranda visa ši kentėjimų daugybė. Tai vadinama sąlygotu atsiradimu.
@@ -40,8 +40,8 @@ dėl proto-materijos išnykimo išnyksta šeši jutimo pagrindai;
 dėl šešių jutimo pagrindų išnykimo išnyksta sąlytis;
 dėl sąlyčio išnykimo išnyksta jausmas;
 dėl jausmo išnykimo išnyksta troškimas;
-dėl troškimo išnykimo išnyksta įsikibimas;
-dėl įsikibimo išnykimo išnyksta būtis;
+dėl troškimo išnykimo išnyksta prisirišimas;
+dėl prisirišimo išnykimo išnyksta būtis;
 dėl būties išnykimo išnyksta gimimas;
 dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas.
 Tokiu būdu išnyksta visa ši kentėjimų daugybė. Tai pasakė Palaimintasis. Pamaloninti vienuoliai džiaugėsi Palaimintojo kalba.
@@ -58,8 +58,8 @@ Tokiu būdu išnyksta visa ši kentėjimų daugybė. Tai pasakė Palaimintasis. 
 **saḷāyatanapaccayā phasso;** sąlygotas šešių jutimo pagrindų yra sąlytis;\
 **phassapaccayā vedanā;** sąlygotas sąlyčio yra jausmas;\
 **vedanāpaccayā taṇhā;** sąlygotas jausmo yra troškimas;\
-**taṇhāpaccayā upādānaṃ;** sąlygotas troškimo yra įsikibimas;\
-**upādānapaccayā bhavo;** sąlygota įsikibimo yra būtis;\
+**taṇhāpaccayā upādānaṃ;** sąlygotas troškimo yra prisirišimas;\
+**upādānapaccayā bhavo;** sąlygota prisirišimo yra būtis;\
 **bhavapaccayā jāti;** sąlygotas būties yra gimimas;\
 **jātipaccayā jarāmaraṇaṃ** sąlygotas gimimo yra senėjimo, mirties, **sokaparidevadukkhadomanassupāyāsā sambhavanti.** liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.\
 **Evametassa kevalassa dukkhakkhandhassa samudayo hoti.** Tokiu būdu atsiranda visa ši kentėjimų daugybė. **Ayaṃ vuccati, bhikkhave, paṭiccasamuppādo.** Tai vadinama sąlygotu atsiradimu.
@@ -71,8 +71,8 @@ Tokiu būdu išnyksta visa ši kentėjimų daugybė. Tai pasakė Palaimintasis. 
 **saḷāyatananirodhā phassanirodho;** dėl šešių jutimo pagrindų išnykimo išnyksta sąlytis;\
 **phassanirodhā vedanānirodho;** dėl sąlyčio išnykimo išnyksta jausmas;\
 **vedanānirodhā taṇhānirodho;** dėl jausmo išnykimo išnyksta troškimas;\
-**taṇhānirodhā upādānanirodho;** dėl troškimo išnykimo išnyksta įsikibimas;\
-**upādānanirodhā bhavanirodho;** dėl įsikibimo išnykimo išnyksta būtis;\
+**taṇhānirodhā upādānanirodho;** dėl troškimo išnykimo išnyksta prisirišimas;\
+**upādānanirodhā bhavanirodho;** dėl prisirišimo išnykimo išnyksta būtis;\
 **bhavanirodhā jātinirodho;** dėl būties išnykimo išnyksta gimimas;\
 **jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā nirujjhanti.** dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas.\
 **Evametassa kevalassa dukkhakkhandhassa nirodho hotī"ti.** Tokiu būdu išnyksta visa ši kentėjimų daugybė.   **Idamavoca bhagavā.** Tai pasakė Palaimintasis. **Attamanā te bhikkhū** Pamaloninti vienuoliai **bhagavato bhāsitaṃ abhinandunti.** džiaugėsi Palaimintojo kalba.
