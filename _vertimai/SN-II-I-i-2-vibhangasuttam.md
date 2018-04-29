@@ -49,7 +49,7 @@ Ir kas yra prisirišimas? Vienuoliai, yra šie keturi prisirišimai: prisirišim
 
 Ir kas yra troškimas? Vienuoliai, yra šios šešios troškimo grupės: formų troškimas, garsų troškimas, kvapų troškimas, skonių troškimas, troškimas apčiuopiamo, \[proto] reiškinių troškimas. Tai vadinama troškimu.
 
-Ir kas yra jausmas? Vienuoliai, yra šios šešios jausmų grupės: jausmas gimęs iš sąlyčio su akimi, jausmas gimęs iš sąlyčio su ausimi, jausmas gimęs iš sąlyčio su nosimi, jausmas gimęs iš sąlyčio su liežuviu, jausmas gimęs iš sąlyčio su kūnu, jausmas gimęs iš sąlyčio su protu. Tai vadinama jausmu.
+Ir kas yra jausmas? Vienuoliai, yra šios šešios jausmų grupės: jausmas, gimęs iš sąlyčio su akimi, jausmas, gimęs iš sąlyčio su ausimi, jausmas, gimęs iš sąlyčio su nosimi, jausmas, gimęs iš sąlyčio su liežuviu, jausmas, gimęs iš sąlyčio su kūnu, jausmas, gimęs iš sąlyčio su protu. Tai vadinama jausmu.
 
 Ir kas yra sąlytis? Vienuoliai, yra šios šešios sąlyčio grupės: akies sąlytis, ausies sąlytis, nosies sąlytis, liežuvio sąlytis, kūno sąlytis, proto sąlytis. Tai vadinama sąlyčiu.
 
@@ -95,7 +95,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 **"Katamā ca, bhikkhave, taṇhā?** Ir kas yra troškimas? **Chayime, bhikkhave, taṇhākāyā –** Vienuoliai, yra šios šešios troškimo grupės: **rūpataṇhā, saddataṇhā,** formų troškimas, garsų troškimas, **gandhataṇhā, rasataṇhā,** kvapų troškimas, skonių troškimas, **phoṭṭhabbataṇhā, dhammataṇhā.** troškimas apčiuopiamo, \[proto] reiškinių troškimas. **Ayaṃ vuccati, bhikkhave, taṇhā.** Tai vadinama troškimu.
 
-**"Katamā ca, bhikkhave, vedanā?** Ir kas yra jausmas? **Chayime, bhikkhave, vedanākāyā –** Vienuoliai, yra šios šešios jausmų grupės: **cakkhusamphassajā vedanā,** jausmas gimęs iš sąlyčio su akimi, **sotasamphassajā vedanā,** jausmas gimęs iš sąlyčio su ausimi, **ghānasamphassajā vedanā,** jausmas gimęs iš sąlyčio su nosimi, **jivhāsamphassajā vedanā,** jausmas gimęs iš sąlyčio su liežuviu, **kāyasamphassajā vedanā,** jausmas gimęs iš sąlyčio su kūnu, **manosamphassajā vedanā.** jausmas gimęs iš sąlyčio su protu. **Ayaṃ vuccati, bhikkhave, vedanā.** Tai vadinama jausmu.
+**"Katamā ca, bhikkhave, vedanā?** Ir kas yra jausmas? **Chayime, bhikkhave, vedanākāyā –** Vienuoliai, yra šios šešios jausmų grupės: **cakkhusamphassajā vedanā,** jausmas, gimęs iš sąlyčio su akimi, **sotasamphassajā vedanā,** jausmas, gimęs iš sąlyčio su ausimi, **ghānasamphassajā vedanā,** jausmas, gimęs iš sąlyčio su nosimi, **jivhāsamphassajā vedanā,** jausmas, gimęs iš sąlyčio su liežuviu, **kāyasamphassajā vedanā,** jausmas, gimęs iš sąlyčio su kūnu, **manosamphassajā vedanā.** jausmas, gimęs iš sąlyčio su protu. **Ayaṃ vuccati, bhikkhave, vedanā.** Tai vadinama jausmu.
 
 **"Katamo ca, bhikkhave, phasso?** Ir kas yra sąlytis? **Chayime, bhikkhave, phassakāyā –** Vienuoliai, yra šios šešios sąlyčio grupės: **cakkhusamphasso, sotasamphasso,** akies sąlytis, ausies sąlytis, **ghānasamphasso, jivhāsamphasso,** nosies sąlytis, liežuvio sąlytis, **kāyasamphasso, manosamphasso.** kūno sąlytis, proto sąlytis. **Ayaṃ vuccati, bhikkhave, phasso.** Tai vadinama sąlyčiu.
 
