@@ -15,7 +15,7 @@ Vieną kartą Palaimintasis buvo apsistojęs Varanasyje Išminčių vietovėje E
 
 Palaimintasis štai ką pasakė:
 
-– Materija, vienuoliai, yra ne-savastis. Nes jeigu materija būtų savastimi, ji nevestų prie ligų, ir panorėjus: „lai mano materija būna tokia, o šitokia lai mano materija nebūna“, iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad materija yra ne-savastis, ji veda prie ligų, ir panorėjus: „lai mano materija būna tokia, o šitokia lai mano materija nebūna“, iš jos negalima to gauti.
+– Materija, vienuoliai, yra ne-savastis. Nes jeigu materija būtų savastimi, ji nevestų prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad materija yra ne-savastis, ji veda prie ligų, ir panorėjus: "lai mano materija būna tokia, o šitokia lai mano materija nebūna", iš jos negalima to gauti.
 
 Jausmas yra ne-savastis...
 
@@ -23,7 +23,7 @@ Suvokimas yra ne-savastis...
 
 Proto dariniai yra ne-savastis...
 
-Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši sąmonė nevestų prie ligų, ir panorėjus: „lai mano sąmonė būna tokia, o šitokia lai mano sąmonė nebūna“, iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad sąmonė yra ne-savastis, sąmonė veda prie ligų, ir panorėjus: „lai mano sąmonė būna tokia, o šitokia lai mano sąmonė nebūna“, iš jos negalima to gauti.
+Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši sąmonė nevestų prie ligų, ir panorėjus: "lai mano sąmonė būna tokia, o šitokia lai mano sąmonė nebūna", iš jos galima būtų tai gauti. Bet dėl to gi, vienuoliai, kad sąmonė yra ne-savastis, sąmonė veda prie ligų, ir panorėjus: "lai mano sąmonė būna tokia, o šitokia lai mano sąmonė nebūna", iš jos negalima to gauti.
 
 – Kaip jūs manote, vienuoliai, materija pastovi ar nepastovi?
 
@@ -33,7 +33,7 @@ Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši 
 
 – Kančia, Gerbiamasis.
 
-— O ar išmanu į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, žiūrėti taip, „tai yra mano, tai esu aš, tai manasis „aš“?“
+— O ar išmanu į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, žiūrėti taip, "tai yra mano, tai esu aš, tai manasis „aš“?"
 
 – Tikrai ne, Gerbiamasis.
 
@@ -57,11 +57,11 @@ Sąmonė yra ne-savastis. Nes jeigu sąmonė, vienuoliai, būtų savastimi, ši 
 
 – Kančia, Gerbiamasis.
 
-– O ar išmanu žiūrėti į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, taip, „tai yra mano, tai esu aš, tai manasis „aš“?“
+– O ar išmanu žiūrėti į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, taip, "tai yra mano, tai esu aš, tai manasis „aš“?"
 
 – Tikrai ne, Gerbiamasis.
 
-– Todėl, vienuoliai, bet kokia materija: ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti – visa materija, „nėra mano, nėra „aš“, nėra manasis „aš““. Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
+– Todėl, vienuoliai, bet kokia materija: ar tai praeityje, dabar, ar ateityje, ar vidinė, ar išorinė, ar akivaizdi, ar subtili, ar žemesnė, ar viršesnė, ar toli, ar arti – visa materija, "nėra mano, nėra „aš“, nėra manasis „aš“". Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
 
 Bet koks jausmas...
 
@@ -87,7 +87,7 @@ Tai pasakė Palaimintasis. Pamalonintas vienuolių penketukas džiaugėsi Palaim
 
 "**Viññāṇaṃ anattā.** Sąmonė yra ne-savastis. **Viññāṇañca hidaṃ, bhikkhave, attā abhavissa** Nes jeigu sąmonė, vienuoliai, būtų savastimi, **nayidaṃ** **viññāṇaṃ ābādhāya saṃvatteyya** ši sąmonė nevestų prie ligų, **labbhetha ca viññāṇe –** ir iš sąmonės galima būtų gauti: ‘**evaṃ me viññāṇaṃ hotu** “lai mano sąmonė būna tokia, **evaṃ me viññāṇaṃ mā ahosī’ti** o šitokia lai mano sąmonė nebūna." **Yasmā ca kho, bhikkhave, viññāṇaṃ anattā** Bet dėl to gi, vienuoliai, kad sąmonė yra ne-savastis, **tasmā viññāṇaṃ ābādhāya saṃvattati** sąmonė veda prie ligų, **na ca labbhati viññāṇe –** ir iš sąmonės negalima gauti: ‘**evaṃ me viññāṇaṃ hotu** “lai mano sąmonė būna tokia, **evaṃ me viññāṇaṃ mā ahosī’ti** o šitokia lai mano sąmonė nebūna.”
 
-"**Taṃ kiṃ maññatha, bhikkhave** – Kaip jūs manote, vienuoliai, **rūpaṃ niccaṃ vā aniccaṃ vā"ti** materija pastovi ar nepastovi? **“Aniccaṃ, bhante** – Nepastovi, gerbiamasis. **“Yaṃ panāniccaṃ** – O tai, kas nepastovu, **dukkhaṃ vā taṃ sukhaṃ vā”ti** yra kančia ar malonumas? **“Dukkhaṃ, bhante** – Kančia, Gerbiamasis. **“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ** O į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, **kallaṃ nu taṃ samanupassituṃ –** ar išmanu žiūrėti kaip: **'etaṃ mama** “tai yra mano, **esohamasmi** tai esu aš, **eso me attā’”ti** tai manasis „aš“? “**No hetaṃ, bhante** – Tikrai ne, Gerbiamasis. **“Vedanā** – Jausmas… **saññā** – Suvokimas… **saṅkhārā** – Proto dariniai… **viññāṇaṃ** – Sąmonė **niccaṃ vā aniccaṃ vā”ti?** pastovi ar nepastovi? **“Aniccaṃ, bhante** – Nepastovi, gerbiamasis. **“Yaṃ panāniccaṃ** – O tai, kas nepastovu, **dukkhaṃ vā taṃ sukhaṃ vā”ti** yra kančia ar malonumas? **“Dukkhaṃ \[68], bhante** – Kančia , Gerbiamasis. **“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ** – O į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, **kallaṃ nu taṃ samanupassituṃ –** ar išmanu žiūrėti kaip: **‘etaṃ mama** “tai yra mano, **esohamasmi** tai esu aš, **eso me attā’”ti** tai manasis „aš“? **“No hetaṃ, bhante.** – Tikrai ne, Gerbiamasis.
+"**Taṃ kiṃ maññatha, bhikkhave** – Kaip jūs manote, vienuoliai, **rūpaṃ niccaṃ vā aniccaṃ vā"ti** materija pastovi ar nepastovi? **“Aniccaṃ, bhante** – Nepastovi, gerbiamasis. **“Yaṃ panāniccaṃ** – O tai, kas nepastovu, **dukkhaṃ vā taṃ sukhaṃ vā”ti** yra kančia ar malonumas? **“Dukkhaṃ, bhante** – Kančia, Gerbiamasis. **“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ** O į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, **kallaṃ nu taṃ samanupassituṃ –** ar išmanu žiūrėti kaip: **'etaṃ mama** “tai yra mano, **esohamasmi** tai esu „aš“, **eso me attā’”ti** tai manasis „aš“? “**No hetaṃ, bhante** – Tikrai ne, Gerbiamasis. **“Vedanā** – Jausmas… **saññā** – Suvokimas… **saṅkhārā** – Proto dariniai… **viññāṇaṃ** – Sąmonė **niccaṃ vā aniccaṃ vā”ti?** pastovi ar nepastovi? **“Aniccaṃ, bhante** – Nepastovi, gerbiamasis. **“Yaṃ panāniccaṃ** – O tai, kas nepastovu, **dukkhaṃ vā taṃ sukhaṃ vā”ti** yra kančia ar malonumas? **“Dukkhaṃ \[68], bhante** – Kančia , Gerbiamasis. **“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ** – O į tai, kas yra nepastovu, kančia ir turi prigimtį keistis, **kallaṃ nu taṃ samanupassituṃ –** ar išmanu žiūrėti kaip: **‘etaṃ mama** “tai yra mano, **esohamasmi** tai esu „aš“, **eso me attā’”ti** tai manasis „aš“? **“No hetaṃ, bhante.** – Tikrai ne, Gerbiamasis.
 
 **"Tasmātiha, bhikkhave,** Todėl, vienuoliai, **yaṃ kiñci rūpaṃ** bet kokia materija: **atītānāgatapaccuppannaṃ** ar tai praeityje, dabar, ar ateityje, **ajjhattaṃ vā bahiddhā vā** ar vidinė, ar išorinė, **oḷārikaṃ vā sukhumaṃ vā** ar akivaizdi, ar subtili, **hīnaṃ vā paṇītaṃ vā** ar žemesnė, ar viršesnė, **yaṃ dūre santike vā** ar toli, ar arti – **sabbaṃ rūpaṃ –** visa materija: ‘**netaṃ mama** “nėra mano, **nesohamasmi** nėra „aš“, **na meso attā’ti** nėra manasis „aš“". **evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ** Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra. **Yā kāci vedanā** Bet koks jausmas: **atītānāgatapaccuppannā** ar tai praeityje, dabar, ar ateityje, **ajjhattā vā bahiddhā vā** ar vidinis, ar išorinis...…**pe**… **yā dūre santike vā** ar toli, ar arti, **sabbā vedanā –** visas jausmas: ‘**netaṃ mama** “nėra mano, **nesohamasmi** nėra „aš“, **na meso attā’ti** nėra manasis „aš“”. **evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ** Tas su teisinga išmintimi turi būti pamatyta taip, kaip tai iš tiesų yra.
 
