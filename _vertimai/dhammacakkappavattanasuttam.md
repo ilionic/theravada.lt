@@ -9,11 +9,11 @@ tags:
 ---
 Vieną kartą Palaimintasis gyveno Varanasyje Išminčių vietovėje Elnių parke. Tada gi Palaimintasis kreipėsi į vienuolių penketuką:
 
-–Vienuoliai, atsisakęs pasaulietinio gyvenimo neturėtų praktikuoti šių dviejų kraštutinumų. Kokių dviejų? Pasišventimo jusliniams malonumams: tai yra žema, nepadoru, pasaulietiška, nekilminga ir nenaudinga; bei pasišventimo savęs kankinimui: tai yra skausminga, nekilminga, nenaudinga. Šių gi, vienuoliai, dviejų kraštutinumų išvengęs, Tathagata suvokė vidurio kelią, kuris atvėrė akis, suteikė žinojimą, atvedė prie ramybės, tiesioginio pažinimo, tobulo atbudimo, Nirvanos.
+– Vienuoliai, atsisakęs pasaulietinio gyvenimo neturėtų praktikuoti šių dviejų kraštutinumų. Kokių dviejų? Pasišventimo jusliniams malonumams: tai yra žema, nepadoru, pasaulietiška, nekilminga ir nenaudinga; bei pasišventimo savęs kankinimui: tai yra skausminga, nekilminga, nenaudinga. Šių gi, vienuoliai, dviejų kraštutinumų išvengęs, Tathagata suvokė vidurio kelią, kuris atvėrė akis, suteikė žinojimą, atvedė prie ramybės, tiesioginio pažinimo, tobulo atbudimo, Nirvanos.
 
-Ir kas tai, vienuoliai, per Tathagatos suvoktas vidurinis kelias, kuris atvėrė akis, suteikė žinojimą, atvedė prie ramybės, tiesioginio pažinimo, tobulo atbudimo, Nirvanos? Tai taurusis aštuonialypis kelias, t. y.: teisingas požiūris, teisingas ketinimas, teisinga kalba, teisingas veiksmas, teisingas pragyvenimo šaltinis, teisinga pastanga, teisingas atidumas ir teisingas susitelkimas. Štai toks tas Tathagatos suvoktas vidurinis kelias, kuris atvėrė akis... tobulo atbudimo, Nirvanos.
+Ir kas tai, vienuoliai, per Tathagatos suvoktas vidurinis kelias, kuris atvėrė akis, suteikė žinojimą, atvedė prie ramybės, tiesioginio pažinimo, tobulo atbudimo, Nirvanos? Tai Taurusis aštuonialypis kelias, t. y.: teisingas požiūris, teisingas ketinimas, teisinga kalba, teisingas veiksmas, teisingas pragyvenimo šaltinis, teisinga pastanga, teisingas atidumas ir teisingas susitelkimas. Štai toks tas Tathagatos suvoktas vidurinis kelias, kuris atvėrė akis... tobulo atbudimo, Nirvanos.
 
-O gi, vienuoliai, štai kentėjimo taurioji tiesa: gimimas yra kentėjimas, senėjimas yra kentėjimas, ligos yra kentėjimas, mirtis yra kentėjimas, susidūrimas su tuo kas nemiela yra kentėjimas, išsiskyrimas su tuo kas miela yra kentėjimas, negavimas to ko norisi irgi yra kentėjimas; trumpiau: penkios sankaupos, paveiktos prisirišimo, yra kentėjimas. O gi, vienuoliai, štai kentėjimo priežasties taurioji tiesa: tai yra tas troškimas, kuris veda į pakartotiną būtį, susijęs su džiugesiu ir geismu, siekiantis džūgesio tai šian, tai ten－tai yra juslinių malonumų troškimas, būties troškimas, nebūties troškimas. O gi, vienuoliai, štai kentėjimo išnykimo taurioji tiesa: tai yra to troškimo visiškas nusilpimas ir išnykimas, atmetimas, atsisakymas, išsilavinimas \[nuo jo], \[jo] nepriėmimas. O gi, vienuoliai, štai kelio, vedančio į kentėjimo išnykimą taurioji tiesa: tai taurusis aštuonialypis kelias, tai yra: teisingas požiūris...teisingas susitelkimas.
+O gi, vienuoliai, štai kentėjimo taurioji tiesa: gimimas yra kentėjimas, senėjimas yra kentėjimas, ligos yra kentėjimas, mirtis yra kentėjimas, susidūrimas su tuo, kas nemiela, yra kentėjimas, išsiskyrimas su tuo, kas miela, yra kentėjimas, negavimas to, ko norisi, irgi yra kentėjimas; trumpiau: penkios sankaupos, paveiktos prisirišimo, yra kentėjimas. O gi, vienuoliai, štai kentėjimo priežasties taurioji tiesa: tai yra tas troškimas, kuris veda į pakartotiną būtį, susijęs su džiugesiu ir geismu, siekiantis džiugesio tai šian, tai ten － tai yra juslinių malonumų troškimas, būties troškimas, nebūties troškimas. O gi, vienuoliai, štai kentėjimo išnykimo taurioji tiesa: tai yra to troškimo visiškas nusilpimas ir išnykimas, atmetimas, atsisakymas, išsilavinimas \[nuo jo], \[jo] nepriėmimas. O gi, vienuoliai, štai kelio, vedančio į kentėjimo išnykimą, taurioji tiesa: tai Taurusis aštuonialypis kelias, tai yra: teisingas požiūris...teisingas susitelkimas.
 
 Vienuoliai, apie ankščiau negirdėtus dalykus manyje atsirado toks matymas, supratimas, išmintis, žinojimas ir šviesa: "Tai yra kentėjimo taurioji tiesa." Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kentėjimo taurioji tiesa turi būti visiškai suprasta.” Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kentėjimo taurioji tiesa yra visiškai suprasta.”
 
@@ -21,11 +21,11 @@ Vienuoliai, apie ankščiau negirdėtus... ir šviesa: "Tai yra kentėjimo prie�
 
 Vienuoliai, apie ankščiau negirdėtus... ir šviesa: "Tai yra kentėjimo išnykimo taurioji tiesa." Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kentėjimo išnykimo taurioji tiesa turi būti pažinta.” Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kentėjimo išnykimo taurioji tiesa yra pažinta.”
 
-Vienuoliai, apie ankščiau negirdėtus... ir šviesa: "Tai yra kelio, vedančio į kentėjimo išnykimą taurioji tiesa." Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kelio, vedančio į kentėjimo išnykimą taurioji tiesa turi būti išvystyta.” Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kelio, vedančio į kentėjimo išnykimą taurioji tiesa yra išvystyta.”
+Vienuoliai, apie ankščiau negirdėtus... ir šviesa: "Tai yra kelio, vedančio į kentėjimo išnykimą, taurioji tiesa." Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kelio, vedančio į kentėjimo išnykimą, taurioji tiesa turi būti išvystyta.” Vienuoliai, apie ankščiau negirdėtus... ir šviesa: “Ta gi kelio, vedančio į kentėjimo išnykimą, taurioji tiesa yra išvystyta.”
 
-Ir iki tol, vienuoliai, kol mano žinojimas ir matymas šių keturių tauriųjų tiesų tokių kokios jos yra iš tikrųjų šiais trimis metodais, dvylika būdų, nebuvo visiškai išgrynintas, aš nesiskelbiau pasauliui su jo dievybėmis, su Mara, Brahma, su atsiskyrėlių ir brahmanų karta, su jo valdovais ir \[jų] žmonėmis pasiekęs neprilygstamo tobulo atbudimo.
+Ir iki tol, vienuoliai, kol mano žinojimas ir matymas šių keturių tauriųjų tiesų tokių, kokios jos yra iš tikrųjų, šiais trimis metodais, dvylika būdų, nebuvo visiškai išgrynintas, aš nesiskelbiau pasauliui su jo dievybėmis, su Mara, Brahma, su atsiskyrėlių ir brahmanų karta, su jo valdovais ir \[jų] žmonėmis pasiekęs neprilygstamo tobulo atbudimo.
 
-Ir tik tada, vienuoliai, kai mano žinojimas ir matymas šių keturių tauriųjų tiesų tokių kokios jos yra iš tikrųjų šiais trimis metodais, dvylika būdų, buvo visiškai išgrynintas, aš paskelbiau pasauliui su jo dievybėmis, su Mara, Brahma, su atsiskyrėlių ir brahmanų karta, su jo valdovais ir \[jų] žmonėmis pasiekęs neprilygstamo tobulo atbudimo. Atsirado manyje žinojimas ir matymas: "Įtvirtintas mano išsilaisvinimas, šis gimimas yra paskutinis, nuo šiol nebebus besikartojančios būties."
+Ir tik tada, vienuoliai, kai mano žinojimas ir matymas šių keturių tauriųjų tiesų tokių, kokios jos yra iš tikrųjų, šiais trimis metodais, dvylika būdų, buvo visiškai išgrynintas, aš paskelbiau pasauliui su jo dievybėmis, su Mara, Brahma, su atsiskyrėlių ir brahmanų karta, su jo valdovais ir \[jų] žmonėmis pasiekęs neprilygstamo tobulo atbudimo. Atsirado manyje žinojimas ir matymas: "Įtvirtintas mano išsilaisvinimas, šis gimimas yra paskutinis, nuo šiol nebebus besikartojančios būties."
 
 Tai pasakė Palaimintasis. Pamalonintas vienuolių penketukas džiaugėsi Palaimintojo kalba.
 
@@ -33,21 +33,21 @@ Bet tuo pat metu, kai buvo duodamas šis išaiškinimas, išdėstymas, gerbiamaj
 
 Ir Palaimintajam pasukus Dharmos ratą žemės dievybės sušuko:
 
-–Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
+– Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą, kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
 
 Išgirdę žemės dievybių šauksmą Keturių didžiųjų karalių pasaulio dievybės sušuko:
 
-–Varanasyje Išminčių vietovėje Elnių parke Palaimintasis... nei dar kas nors pasaulyje.
+– Varanasyje Išminčių vietovėje Elnių parke Palaimintasis... nei dar kas nors pasaulyje.
 
 Išgirdę Keturių didžiųjų karalių pasaulio dievybių šauksmą Trisdešimt trijų pasaulio dievybės... Yama pasaulio dievybės...Pasitenkinimo pasaulio dievybės...Kūrimo džiaugsmo pasaulio dievybės... Džiaugsmo kitų kūriniais pasaulio dievybės... Brahmų grupės dievybės sušuko:
 
-–Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
+– Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą, kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
 
-Tada gi, tuo pačiu momentu, tą pačią sekundę, tą pačią akimirką šauksmas nukeliavo iki brahmų pasaulio. Ir ši dešimties tūkstančių pasaulių sistema sudribo, sudrebėjo, stipriai suvirpėjo, ir buvo matoma pasaulyje begalinė nuostabi šviesa pranokstanti dievybių dievišką didingumą.
+Tada gi, tuo pačiu momentu, tą pačią sekundę, tą pačią akimirką šauksmas nukeliavo iki brahmų pasaulio. Ir ši dešimties tūkstančių pasaulių sistema sudribo, sudrebėjo, stipriai suvirpėjo, ir buvo matoma pasaulyje begalinė nuostabi šviesa, pranokstanti dievybių dievišką didingumą.
 
 Ir tada gi Palaimintasis ištarė šiuos iškilmingus žodžius:
 
-–Kondanja tikrai suprato, Kondanja tikrai suprato!
+– Kondanja tikrai suprato, Kondanja tikrai suprato!
 
 Ir dėl to gerbiamąjį Kondanją pradėjo vadinti Anjasikondanja.
 
