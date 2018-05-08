@@ -1,15 +1,11 @@
 ---
 layout: page
-title: 'Mama, (Mātusuttaṃ, SN II.IV.ii.4)'
-tags:
-  - M
+title: 'Mama (Mātusuttaṃ, SN II.IV.ii.4)'
+category: suristos suttos
 index: M
 sortIndex: 2424
-comments: false
-category: suristos suttos
-image:
-  feature: abstract-2.jpg
-published: true
+tags:
+  - M
 ---
 
 Buvo apsistojęs Savathėje...
