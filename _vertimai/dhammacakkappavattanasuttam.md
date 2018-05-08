@@ -35,11 +35,11 @@ Ir Palaimintajam pasukus Dharmos ratą žemės dievybės sušuko:
 
 –Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
 
-Išgirdę žemės dievybių šauksmą Keturių didžiųjų karalių sferos dievybės sušuko:
+Išgirdę žemės dievybių šauksmą Keturių didžiųjų karalių pasaulio dievybės sušuko:
 
 –Varanasyje Išminčių vietovėje Elnių parke Palaimintasis... nei dar kas nors pasaulyje.
 
-Išgirdę Keturių didžiųjų karalių sferos dievybių šauksmą Trisdešimt trijų sferos dievybės... Yama sferos dievybės...Pasitenkinimo sferos dievybės...Kūrimo džiaugsmo sferos dievybės... Džiaugsmo kitų kūriniais sferos dievybės... Brahmų grupės dievybės sušuko:
+Išgirdę Keturių didžiųjų karalių pasaulio dievybių šauksmą Trisdešimt trijų pasaulio dievybės... Yama pasaulio dievybės...Pasitenkinimo pasaulio dievybės...Kūrimo džiaugsmo pasaulio dievybės... Džiaugsmo kitų kūriniais pasaulio dievybės... Brahmų grupės dievybės sušuko:
 
 –Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
 
@@ -49,7 +49,7 @@ Ir tada gi Palaimintasis ištarė šiuos iškilmingus žodžius:
 
 –Kondanja tikrai suprato, Kondanja tikrai suprato!
 
-Ir dėl to gerbiamojo Kondanjos vardu tapo Anjasikondanja.
+Ir dėl to gerbiamąjį Kondanją pradėjo vadinti Anjasikondanja.
 
 ### Dhammacakkappavattanasuttaṃ (Dharmos rato pasukimas, SN V.XXII.ii.1)
 
@@ -77,4 +77,4 @@ Ir dėl to gerbiamojo Kondanjos vardu tapo Anjasikondanja.
 
 **Itiha tena khaṇena** Tada gi, tuo pačiu momentu, (**tena layena** tą pačią sekundę) **\[( ) natthi (sī. syā. kaṃ.)] tena muhuttena** tą pačią akimirką **yāva brahmalokā saddo abbhuggacchi** šauksmas nukeliavo iki brahmų pasaulio. **Ayañca dasasahassilokadhātu** Ir ši dešimties tūkstančių pasaulių sistema **saṅkampi** sudribo, **sampakampi** sudrebėjo, **sampavedhi** stipriai suvirpėjo, **appamāṇo ca uḷāro obhāso loke pāturahosi,** ir buvo matoma pasaulyje begalinė nuostabi šviesa **atikkamma devānaṃ devānubhāvanti** pranokstanti dievybių dievišką didingumą.
 
-**Atha kho bhagavā** Ir tada gi Palaimintasis **imaṃ udānaṃ udānesi –** ištarė šiuos iškilmingus žodžius: **"aññāsi vata, bho, koṇḍañño** “Kondanja tikrai suprato, **aññāsi vata, bho, koṇḍañño"ti** Kondanja tikrai suprato!” **Iti hidaṃ āyasmato koṇḍaññassa** Ir dėl to gerbiamojo Kondanjos **‘aññāsikoṇḍañño’ tveva nāmaṃ ahosīti** vardu tapo Anjasikondanjas.
+**Atha kho bhagavā** Ir tada gi Palaimintasis **imaṃ udānaṃ udānesi –** ištarė šiuos iškilmingus žodžius: **"aññāsi vata, bho, koṇḍañño** “Kondanja tikrai suprato, **aññāsi vata, bho, koṇḍañño"ti** Kondanja tikrai suprato!” **Iti hidaṃ āyasmato koṇḍaññassa** Ir dėl to gerbiamąjį Kondanją **‘aññāsikoṇḍañño’ tveva nāmaṃ ahosīti** pradėjo vadinti Anjasikondanja.
