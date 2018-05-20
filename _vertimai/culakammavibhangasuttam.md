@@ -25,9 +25,9 @@ Vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džėtos girioje, Anath
 
 Bet štai, jaunuoli, kažkokia moteris ar vyras, atsisakęs žudymo, susilaiko nuo žudymo, atidėjęs lazdą, atidėjęs ginklus yra kuklus, gailiaširdis, gyvena su gailesčiu visoms gyvoms būtybėms. Jis dėl to elgimos, dėl to, kad tai atliko, dėl to, kad to apsiėmė, po kūno žūties, po mirties atgimsta geroje vietoje, dangaus karalystėje. O jei po kūno žūties, po mirties jis neatgimsta geroje vietoje, dangaus karalystėje, jei jis sugrįžta kaip žmogiška būtybė, tuomet kur jis beatgimtų, jis yra ilgaamžis. Jaunuoli, atsisakius žudymo susilaikyti nuo žudymo, atidėjus lazdą, atidėjus ginklus būti kukliu, gailiaširdžiu, gyventi su gailesčiu visoms gyvoms būtybėms yra kelias, vedantis į ilgaamžiškumą.
 
-Štai, jaunuoli, kažkokia moteris ar vyras ar tai rankomims, akmenimis, pagaliais ar ginklais puldinėja kitas būtybes. Jis dėl to elgimos... jei jis sugrįžta kaip žmogiška būtybė, tuomet kur jis beatgimtų, jis yra linkęs sirgti. Jaunuoli, puldinėti kitas būtybes ar tai rankomims, akmenimis, pagaliais ar ginklais yra kelias, vedantis į polinkį sirgti.
+Štai, jaunuoli, kažkokia moteris ar vyras – rankomims, akmenimis, pagaliais ar ginklais puldinėja kitas būtybes. Jis dėl to elgimos... jei jis sugrįžta kaip žmogiška būtybė, tuomet kur jis beatgimtų, jis yra linkęs sirgti. Jaunuoli, puldinėti kitas būtybes – rankomims, akmenimis, pagaliais ar ginklais yra kelias, vedantis į polinkį sirgti.
 
-Bet štai, jaunuoli, kažkokia moteris ar vyras nepuldinėja kitų būtybių ar tai rankomims, akmenimis, pagaliais ar ginklais. Jis dėl to elgimos... jei jis sugrįžta kaip žmogiška būtybė, tuomet kur jis beatgimtų, jis yra stiprios sveikatos. Jaunuoli, nepuldinėti kitų būtybių ar tai rankomims, akmenimis, pagaliais ar ginklais yra kelias, vedantis į stiprią sveikatą.
+Bet štai, jaunuoli, kažkokia moteris ar vyras nepuldinėja kitų būtybių – rankomims, akmenimis, pagaliais ar ginklais. Jis dėl to elgimos... jei jis sugrįžta kaip žmogiška būtybė, tuomet kur jis beatgimtų, jis yra stiprios sveikatos. Jaunuoli, nepuldinėti kitų būtybių – rankomims, akmenimis, pagaliais ar ginklais yra kelias, vedantis į stiprią sveikatą.
 
 Štai, jaunuoli, kažkokia moteris ar vyras yra piktas, labai nepatenkintas. Net ir truputį pataisytas jis supyksta, susidirgina, susierzina, rodo pyktį, neapykantą ir niūrumą. Jis dėl to elgimos... jei jis sugrįžta kaip žmogiška būtybė, tuomet kur jis beatgimtų, jis yra negražus. Jaunuoli, būti piktu, labai nepatenkintu, būnant net ir truputį pataisytu pykti, dirgintis, erzintis, rodyti pyktį, neapykantą ir niūrumą yra kelias, vedantis į negražią išvaizdą.
 
@@ -53,7 +53,7 @@ Taigi, jaunuoli, kelias, vedantis į trumpą gyvenimą, duoda trumpai gyvenantį
 
 Kai tai buvo pasakyta, jaunuolis Subha Todėjaputa pasakė Palaimintajam štai ką:
 
-– Nuostabu, gerbiamasis Gotama, nuostabu, gerbiamasis Gotama! Tai lyg tai, kas buvo apversta, jis būtų atstatęs atgal, ar tai, kas buvo paslėpta, jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs šviestuvą tam, kad tas, kas turi akis, pamatytų formas, lygiai taip agerbiamasis Gotama daugeliais būdais paaiškino Dhammą. Aš priimu prieglobstį gerbiamajame Gotomoje, Dhammoje ir vienuolių Saṅghoje. Lai gerbiamasis Gotama nuo šiol laiko mane pasauliečiu pasekėju, priėmusiu prieglobstį visam gyvenimui.
+– Nuostabu, gerbiamasis Gotama, nuostabu, gerbiamasis Gotama! Tai lyg tai, kas buvo apversta, jis būtų atstatęs atgal, ar tai, kas buvo paslėpta, jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs šviestuvą tam, kad tas, kas turi akis, pamatytų formas, lygiai taip gerbiamasis Gotama daugeliais būdais paaiškino Dhammą. Aš priimu prieglobstį gerbiamajame Gotomoje, Dhammoje ir vienuolių Saṅghoje. Lai gerbiamasis Gotama nuo šiol laiko mane pasauliečiu pasekėju, priėmusiu prieglobstį visam gyvenimui.
 
 ## Cūḷakammavibhaṅgasuttaṃ (Mažoji veiksmų analizė, MN III.iv.5)
 
