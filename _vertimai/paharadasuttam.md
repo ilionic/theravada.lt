@@ -9,23 +9,23 @@ tags:
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio Nimmedžio papėdėje. Tada gi pas Palaimintąjį nuėjo asura Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:
 
-—Bet ar gauna malonumą, Paharadai, asurai iš didžiuojo vandenyno?
+– Bet ar gauna malonumą, Paharadai, asurai iš didžiuojo vandenyno?
 
-—Gauna, gerbiamasis, malonumą asurai iš didžiojo vandenyno.
+– Gauna, gerbiamasis, malonumą asurai iš didžiojo vandenyno.
 
-—Bet kiek gi yra nuostabių, stulbinančių didžiojo vandenyno dalykų kuriuos pamatę asurai gauną malonumą iš jo?
+– Bet kiek gi yra nuostabių, stulbinančių didžiojo vandenyno dalykų, kuriuos pamatę asurai gauną malonumą iš jo?
 
-—Gerbiamasis, yra aštuoni, nuostabūs, stulbinantys didžiojo vandenyno dalykai, kuriuos pamatę asurai gauną malonumą iš jo. Kurie aštuoni? Didysis vandenynas leidžiasi, šlija, svyra laipsniškai, o ne stačiai kaip skardis. Tai yra pirmas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
+– Gerbiamasis, yra aštuoni, nuostabūs, stulbinantys didžiojo vandenyno dalykai, kuriuos pamatę asurai gauną malonumą iš jo. Kurie aštuoni? Didysis vandenynas leidžiasi, šlija, svyra laipsniškai, o ne stačiai kaip skardis. Tai yra pirmas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
 Ir vėl gi, Gerbiamasis, didysis vandenynas turi stabilumo prigimtį, jis neperžengia krantų. Tai, yra antras didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
-Ir vėl gi, Gerbiamasis, didysis vandenynas nesubūna nei su mirusiu, nei su maita: gan greitai, tai kas didžiajame vandenyne yra mirę, kas yra maita išnešama į krantą, išstumiama į sausumą. Tai yra trečias didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
+Ir vėl gi, Gerbiamasis, didysis vandenynas nesubūna nei su mirusiu, nei su maita: gan greitai, tai, kas didžiajame vandenyne yra mirę, kas yra maita išnešama į krantą, išstumiama į sausumą. Tai yra trečias didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
-Ir vėl gi, Gerbiamasis, bet kuri didžioji upė, tokia kaip: Ganga, Jamuna, Ačiravatė, Sarabhū ir Mahy - įtekėjusi į didįjį vandenyną praranda anksetsnį pavadnimą, tampa apybrėžiama tik kaip 'didysis vandenynas'. Tai yra ketvirtas didžiojo vandenyno nuostabus, stulbinantis dalykas kurį pamatę asurai gauną malonumą iš jo.
+Ir vėl gi, Gerbiamasis, bet kuri didžioji upė, tokia kaip: Ganga, Jamuna, Ačiravatė, Sarabhū ir Mahy – įtekėjusi į didįjį vandenyną praranda anksetsnį pavadnimą, tampa apybrėžiama tik kaip „didysis vandenynas“. Tai yra ketvirtas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
 Ir vėl gi, Gerbiamasis, nors ir teka pasaulio upės į didįjį vandenyną, nors ir krituliai krenta į jį, dėl to nepasireiškia didžiojo vandenyno nei sumažėjimas, nei pripildymas. Tai yra penktas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
-Ir vėl gi, Gerbiamasis, didysis vandenynas yra vieno skonio: suraus skonio. Tai yra šeštas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
+Ir vėl gi, Gerbiamasis, didysis vandenynas yra vieno skonio: sūraus skonio. Tai yra šeštas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
 Ir vėl gi, Gerbiamasis, didžiajame vandenyne yra daug brangenybių, brangenybių begalė: ten yra tokios brangenybės kaip: perlas, brangakmenis, lazuritas, kriauklė, kvarcas, koralas, sidabras, auksas, rubinas, turmalinas. Tai yra septintas didžiojo vandenyno nuostabus, stulbinantis dalykas, kurį pamatę asurai gauną malonumą iš jo.
 
@@ -33,11 +33,11 @@ Ir vėl gi, Gerbiamasis, didysis vandenynas yra didelių būtybių namai. Ten yr
 
 Gerbiamasis, o ar vienuoliai gauna malonumą iš šios Dharmos-Drausmės?
 
-—Paharadai, vienuoliai gauna malonumą iš šios Dharmos-Drausmės.
+– Paharadai, vienuoliai gauna malonumą iš šios Dharmos-Drausmės.
 
-—Bet kiek gi yra Dharmos-Drausmės nuostabių, stulbinančių dalykų, kuriuos pamatę vienuoliai gauną malonumą iš jų.
+– Bet kiek gi yra Dharmos-Drausmės nuostabių, stulbinančių dalykų, kuriuos pamatę vienuoliai gauną malonumą iš jų?
 
-—Paharadai, yra aštuoni Dharmos-Drausmės nuostabūs, stulbinantys dalykai, kuriuos pamatę vienuoliai gauną malonumą iš jų. Kurie aštuoni? Panašiai kaip didysis vandenynas leidžiasi laipsniškai, šlija laipsniškai, svyra laipsniškai, o ne stačiai kaip skardis; taip pat ir prasiskverbimas į tobulą pažinimą šioje Dhammoje-Disciplinoje \[įvyksta] dėl laipsniško mokymosi, laipsniškos veiklos, laipsniško ėjimo keliu. Tai yra pirmas Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų.
+– Paharadai, yra aštuoni Dharmos-Drausmės nuostabūs, stulbinantys dalykai, kuriuos pamatę vienuoliai gauną malonumą iš jų. Kurie aštuoni? Panašiai, kaip didysis vandenynas leidžiasi laipsniškai, šlija laipsniškai, svyra laipsniškai, o ne stačiai kaip skardis; taip pat ir prasiskverbimas į tobulą pažinimą šioje Dhammoje-Disciplinoje \[įvyksta] dėl laipsniško mokymosi, laipsniškos veiklos, laipsniško ėjimo keliu. Tai yra pirmas Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų.
 
 Panašiai, Paharadai, kaip didysis vandenynas turi stabilumo prigimtį, neperžengia krantų, taip pat ir mano mokiniai nurodytus jiems auklėjimosi pagrindus neperžengia ir gyvybės dėlei. Tai yra antras Dharmos-Drausmės nuostabus, stulbinantis dalykas, kurį pamatę vienuoliai gauną malonumą iš jų.
 
