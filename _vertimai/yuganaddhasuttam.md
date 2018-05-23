@@ -18,7 +18,7 @@ Gerbiamas Ananda štai ką pasakė:
 
 －Draugai, bet kas iš vienuolių mano akivaizdoje pasisakęs esą pasiekę Arahantystę, \[padarė tai] vienu ar kitu iš šių keturių būdų.
 
-Kokių keturių? Štai, draugai, vienuolis pirma išvysto ramumą, po to vysto įžvalgą. Išvysčius ramumą, įžvalgą bevystant, jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus, išnyksta saitai, pašalinamos ydos.
+Kokių keturių? Štai, draugai, vienuolis pirmą išvysto ramumą, po to vysto įžvalgą. Išvysčius ramumą, įžvalgą bevystant, jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus, išnyksta saitai, pašalinamos ydos.
 
 Ir vėlgi, draugai, vienuolis pirma išvysto įžvalgą, po to vysto ramumą. Išvysčius ramumą, įžvalgą bevystant, jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus, išnyksta saitai, pašalinamos ydos.  
 
@@ -30,7 +30,7 @@ Draugai, bet kas iš vienuolių mano akivaizdoje pasisakęs esą pasiekę Arahan
 
 ## Yuganaddhasuttaṃ (Sykiu, AN 4.IV.ii.10)
 
-**170 . Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ āyasmā ānando** vieną kartą gerbiamas Ananda buvo apsistojęs **kosambiyaṃ viharati ghositārāme.** Kosambhėje Ghositos vienuolyne. **Tatra kho āyasmā ānando bhikkhū āmantesi –** Tada gi gerbiamas Ananda kreipėsi į vienuolius: **‘‘āvuso bhikkhave’’ti.** "Draugai vienuoliai!" **‘‘Āvuso’’ti kho te bhikkhū āyasmato ānandassa paccassosuṃ.** "Drauge!", tie gi vienuoliai atsakė gerbiamam Anandai. **Āyasmā ānando etadavoca –** Gerbiamas Ananda pasakė štai ką: **‘‘Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā** "Draugai, bet koks vienuolis ar vienuolė, **mama santike arahattappattiṃ byākaroti,** kuris mano akivaizdoje pasisakė pasiekęs Arahantystę, **sabbo so catūhi maggehi, etesaṃ vā aññatarena.** \[tai padarė] šiais keturiais būdais, vienu ar kitu.
+**170 . Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ āyasmā ānando** vieną kartą gerbiamas Ananda buvo apsistojęs **kosambiyaṃ viharati ghositārāme.** Kosambhėje Ghositos vienuolyne. **Tatra kho āyasmā ānando bhikkhū āmantesi –** Tada gi gerbiamas Ananda kreipėsi į vienuolius: **‘‘āvuso bhikkhave’’ti.** „Draugai vienuoliai!“ **‘‘Āvuso’’ti kho te bhikkhū āyasmato ānandassa paccassosuṃ.** „Drauge!“, tie gi vienuoliai atsakė gerbiamam Anandai. **Āyasmā ānando etadavoca –** Gerbiamas Ananda pasakė štai ką: **‘‘Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā** „Draugai, bet koks vienuolis ar vienuolė, **mama santike arahattappattiṃ byākaroti,** kuris mano akivaizdoje pasisakė pasiekęs Arahantystę, **sabbo so catūhi maggehi, etesaṃ vā aññatarena.** \[tai padarė] šiais keturiais būdais, vienu ar kitu.
 
 **‘‘Katamehi catūhi?** Kuriais keturiais? **Idha, āvuso, bhikkhu samathapubbaṅgamaṃ vipassanaṃ bhāveti.** Štai, draugai, vienuolis vysto įžvalgą pirmiau išvystęs ramumą. **Tassa samathapubbaṅgamaṃ vipassanaṃ bhāvayato maggo sañjāyati.** Jam bevystant įžvalgą, pirmiau išvysčius ramumą, gimsta kelias. **So taṃ maggaṃ āsevati bhāveti bahulīkaroti.** Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. **Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto** Jam tą kelią daug kartų pakartojus, išvysčius, rimtai praktikavus **saṃyojanāni pahīyanti, anusayā byantīhonti.** išnyksta saitai, pašalinamos ydos.
 
