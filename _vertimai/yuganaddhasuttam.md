@@ -16,17 +16,17 @@ Taip aš girdėjau: vieną kartą gerbiamas Ananda buvo apsistojęs Kosambhėje 
 
 Gerbiamas Ananda štai ką pasakė:
 
-－Draugai, bet kas iš vienuolių mano akivaizdoje pasisakęs pasiekęs Arahantystę, \[padarė tai] vienu ar kitu iš šių keturių būdų.
+－Draugai, bet kas iš vienuolių mano akivaizdoje pasisakęs esą pasiekę Arahantystę, \[padarė tai] vienu ar kitu iš šių keturių būdų.
 
-Kurių keturių? Štai, draugai, vienuolis pirma išvysto ramumą, po to vysto įžvalgą. Kai išvysčius ramumą, jis bevysta įžvalgą, jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus, išnyksta saitai, pašalinamos ydos.
+Kokių keturių? Štai, draugai, vienuolis pirma išvysto ramumą, po to vysto įžvalgą. Išvysčius ramumą, įžvalgą bevystant, jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus, išnyksta saitai, pašalinamos ydos.
 
-Ir vėlgi, draugai, vienuolis pirma išvysto įžvalgą, po to vysto ramumą. Kai išvysčius įžvalgą, jis bevysta ramumą, jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus, išnyksta saitai, pašalinamos ydos.  
+Ir vėlgi, draugai, vienuolis pirma išvysto įžvalgą, po to vysto ramumą. Išvysčius ramumą, įžvalgą bevystant, jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus, išnyksta saitai, pašalinamos ydos.  
 
 Ir vėlgi, draugai, vienuolis vysto ramumą ir įžvalgą sykiu. Jam bevystant ramumą ir įžvalgą sykiu, gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus išnyksta saitai, pašalinamos ydos.
 
 Ir vėlgi, draugai, vienuolio protas yra apimtas sumišimo dėl Dharmos. Ateina toks laikas, kai tas protas nusistovi, nurimsta, susikaupia, \[ir tai] sukelia susitelkimą. Jam gimsta kelias. Jis tą kelią vis kartoja, vysto, rimtai jį praktikuoja. Jam tą kelią vėl ir vėl pakartojus, išvysčius, rimtai praktikavus išnyksta saitai, pašalinamos ydos.
 
-Draugai, bet kas iš vienuolių mano akivaizdoje pasisakęs pasiekęs Arahantystę, \[padarė tai] vienu ar kitu iš šių keturių būdų.
+Draugai, bet kas iš vienuolių mano akivaizdoje pasisakęs esą pasiekę Arahantystę, \[padarė tai] vienu ar kitu iš šių keturių būdų.
 
 ## Yuganaddhasuttaṃ (Sykiu, AN 4.IV.ii.10)
 
