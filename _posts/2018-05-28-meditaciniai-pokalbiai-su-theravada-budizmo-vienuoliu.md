@@ -4,6 +4,7 @@ title: Meditaciniai pokalbiai su Theravada budizmo vienuoliu
 category: pradzia
 tags:
   - pradzia
+date: '2015-02-12 12:00:00'
 ---
 ![null](/images/uploads/33029690_1724287201017902_6733029095304593408_n.jpg)
 
