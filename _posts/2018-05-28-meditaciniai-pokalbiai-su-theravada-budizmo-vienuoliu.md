@@ -48,3 +48,7 @@ Bendras el. paštas teiravimuisi apie renginį:
 Telefono nr.: +370 689 06732 Asta
 
 Apie Mokytoją
+
+Sayadaw U Ottamasara (gimė Myanmare 1969 spalio 26 d.) nuo pat jaunystės pasišventė mokslams. Yangono Universitete įgijęs bakalauro laipsnį (anglų kalba su pagyrimu), septynerius metus sėkmingai užsiėmė verslu. 1999-aisiais, susidūręs su sunkumais versle, prieglobsčio ieškojo Budos mokymo (Dhamma) apmąstymuose bei praktikavime: sekė dveji metai gilios meditacijos, labdaringos veiklos, moralės bei vidinės įžvalgos tobulos Tiesos beieškant. 2002 metais jis priėmė vienuolio įžadus, 2007 įkūrė pirmąjį Thabarwa meditacijos centrą Yangono miesto širdyje, o 2008 metais buvo atidarytas pagrindinis ir didžiausias Thabarwa centras Yangono priemiestyje Thanlyin (Tanline).
+
+Pasišvęsdamas humanitarinei veiklai kiekvieno žmogaus labui, Sayadaw visada ir nenuilsdamas tenkina visuomenės poreikius per meditavimą ir Dhamma mokymus, o taip pat užtikrina fizinę apsaugą bei rūpinasi visais, kuriems to reikia. Sayadaw moko vipassana savistabos meditacijos įvairiose institucijose, mokyklose, ligoninėse bei privačiose rezidencijose Myanmare, taip pat ir užsienio šalyse, kur jis nuolatos veda atsiskyrimo meditacijos stovyklas.
