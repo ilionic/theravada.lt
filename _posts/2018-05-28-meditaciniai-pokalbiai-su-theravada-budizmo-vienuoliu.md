@@ -7,7 +7,7 @@ tags:
 ---
 ![null](/images/uploads/33029690_1724287201017902_6733029095304593408_n.jpg)
 
-Birželio 15-22d.
+Birželio 15-22 d.
 
 Kviečiame į susitikimus su Theravada budizmo vienuoliu visoje Lietuvoje. Sklandžiam renginio pasiruošimui prašome registruotis nurodytais el. pašto adresais.
 
@@ -15,21 +15,21 @@ Renginiai nemokami su vertimu į lietuvių kalbą.
 
 <!--break-->
 
-Klaipėdoje:
+**Klaipėdoje**:
 
 Birželio 15 d., penktadienį 18:00 val., Studija „Dabartis“, Naujoji uosto g. 3 (<mailto:dabartis@grock.lt>)
 
 Birželio 16 d., šeštadienį 18:00 val., Studija „Būkime kartu“, Žvejų g. 12 (<mailto:laura.silalyte@gmail.com>)
 
-Šiauliuose:
+**Šiauliuose**:
 
 Birželio 17 d., sekmadienį 18:00 val., Studija „Sielos harmonija“, Vasario 16-osios g. 44 (<mailto:theravada.LT@gmail.com> )
 
-Panevėžyje:
+**Panevėžyje**:
 
 Birželio 18 d., pirmadienį 17:30 val., Studija „Jogos medis“, Kranto g. 36 (<mailto:laimajoga@gmail.com>)
 
-Vilniuje:
+**Vilniuje**:
 
 Birželio 19 d., antradienį 18:30 val. Studija „Om“, A.Vivulskio g.41 (<https://www.facebook.com/studijaOm/>)
 
@@ -37,7 +37,7 @@ Birželio 20 d., trečiadienį 18:30 val. Studija „Menas būti“, Krivių g. 
 
 Birželio 21 d., ketvirtadienį 18:30 val. Studija „Om“, A.Vivulskio g.41 (<https://www.facebook.com/studijaOm/>)
 
-Kaune:
+**Kaune**:
 
 Birželio 22 d., penktadienį 18:00 val., Studija „Ahimsa“, Birželio 23-osios g. 17A (<mailto:info@ahimsa.lt>)
 
@@ -47,7 +47,7 @@ Bendras el. paštas teiravimuisi apie renginį:
 
 Telefono nr.: +370 689 06732 Asta
 
-Apie Mokytoją
+**Apie Mokytoją**
 
 Sayadaw U Ottamasara (gimė Myanmare 1969 spalio 26 d.) nuo pat jaunystės pasišventė mokslams. Yangono Universitete įgijęs bakalauro laipsnį (anglų kalba su pagyrimu), septynerius metus sėkmingai užsiėmė verslu. 1999-aisiais, susidūręs su sunkumais versle, prieglobsčio ieškojo Budos mokymo (Dhamma) apmąstymuose bei praktikavime: sekė dveji metai gilios meditacijos, labdaringos veiklos, moralės bei vidinės įžvalgos tobulos Tiesos beieškant. 2002 metais jis priėmė vienuolio įžadus, 2007 įkūrė pirmąjį Thabarwa meditacijos centrą Yangono miesto širdyje, o 2008 metais buvo atidarytas pagrindinis ir didžiausias Thabarwa centras Yangono priemiestyje Thanlyin (Tanline).
 
