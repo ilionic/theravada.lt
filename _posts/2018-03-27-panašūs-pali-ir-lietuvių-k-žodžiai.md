@@ -19,7 +19,7 @@ category: tipitaka
 \| --- | --- |
 | ḍahati | 	degti |	
 | deseti |	dėstyti	| 
-| divā	| dieną |
+| divā	| diena |
 | dvāra	| durys	|
 | eti | eiti |	
 | ito paraṃ	| po šito | 
