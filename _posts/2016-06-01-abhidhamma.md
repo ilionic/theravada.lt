@@ -11,4 +11,4 @@ _Abhidhammos_ studijos gali tapti neįkainojamos kelyje į susitaikymą su tikra
 
 Tie, ką ši tema sudomino, gali parsisiųsti nedidelės knygos, supažindinančios su _Abhidhammos_ pagrindais ir taikymu, vertimą. 
 
-[dr. N.K.G. Mendis „Abhidhamma praktikoje“](https://drive.google.com/file/d/0B_euB8S3YuRycm54UTI5WW1oZ0Y4X05fc1k1dWNXVFdxTkpF/view)
+[dr. N.K.G. Mendis „Abhidhamma praktikoje“](https://drive.google.com/file/d/1YI4IGpKGd3nhKjGTCj_cCUM-5UYn1OB2/view?usp=drivesdk)
