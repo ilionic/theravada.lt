@@ -6,9 +6,9 @@ index: M
 sortIndex: 9
 ---
 1. Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną). Jis turi būti gebantis, tiesus, atviras, nuolankus, lankstus ir nepasipūtęs,
-2. Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai; Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatina su pasauliečiais.
-3. Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elgesio. „Tegul \[visos būtybės] būna sveikos ir saugios, tegu visos būtybės būna laimingos!
-4. Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos be jokių išimčių; Ir ilgos, ir didžiulės, ir vidutinio ilgio; ir trumpos, ir mažos, ir turinčios tankų kūną,
+2. Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai; Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatinantis su pasauliečiais.
+3. Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elgesio. „Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!
+4. Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos - be jokių išimčių; Ir ilgos, ir didžiulės, ir vidutinio ilgio; ir trumpos, ir mažos, ir turinčios tankų kūną,
 5. Ir matomos, ir nematomos, ir esančios toli, ir esančios arti, Ir gimę, ir tos kurios dar gims, tegul visos būtybės būna laimingos!
 6. Lai niekas kito neapgaudinėja, lai niekas nieko nežemina niekur, Bei dėl pykčio ir neapykantos apimto proto niekas nelinki kitam skausmo!“
 7. Kaip mamą saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina, Lygiai taip, lai jis vysto beribį protą visų būtybių atžvilgių.
@@ -32,7 +32,7 @@ Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai;
 
 **Santindriyo ca nipako ca, appagabbho kulesvananugiddho.**
 
-Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatina su pasauliečiais.
+Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatinantis su pasauliečiais.
 
 **3. Na ca khuddamācare kiñci, yena viññū pare upavadeyyuṃ;**
 
@@ -40,11 +40,11 @@ Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elges
 
 **Sukhino va khemino hontu, sabbe sattā bhavantu sukhitattā.**
 
-„Tegul \[visos būtybės] būna sveikos ir saugios, tegu visos būtybės būna laimingos!
+„Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!
 
 **4. Ye keci pāṇabhūtatthi, tasā vā thāvarā vanavasesā;**
 
-Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos be jokių išimčių;
+Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos - be jokių išimčių;
 
 **Dīghā vā ye va mahantā, majjhimā rassakā aṇukathūlā.**
 
