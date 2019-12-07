@@ -29,11 +29,11 @@
 
 
 <div id="main" role="main">
-  <!-- {% if page.subcategory %}
+  {% if page.subcategory %}
     {% assign category = site[page.category] | where: "category",page.subcategory %}
   {% else %}
     {% assign category = site[page.category] %}
-  {% endif %} -->
+  {% endif %}
 
   {% for post in category %}
     <article class="hentry">
