@@ -13,7 +13,7 @@ tags:
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi, vienuolių daugybei sugrįžus iš aukų rinkimo, jiems susirinkus po valgio, susėdus susirinkimų salėje, kilo tokios kalbos: "Draugai, kaip nuostabu, draugai, tiesiog neįtikėtina tai, kad, pasak Palaimintojo, žinančiojo, matančiojo, arahanto, visiškai nušvitusiojo, išlavintas dažnai praktikuotas atidumas kūnui atneša didžius vaisius, didžią palaimą!" Ir štai čia ši vienuolių kalba buvo pertraukta, nes tada gi vakare Palaimintasis, sugrįžęs iš atokios vietos, nuėjo į susirinkimų salę, atėjęs atsisėdo į paruoštą jam vietą. Sėdėdamas gi Palaimintasis kreipėsi į vienuolius: <br /><br />
 －Vienuoliai, apie ką kalbėti čia dabar esate susisėdę? Apie ką buvo jūsų kalba, kuri buvo pertraukta? <br /><br />
-－Štai, Gerbiamasis, mums, sugrįžus iš aukų rinkimo, po valgio susirinkus, susėdus susirinkimų salėje, kilo tokios kalbos: " Draugai, kaip nuostabu, draugai, tiesiog neįtikėtina tai, kad, pasak Palaimintojo, žinančiojo, matančiojo, arahanto, visiškai nušvitusiojo, išlavintas, dažnai praktikuotas atidumas kūnui atneša didžius vaisius, didžią palaimą!" <br />
+－Štai, Gerbiamasis, mums, sugrįžus iš aukų rinkimo, po valgio susirinkus, susėdus susirinkimų salėje, kilo tokios kalbos: "Draugai, kaip nuostabu, draugai, tiesiog neįtikėtina tai, kad, pasak Palaimintojo, žinančiojo, matančiojo, arahanto, visiškai nušvitusiojo, išlavintas, dažnai praktikuotas atidumas kūnui atneša didžius vaisius, didžią palaimą!" <br />
 
 ### Atidumo kūnui lavinimas ###
 －Ir kaip, vienuoliai, lavinamas, dažnai praktikuojamas atidumas kūnui, atnešantis didžius vaisius, didžią palaimą? <br /><br />
