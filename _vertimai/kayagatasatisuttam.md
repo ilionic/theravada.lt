@@ -8,7 +8,7 @@ tags:
   - K
 ---
 <a href="../kayagatasatisuttam" class="btn btn-primary btn-next">Lietuvių</a>
-<a href="../2019-12-08-kāyagatāsatisuttaṃ-atidumas-kūnui-mn-119-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
+<a href="../2019-12-08-kāyagatāsatisuttaṃ-atidumas-kūnui-mn-119-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a>
 ### Įžanga
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi, vienuolių daugybei sugrįžus iš aukų rinkimo, jiems susirinkus po valgio, susėdus susirinkimų salėje, kilo tokios kalbos: "Draugai, kaip nuostabu, draugai, tiesiog neįtikėtina tai, kad, pasak Palaimintojo, žinančiojo, matančiojo, arahanto, visiškai nušvitusiojo, išlavintas dažnai praktikuotas atidumas kūnui atneša didžius vaisius, didžią palaimą!" Ir štai čia ši vienuolių kalba buvo pertraukta, nes tada gi vakare Palaimintasis, sugrįžęs iš atokios vietos, nuėjo į susirinkimų salę, atėjęs atsisėdo į paruoštą jam vietą. Sėdėdamas gi Palaimintasis kreipėsi į vienuolius: <br /><br />
