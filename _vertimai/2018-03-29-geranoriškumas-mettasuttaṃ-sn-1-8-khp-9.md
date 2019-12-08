@@ -8,7 +8,7 @@ sortIndex: 9
 1. Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną).<br /> Jis turi būti gebantis, tiesus, atviras, nuolankus, lankstus ir nepasipūtęs,<br />
 2. Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai;<br /> Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatinantis su pasauliečiais.<br />
 3. Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elgesio.<br /> „Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!<br />
-4. Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos - be jokių išimčių;<br /> Ir ilgos, ir didžiulės, ir vidutinio ilgio; ir trumpos, ir mažos, ir turinčios tankų kūną,<br />
+4. Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos – be jokių išimčių;<br /> Ir ilgos, ir didžiulės, ir vidutinio ilgio; ir trumpos, ir mažos, ir turinčios tankų kūną,<br />
 5. Ir matomos, ir nematomos, ir esančios toli, ir esančios arti,<br /> Ir gimę, ir tos kurios dar gims, tegul visos būtybės būna laimingos!<br />
 6. Lai niekas kito neapgaudinėja, lai niekas nieko nežemina niekur,<br /> Bei dėl pykčio ir neapykantos apimto proto niekas nelinki kitam skausmo!“<br />
 7. Kaip mamą saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,<br /> Lygiai taip, lai jis vysto beribį protą visų būtybių atžvilgių.<br />
