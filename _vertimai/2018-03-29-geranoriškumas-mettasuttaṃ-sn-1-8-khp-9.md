@@ -5,7 +5,7 @@ category: trumpesni
 index: M
 sortIndex: 9
 ---
-1. Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną).<br /> Jis turi būti gebantis, tiesus, atviras, nuolankus, lankstus ir nepasipūtęs,</p>
+<p> 1. Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną).<br /> Jis turi būti gebantis, tiesus, atviras, nuolankus, lankstus ir nepasipūtęs,</p>
 2. Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai;<br /> Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatinantis su pasauliečiais.</p>
 3. Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elgesio.<br /> „Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!</p>
 4. Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos - be jokių išimčių;<br /> Ir ilgos, ir didžiulės, ir vidutinio ilgio; ir trumpos, ir mažos, ir turinčios tankų kūną,</p>
