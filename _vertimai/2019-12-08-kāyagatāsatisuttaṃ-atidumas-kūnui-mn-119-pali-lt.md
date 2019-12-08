@@ -3,7 +3,7 @@ layout: page
 title: 'Kāyagatāsatisuttaṃ (Atidumas kūnui, MN 119, Pali-Lt)'
 category: vidutinio
 index: K
-sortIndex: 330
+sortIndex: .nan
 tags:
   - K
 ---
