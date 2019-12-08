@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Kāyagatāsatisuttaṃ (Atidumas kūnui, MN 119, Pali-Lt)'
+title: 'Kāyagatāsatisuttaṃ (Atidumas kūnui, MN 119)'
 category: vidutinio
 index: K
 sortIndex: .nan
