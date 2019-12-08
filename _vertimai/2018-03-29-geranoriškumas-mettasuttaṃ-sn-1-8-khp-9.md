@@ -6,15 +6,15 @@ index: M
 sortIndex: 9
 ---
 1. Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną).<br /> Jis turi būti gebantis, tiesus, atviras, nuolankus, lankstus ir nepasipūtęs,<br />
-2. Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai;<br /> Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatinantis su pasauliečiais.</p>
-3. Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elgesio.<br /> „Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!</p>
-4. Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos - be jokių išimčių;<br /> Ir ilgos, ir didžiulės, ir vidutinio ilgio; ir trumpos, ir mažos, ir turinčios tankų kūną,</p>
-5. Ir matomos, ir nematomos, ir esančios toli, ir esančios arti,<br /> Ir gimę, ir tos kurios dar gims, tegul visos būtybės būna laimingos!</p>
-6. Lai niekas kito neapgaudinėja, lai niekas nieko nežemina niekur,<br /> Bei dėl pykčio ir neapykantos apimto proto niekas nelinki kitam skausmo!“</p>
-7. Kaip mamą saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,<br /> Lygiai taip, lai jis vysto beribį protą visų būtybių atžvilgių.</p>
-8. Tegul jis vysto visą pasaulį persmelkiantį proto geranoriškumą,<br /> Į viršų, žemyn, aplink, be ribų, be neapykantos, be priešiškumo.</p>
-9. Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas – visą būdravimo laiką,<br /> Lai jis taip vysto šį atidumą – tai šiame mokyme vadinama dieviškąja buveine.</p>
-10. Nesiartindamas prie klaidingų pažiūrų, dorovingas, turintis tikros įžvalgos,<br /> Atsikratęs \[prisirišimo prie] juslinių malonumų, nebesugrįš jis į moters įsčias.</p>
+2. Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai;<br /> Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatinantis su pasauliečiais.<br />
+3. Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elgesio.<br /> „Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!<br />
+4. Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos - be jokių išimčių;<br /> Ir ilgos, ir didžiulės, ir vidutinio ilgio; ir trumpos, ir mažos, ir turinčios tankų kūną,<br />
+5. Ir matomos, ir nematomos, ir esančios toli, ir esančios arti,<br /> Ir gimę, ir tos kurios dar gims, tegul visos būtybės būna laimingos!<br />
+6. Lai niekas kito neapgaudinėja, lai niekas nieko nežemina niekur,<br /> Bei dėl pykčio ir neapykantos apimto proto niekas nelinki kitam skausmo!“<br />
+7. Kaip mamą saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,<br /> Lygiai taip, lai jis vysto beribį protą visų būtybių atžvilgių.<br />
+8. Tegul jis vysto visą pasaulį persmelkiantį proto geranoriškumą,<br /> Į viršų, žemyn, aplink, be ribų, be neapykantos, be priešiškumo.<br />
+9. Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas – visą būdravimo laiką,<br /> Lai jis taip vysto šį atidumą – tai šiame mokyme vadinama dieviškąja buveine.<br />
+10. Nesiartindamas prie klaidingų pažiūrų, dorovingas, turintis tikros įžvalgos,<br /> Atsikratęs \[prisirišimo prie] juslinių malonumų, nebesugrįš jis į moters įsčias.<br />
 
 ## Mettasuttaṃ (Geranoriškumas, Sn I.8, Khp 9)
 
@@ -28,7 +28,7 @@ sortIndex: 9
 
 **3. Na ca khuddamācare kiñci, yena viññū pare upavadeyyuṃ;**<br /> Jis turėtų vengti bet kokio, kad ir nežymaus, išmintingųjų smerkiamo elgesio.
 
-**Sukhino va khemino hontu, sabbe sattā bhavantu sukhitattā.<br /> **„Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!
+**Sukhino va khemino hontu, sabbe sattā bhavantu sukhitattā.**<br /> "Tegul \[visos būtybės] būna sveikos ir saugios, tegul visos būtybės būna laimingos!
 
 **4. Ye keci pāṇabhūtatthi, tasā vā thāvarā vanavasesā;**<br /> Kad ir kokios gyvos būtybės, ir silpnos, ir tvirtos - be jokių išimčių;
 
