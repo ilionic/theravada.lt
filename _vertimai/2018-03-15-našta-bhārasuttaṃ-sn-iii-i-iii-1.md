@@ -5,7 +5,8 @@ category: suristos suttos
 index: B
 sortIndex: 3131
 ---
-Savathėje… tada gi... <br />
+Savathėje... tada gi... <br />
+
 – Vienuoliai, mokysiu jūs apie naštą, naštnešį, naštos paėmimą ir naštos numetimą. To klausykite.<br />
 
 Ir kas, vienuoliai, yra našta? Pasakytina, kad tai yra penkios sankaupos, paveiktos įsikibimo. Kokios penkios? 
