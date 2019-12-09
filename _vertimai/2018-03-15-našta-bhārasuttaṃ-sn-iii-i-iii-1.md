@@ -25,7 +25,7 @@ Ir kas, vienuoliai, yra naštos numetimas? Tai yra to troškimo visiškas užges
 Tai pasakė Palaimintasis. Tai pasakė Gerai Žengęs, o toliau mokytojas pasakė štai ką:<br />
 
 Iš ties, penkios sankaupos, paveiktos įsikibimo yra našta, naštnešys - tai asmenybė,<br />
-Naštos paėmimas yra kančia, laimė yra naštos numetimas.<br />
+naštos paėmimas yra kančia, laimė yra naštos numetimas.<br />
 Numetęs sunkią naštą, kitos naštos nepasiėmęs,<br />
 išrovęs troškimą su šaknim, nieko nenori jis ir galutinai užgęsta.
 
