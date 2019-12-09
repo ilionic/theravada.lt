@@ -6,7 +6,6 @@ index: B
 sortIndex: 3131
 ---
 Savathėje… tada gi... <br />
-
 – Vienuoliai, mokysiu jūs apie naštą, naštnešį, naštos paėmimą ir naštos numetimą. To klausykite.<br />
 
 Ir kas, vienuoliai, yra našta? Pasakytina, kad tai yra penkios sankaupos, paveiktos įsikibimo. Kokios penkios? 
@@ -22,7 +21,7 @@ Ir kas, vienuoliai, yra naštos paėmimas? Tai – troškimas, vedantis į pakar
 
 Ir kas, vienuoliai, yra naštos numetimas? Tai yra to troškimo visiškas užgesimas ir išnykimas, [jo] atmetimas, atsisakymas, išsilaisvinimas [nuo jo], [jo] nepriėmimas.<br />
 
-Tai pasakė Palaimintasis. Tai pasakė Gerai Žengęs, o toliau mokytojas pasakė štai ką:<br />
+Tai pasakė Palaimintasis. Tai pasakė Gerai Žengęs, o toliau Mokytojas pasakė štai ką:<br />
 
 Iš ties, penkios sankaupos, paveiktos įsikibimo yra našta, naštnešys - tai asmenybė,<br />
 naštos paėmimas yra kančia, laimė yra naštos numetimas.<br />
