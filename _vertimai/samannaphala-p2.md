@@ -3,7 +3,7 @@ layout: page
 title: Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)
 category: ilgos suttos
 index: S
-sortIndex: 2
+sortIndex: .nan
 tags:
   - S
 ---
