@@ -6,7 +6,7 @@ index: S
 sortIndex: .nan
 ---
 <a href="../samannaphala-p1" class="btn btn-primary btn-next">Lietuvių</a>
-<a href="../2019-12-08-kāyagatāsatisuttaṃ-atidumas-kūnui-mn-119-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
+<a href="../2019-12-16-samannaphala-p1-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 **1. Rājāmaccakathā**  
 Ministrų kalba
@@ -106,4 +106,4 @@ Sančajos Belathaputos doktrina
 **"Itthaṃ kho me, bhante,** Štai taip, gerbiamasis, man **sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho** Sančaja Belathaputa paklaustas apie čia pat ir iškart regimus atsiskyrimo vaisius **samāno vikkhepaṃ byākāsi.** atsakė išsisukinėjimu. **Seyyathāpi, bhante, ambaṃ vā puṭṭho** Lygiai kaip, gerbiamasis, kai paklaustas apie tai koks yra mango labujaṃ byākareyya, jis būtų aprašęs **duonmedžio vaisių, labujaṃ vā puṭṭho ambaṃ byākareyya;** ar paklaustas apie tai koks yra duonmedžio vaisius, jis būtų aprašęs mango; **evameva kho me, bhante,** lygiai gi taip, gerbiamasis, man **sañcayo belaṭṭhaputto sandiṭṭhikaṃ sāmaññaphalaṃ puṭṭho** Sančaja Belathaputa paklaustas apie čia pat ir iškart regimus atsiskyrimo vaisius **samāno vikkhepaṃ byākāsi.** atsakė išsisukinėjimu. **Tassa mayhaṃ, bhante, etadahosi –** Tuomet aš, gerbiamasis, taip pagalvojau: **‘kathañhi nāma mādiso** Na kodėl gi toks kaip aš **samaṇaṃ vā brāhmaṇaṃ vā vijite vasantaṃ** kai yra gyvenančių atsiskyrėlių ir brahmanų **apasādetabbaṃ maññeyyā’ti.** pamanyčiau, kad reiktų prieštarauti. **So kho ahaṃ, bhante,** Aš gi, gerbiamasis, ta **sañcayassa belaṭṭhaputtassa bhāsitaṃ** Sančajos Belathaputos kalba **neva abhinandiṃ nappaṭikkosiṃ.** nei džiaugiausi, nei ją išpeikiau. **Anabhinanditvā appaṭikositvā anattamano,** Nepasidžiaugęs, neišpeikęs, [nors ir] nepatenkintas, **anattamanavācaṃ anicchāretvā,** neišreiškęs nepasitenkinimo **tameva vācaṃ anuggaṇhanto anikkujjanto** nepriimdamas tos kalbos **uṭṭhāyāsanā pakkamiṃ.** atsistojau ir išėjau."
 
 
-<a href="../samannaphala-p1" class="btn btn-primary btn-prev">← Ankst</a>
+<a href="../2019-12-16-samannaphala-p2-pali-lt" class="btn btn-primary btn-prev">← Ankst</a>
