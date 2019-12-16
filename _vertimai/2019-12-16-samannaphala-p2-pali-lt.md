@@ -6,7 +6,7 @@ index: S
 sortIndex: .nan
 ---
 <a href="../samannaphala-p2" class="btn btn-primary btn-next">Lietuvių</a>
-<a href="../2019-12-08-kāyagatāsatisuttaṃ-atidumas-kūnui-mn-119-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
+<a href="../2019-12-16-samannaphala-p2-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 **10. Paṭhamasandiṭṭhikasāmaññaphalaṃ**  
 Pirmasis čia pat ir iškart regimas atsiskyrimo vaisius
@@ -234,4 +234,4 @@ Adžiātasattu pasiskelbia pasauliečiu pasekėju
 
 **253. Atha kho bhagavā acirapakkantassa rañño māgadhassa ajātasattussa vedehiputtassa** Tada gi, netrukus po Magadhos karaliaus Adžatasataus Vedehiputos išvykimo, Palaimintasis **bhikkhū āmantesi –** kreipėsi į vienuolius: **"khatāyaṃ, bhikkhave, rājā.** "Šis karalius, vienuoliai, pražudė save. **Upahatāyaṃ, bhikkhave, rājā.** Šis karalius, vienuoliai, sužeidė save. **Sacāyaṃ, bhikkhave, rājā** Jei, vienuoliai, šis karalius **pitaraṃ dhammikaṃ dhammarājānaṃ jīvitā na voropessatha,** nebūtų atėmęs gyvybės iš tėvo, iš doro žmogaus, teisingo karaliaus, **imasmiññeva āsane virajaṃ vītamalaṃ dhammacakkhuṃ uppajjissathā"ti.** šitoje pačioje vietoje [jame] būtų atsivėręs nesuterštas, tyras Dharmos matymas." **Idamavoca bhagavā.** Tai pasakė Palaimintasis. **Attamanā te bhikkhū** Pamaloninti vienuoliai **bhagavato bhāsitaṃ abhinandunti.** džiaugėsi Palaimintojo kalba.
 
-<a href="../samannaphala-p1" class="btn btn-primary btn-prev">← Ankst</a>
+<a href="../2019-12-16-samannaphala-p1-pali-lt" class="btn btn-primary btn-prev">← Ankst</a>
