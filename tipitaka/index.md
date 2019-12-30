@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Tipitaka"
+title: "Tipitaka ir Pali"
 description: ""
 category: "tipitaka"
 comments: false
