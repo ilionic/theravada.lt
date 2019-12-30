@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Didžioji suta apie kančios krūvą (Mahādukkhakkhandhasuttaṃ, MN I.ii.3)'
+title: 'Didžioji sutra apie kančios krūvą (Mahādukkhakkhandhasuttaṃ, MN I.ii.3)'
 category: vidutinio
 index: M
 sortIndex: 123
