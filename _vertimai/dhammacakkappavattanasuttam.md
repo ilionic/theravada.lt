@@ -4,6 +4,8 @@ title: 'Dharmos rato pasukimas (Dhammacakkappavattanasuttaṃ, SN V.XXII.ii.1)'
 category: suristos suttos
 index: D
 sortIndex: 5921
+image:
+  feature: Burmese.jpg
 tags:
   - D
 ---
