@@ -1,12 +1,18 @@
 ---
 layout: page
-title: Sāmaññaphalasuttaṃ Atsiskyrimo vaisiai (DN 2)
-category: ilgos suttos
-index: S
-sortIndex: .nan
+title: 'Atsiskyrimo vaisiai (Sāmaññaphalasuttaṃ, DN 2)'
 tags:
   - S
----
+index: S
+comments: false
+parts:
+  - 1
+  - 2
+hideIndex: true
+category: ilgos suttos
+image:
+  feature: abstract-2.jpg
+published: true
 <a href="../samannaphala-p2" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../2019-12-16-samannaphala-p2-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
