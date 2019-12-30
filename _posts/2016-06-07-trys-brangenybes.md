@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiratana ir Tisarana
+title: Trys brangenybės ir Trys prieglobsčiai
 category: mokymas
 tags:
   - mokymas
@@ -23,7 +23,7 @@ pripažįsta _Budą_ savo mokytoju, _Dharmą_ – mokymu ir _Sanghą_ – palaik
 
 **Buda**
 
-_Buda_ reiškia „Atbudęs“, „Visiškai nušvitęs“. _Buda_ nėra Dievas, pranašas, ar Dievo įsikūnijimas, jis yra tobuliausias iš žmonių, be mokytojo, savo paties pastangomis, atsikratęs visų proto teršalų, netobulumų ir įgavęs visas dorybes. Būdamas neprilygstamu mokytoju, jis gali pateikti mokymą tokia forma, kad jis bus geriausiai suprantamas ir naudingas klausytojui. Kai priimame _Budą_ prieglobsčiu, mes pripažįstame šį žmogų tobuliausio tyrumo, išminties ir atjautos įkūnijimu, nepralenkiamu mokytoju, kurį sekdami mes galime saugiai išeiti iš pavojų kupino samsaros rato.
+_Buda_ reiškia „Nušvitęs“, „Visiškai nušvitęs“. _Buda_ nėra Dievas, pranašas, ar Dievo įsikūnijimas, jis yra tobuliausias iš žmonių, be mokytojo, savo paties pastangomis, atsikratęs visų proto teršalų, netobulumų ir įgavęs visas dorybes. Būdamas neprilygstamu mokytoju, jis gali pateikti mokymą tokia forma, kad jis bus geriausiai suprantamas ir naudingas klausytojui. Kai priimame _Budą_ prieglobsčiu, mes pripažįstame šį žmogų tobuliausio tyrumo, išminties ir atjautos įkūnijimu, nepralenkiamu mokytoju, kurį sekdami mes galime saugiai išeiti iš pavojų kupino samsaros rato.
 
 **_Dharma_** 
 
@@ -47,6 +47,6 @@ Vienuolių _Sangha_ prisiima atsakomybę tęsti praktikos tradiciją ir rodo kit
 
 Ši _Sangha_ gali suteikti visiems, kas nori paskirti visą savo gyvenimą aukščiausiojo tikslo, išsilavinimo, pasiekimui be pasaulietiško gyvenimo trikdžių, palankias išorines sąlygas bei reikalingą vadovavimą.
 
-Bet žodis „_Sangha_“ taip pat turi ir kitą prasmę. Jis taip pat reiškia nušvitusiųjų, tai yra tų žmonių, kurie tiesiogine patirtimi perprato keturias tauriąsias tiesas, bendruomenę. Tai ir yra ta _Sangha,_ kuri priimama prieglobsčiu.
+Bet žodis „_Sangha_“ taip pat turi ir kitą prasmę. Jis taip pat reiškia nušvitusiųjų, tai yra tų žmonių, kurie tiesiogine patirtimi perprato keturias taurinančias tiesas, bendruomenę. Tai ir yra ta _Sangha,_ kuri priimama prieglobsčiu.
 
 Tauriųjų _Sangha_ tiesiogine patirtimi pažino svarbiausią, giliausią Budos mokymo esmę. Mokymas tapo tvirtai įsišaknijęs juose. Tai suteikia jiems galios ir sugebėjimą nukreipti kitus į tą patį tikslą. Būtent dėl šios priežasties jie ir gali tapti kitų prieglobsčiu.
