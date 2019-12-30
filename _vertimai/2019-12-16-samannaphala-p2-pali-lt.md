@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Samannaphala-p2-pali-lt
-category: ilgos suttos
+title: Sāmaññaphalasuttaṃ pali-lt
+tags:
+  - S
 index: S
-sortIndex: .nan
+comments: false
+hideIndex: true
+category: ilgos suttos
+image:
+  feature: abstract-2.jpg
+published: true
 ---
 <a href="../samannaphala-p2" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../2019-12-16-samannaphala-p2-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
