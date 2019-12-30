@@ -5,5 +5,5 @@ description: ""
 category: "tipitaka"
 comments: false
 image:
-  feature: buddha4801.jpg
+  feature: Parabaik.jpg
 ---
