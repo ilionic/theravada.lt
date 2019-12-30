@@ -23,13 +23,13 @@ Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
 * Dantinis              _l_  
 * Dantinis ir lūpinis   _v_ 
 
-  Dantinis              _s_  
+Kiti priebalsiai
+  - Dantinis              _s_  
+  - Aspiruotas            _h_  
+  - Retrofleksinis        _ḷ_  
+  - Niggahita             _ṃ_ 
 
-  Aspiruotas            _h_  
-
-  Retrofleksinis        _ḷ_  
-
-  Niggahita             _ṃ_ 
+### Tarimas
 
 Pali kalba yra fonetinė ir kiekviena raidė turi jai būdingą garsą.
 
