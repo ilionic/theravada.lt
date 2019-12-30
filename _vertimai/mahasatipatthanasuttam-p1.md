@@ -139,7 +139,7 @@ Taip, jis gyvena reiškiniuose, kontempliuodamas reiškinius viduje, arba gyvena
 
 Toliau, vienuoliai, vienuolis gyvena reiškiniuose, kontempliuodamas keturias taurinančias tiesas. Ir kaipgi vienuolis gyvena reiškiniuose, kontempliuodamas keturias taurinančias tiesas? Štai vienuolis žino tai, kaip yra iš tikrųjų - "Tai yra kančia", jis žino tai, kaip yra iš tikrųjų - "Tai yra kančios priežastis", jis žino tai, kaip yra iš tikrųjų - "Tai yra kančios išnykimas", jis žino tai, kaip yra iš tikrųjų - "Tai yra kelias, vedantis į kančios išnykimą".
 
-### kančios tiesos išdėstymas
+### Kančios tiesa
 
 Ir kas, vienuoliai, yra kančios taurinanti tiesa? Ir gimimas yra kančia, ir senėjimas yra kančia, ir mirtis yra kančia, ir liūdesys, raudojimas, skausmas, nusiminimas, nerimas yra kančia, susidūrimas su tuo, kas nemiela, yra kančia, išsiskyrimas su tuo, kas miela, yra kančia, negavimas to, ko norisi, irgi yra kančia; trumpiau penki prisirišimo komponentai yra kančia.
 
@@ -167,7 +167,7 @@ Ir kas, vienuoliai, yra negavimas to, ko norisi? Būtybėms, turinčioms prigimt
 
 Vienuoliai, ir kas tai trumpiau- penki prisirišimo komponentai, [kurie] yra kančia? Tai yra materijos prisirišimo komponentas, jausmo prisirišimo komponentas, suvokimo prisirišimo komponentas, proto darinių prisirišimo komponentas, sąmonės prisirišimo komponentas. Šie, vienuoliai, vadinami trumpiau - penkiais prisirišimo komponentais [kurie] yra kančia. Tai, vienuoliai, vadinama kančios tauriąja tiesa.
 
-### Priežasties tiesos išdėstymas
+### Priežasties tiesa
 
 Ir kas, vienuoliai, yra kančios priežasties taurinanti tiesa? Tai yra tas troškimas, kuris veda į pakartotiną būtį, susijęs su džiugesiu ir geismu, siekiantis džiugesio tai šen, tai ten, tai yra juslinių malonumų troškimas, būties troškimas, nebūties troškimas.
 
@@ -193,7 +193,7 @@ Mintis apie formą pasaulyje... Mintis apie garsą pasaulyje... Mintis apie kvap
 
 Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas gimdamas gimsta, ten jis būdamas būna. Tai, vienuoliai, vadinama kančios priežasties tauriąja tiesa.
 
-### Išnykimo tiesos išdėstymas
+### Išnykimo tiesa
 
 Ir kas, vienuoliai, yra kančios išnykimo taurinanti tiesa? Tai yra to troškimo visiškas užgesimas ir išnykimas, [jo] atmetimas, atsisakymas, išsilavinimas [nuo jo], [jo] nepriėmimas.
 
@@ -219,7 +219,7 @@ Mintis apie formą pasaulyje... Mintis apie garsą pasaulyje... Mintis apie kvap
 
 Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta. Tai, vienuoliai, vadinama kančios išnykimo tauriąja tiesa.
 
-### Kelio tiesos išdėstymas
+### Kelio tiesa
 
 Ir kas, vienuoliai, yra kelio, vedančio į kančios išnykimą taurinanti tiesa? Tai yra taurinantis aštuonialypis kelias, tai yra: teisingas požiūris, teisingas ketinimas, teisinga kalba, teisingas veiksmas, teisingas pragyvenimo šaltinis, teisinga pastanga, teisingas atidumas, teisingas susitelkimas.
 
