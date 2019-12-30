@@ -9,7 +9,7 @@ image:
   feature: Burmese.jpg
 published: true
 ---
-<a href="../mahādukkhakkhandhasuttaṃ">Lietuvių</a>
+<a href="../mahādukkhakkhandhasuttaṃ" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../mahādukkhakkhandhasuttaṃ-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 
