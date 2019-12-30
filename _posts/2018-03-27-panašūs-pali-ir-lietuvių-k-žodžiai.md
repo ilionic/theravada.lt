@@ -16,7 +16,7 @@ category: tipitaka
 
 <!--break-->
 
-\| :--- | :--- |
+| :--- | :--- |
 | ḍahati | 	degti |	
 | deseti |	dėstyti	| 
 | divā	| diena |
