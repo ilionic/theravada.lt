@@ -9,33 +9,33 @@ Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
 
 33 priebalsiai (_vyañjana_):
 
-  Velariniai            _k_, _kh_, _g_, _gh_, _ṅ_   – ka grupė  
+  Velariniai           _k_, _kh_, _g_, _gh_, _ṅ_   – ka grupė  
 
   Palataliniai         _c_, _ch_, _j_, _jh_, _ñ_      – ca grupė  
 
-  Retrofleksiniai   _ṭ_, _ṭh_, _ḍ_, _ḍh_, _ṇ_    – ṭa grupė   
+  Retrofleksiniai      _ṭ_, _ṭh_, _ḍ_, _ḍh_, _ṇ_    – ṭa grupė   
 
-  Dantiniai             _t_, _th_, _d_, _dh_, _n_      – ta grupė  
+  Dantiniai            _t_, _th_, _d_, _dh_, _n_      – ta grupė  
 
-  Lūpiniai               _p_, _ph_, _b_, _bh_, _m_  – pa grupė  
+  Lūpiniai              _p_, _ph_, _b_, _bh_, _m_  – pa grupė  
 
-\*\Palatalinis               _y_  
+  \* Palatalinis           _y_  
+ 
+  \* Retrofleksinis        _ r_  
 
-\*\Retrofleksinis        _ r_  
+  \* Dantinis              _l_  
 
-\*\Dantinis                   _l_  
+  \* Dantinis ir lūpinis   _v _ 
 
-\*\Dantinis ir lūpinis   _v _ 
+  Dantinis              _s_  
 
-  Dantinis                     _s_  
+  Aspiruotas            _h_  
 
-  Aspiruotas                 _h_  
+  Retrofleksinis        _ḷ_  
 
-  Retrofleksinis            _ḷ_  
+  Niggahita             _ṃ_ 
 
-  Niggahita                   _ṃ_ 
-
-\*\Pusiau balsiai
+\* Pusiau balsiai
 
 Pali kalba yra fonetinė ir kiekviena raidė turi jai būdingą garsą.
 
