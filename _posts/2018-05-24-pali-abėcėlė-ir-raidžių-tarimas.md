@@ -9,6 +9,13 @@ Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
 
 33 priebalsiai (_vyañjana_):
 
+| Artikuliacojos vieta |  duslus | aspiruotas | skardus |  aspiruotas |  nosinis   |  grupė |
+| :-------------------- | :-------: | :----------: | :-------: | :-----------: | :----------: | ------: |
+| Velariniai           |   _k_   |  _kh_      |  _g_    |  _gh_       |  _ṅ_       |  ka    |
+| Palataliniai         |    _c_  |  _ch_      |  _j_    |  _jh_       |  _ñ_       |   ca   |
+| Retrofleksiniai      |  _ṭ_    |  _ṭh_      |  _ḍ_    |  _ḍh_       |  _ṇ_       |  ṭa    |
+| Pantiniai            |  _t_    |  _th_      |  _d_    |  _dh_       |  _n_     | ta |
+| Lūpiniai             |  _p_    |  _ph_      |  _b_    |  _bh_       |  _m_    | pa |
   Velariniai           _k_, _kh_, _g_, _gh_, _ṅ_   – ka grupė  
 
   Palataliniai         _c_, _ch_, _j_, _jh_, _ñ_      – ca grupė  
@@ -21,11 +28,11 @@ Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
 
   \* Palatalinis           _y_  
  
-  \* Retrofleksinis        _ r_  
+  \* Retrofleksinis        _r_  
 
   \* Dantinis              _l_  
 
-  \* Dantinis ir lūpinis   _v _ 
+  \* Dantinis ir lūpinis   _v_ 
 
   Dantinis              _s_  
 
@@ -45,9 +52,9 @@ Pali kalba yra fonetinė ir kiekviena raidė turi jai būdingą garsą.
 
 <!--break-->
 
- _ i_   tariasi kaip žodžio   v**i**s                i  
+ _i_   tariasi kaip žodžio   v**i**s                i  
 
-  _ī _  tariasi kaip žodžio   l**y**gis             y  
+  _ī_  tariasi kaip žodžio   l**y**gis             y  
 
   _u_   tariasi kaip žodžio   t**u**rgus        u  
 
@@ -68,7 +75,7 @@ Pali kalba yra fonetinė ir kiekviena raidė turi jai būdingą garsą.
   _j_   tariasi kaip žodžio   **dž**iunglės   d\
   _ñ_   tariasi kaip žodžio   se**nj**oras   nj  
 
-  ṭ   tariasi kaip žodžio   be**t**               t  
+  _ṭ_   tariasi kaip žodžio   be**t**               t  
 
   _ḍ_   tariasi kaip žodžio   ka**d**a           d  
 
