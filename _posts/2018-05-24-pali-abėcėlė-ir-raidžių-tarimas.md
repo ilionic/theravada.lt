@@ -16,16 +16,7 @@ Pali abėcėlę sudaro 41 raidė: 8 balsės ir 33 priebalsiai.
 | Retrofleksiniai      |  _ṭ_    |  _ṭh_      |  _ḍ_    |  _ḍh_       |  _ṇ_       |  ṭa    |
 | Pantiniai            |  _t_    |  _th_      |  _d_    |  _dh_       |  _n_     | ta |
 | Lūpiniai             |  _p_    |  _ph_      |  _b_    |  _bh_       |  _m_    | pa |
-  Velariniai           _k_, _kh_, _g_, _gh_, _ṅ_   – ka grupė  
-
-  Palataliniai         _c_, _ch_, _j_, _jh_, _ñ_      – ca grupė  
-
-  Retrofleksiniai      _ṭ_, _ṭh_, _ḍ_, _ḍh_, _ṇ_    – ṭa grupė   
-
-  Dantiniai            _t_, _th_, _d_, _dh_, _n_      – ta grupė  
-
-  Lūpiniai              _p_, _ph_, _b_, _bh_, _m_  – pa grupė  
-
+  
   \* Palatalinis           _y_  
  
   \* Retrofleksinis        _r_  
