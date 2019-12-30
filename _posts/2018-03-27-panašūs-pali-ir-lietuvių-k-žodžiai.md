@@ -4,7 +4,7 @@ title: Panašūs pali ir lietuvių k. žodžiai
 category: tipitaka
 ---
 | **pali**    | **lietuvių**  |
-| ----------- | ------------- |
+| :----------- | :------------- |
 | \-tar       | \-tojas       |
 | aggi        | ugnis         |
 | āneti       | atnešti	bring |
@@ -16,7 +16,7 @@ category: tipitaka
 
 <!--break-->
 
-\| --- | --- |
+\| :--- | :--- |
 | ḍahati | 	degti |	
 | deseti |	dėstyti	| 
 | divā	| diena |
