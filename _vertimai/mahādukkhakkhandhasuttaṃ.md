@@ -10,7 +10,7 @@ image:
   feature: Burmese.jpg
 published: true
 ---
-<a href="../mahādukkhakkhandhasuttaṃ">Lietuvių</a>
+<a href="../mahādukkhakkhandhasuttaṃ" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../mahādukkhakkhandhasuttaṃ-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. Tada gi iš ryto būrys vienuolių apsirengę, pasiėmę dubenis aukoms ir viršutinius apdarus, nuėjo į Savathę aukų \[rinkti]. Tada gi tie vienuoliai taip pagalvojo: „Dar per anksti eiti į Savathę aukų rinkti, paimsiu ir nuėjsiu į kitatikių klajotojų parką.“ Tada gi tie vienuoliai nuėjo į kitatikių klajotojų parką, nuėję, su tais kitatikiais klajotojais apsikeitė mandagiais sveikinimais. Apsikeitę mandagiais sveikinimais ir draugiškais žodžiais atsisėdo iš šono. Sėdintiems gi iš šono tiems vienuoliams kitatikiai klajotojai štai ką pasakė:\
