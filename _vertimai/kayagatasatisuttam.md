@@ -6,6 +6,9 @@ index: K
 sortIndex: 329
 tags:
   - K
+image:
+  feature: Burmese.jpg
+published: true
 ---
 <a href="../kayagatasatisuttam" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../2019-12-08-kāyagatāsatisuttaṃ-atidumas-kūnui-mn-119-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a>
