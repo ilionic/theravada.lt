@@ -18,6 +18,8 @@ Paaiškinęs _dukhą_, Buda parodo ir jos priežastį. Tai yra su džiugesiu ir 
 
 Pirmas dvi tiesas turime nuodugniai pažinti, suprasti, kiaurai perprasti savo tiesiogine patirtimi tam, kad mums atsivertų trečioji tiesa: _dukhos_ išnykimas. Buda ją aprašo kaip troškimo visišką nusilpimą ir išnykimą, jo palikimą, atsisakymą ir nepriėmimą, išsilavinimą nuo jo. Tai yra viso budistinio kelio tikslas – _nirvana_ (pali k. _nibbāna_).
 
+<!--break-->
+
 Ir galiausiai, paaiškinęs _dukhą_, jos priežastį bei išnykimą, Buda išdėsto kelią, kuris veda į trečiąją tiesą, _dukhos_ nutrūkimą, _nirvaną_ – Aštuonialypį taurinantį kelią. Jo sudedamosios dalys yra:   
 
 1. teisingas požiūris (_sammādiṭṭhi_),
