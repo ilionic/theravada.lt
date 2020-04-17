@@ -48,6 +48,7 @@ gems:
 sass:
   sass_dir: _sass
   style: compressed
+minimal_mistakes_skin: "dark"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/post-:title/
