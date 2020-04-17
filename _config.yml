@@ -30,7 +30,7 @@ owner:
 background: 
 
 # Logo before the site title
-logo:           apple-touch-icon-72x72-precomposed.png"
+logo:           /images/apple-touch-icon-72x72-precomposed.png"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
