@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ar _ariyasacca_ reiškia 'taurioji tiesa'?
+title: Ar ariyasacca reiškia 'taurioji tiesa'?
 category: mokymas
 tags:
   - mokymas
