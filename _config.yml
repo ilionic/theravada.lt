@@ -13,7 +13,7 @@ owner:
   name:           Theravados budizmas
   avatar:         avatar.jpg
   bio:            "Theravados budizmas"
-  email:          you@email.com
+  email:          sayalay.piyadassii@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -28,6 +28,9 @@ owner:
 
 # Background image to be tiled on all pages
 background: 
+
+# Logo before the site title
+logo:           apple-touch-icon-72x72-precomposed.png"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
