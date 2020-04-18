@@ -14,7 +14,6 @@ comments: false
   	<li><a href="#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span> <span class="count">{{ site.tags[this_word].size }}</span></a></li>
   {% endunless %}{% endfor %}
 </ul>
-
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
 	<article>
@@ -24,5 +23,54 @@ comments: false
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
 		</ul>
+	</article><!-- /.hentry -->
+{% endunless %}{% endfor %}
+
+<!-- {% capture site_tags %}{% for tag in site[vertimai].tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %} -->
+<!-- {% assign tags_list = site_tags | split:',' | sort %} -->
+<!-- Create empty arrays -->
+{% assign tags = '' | split: ',' %}
+{% assign unique_tags = '' | split: ',' %}
+
+{% assign tags =  site.vertimai | map: 'tags' | join: ',' | split: ','  %}
+<!-- Uniq -->
+{% assign tags = tags | sort %}
+{% for tag in tags %}
+  <!-- If not equal to previous then it must be unique as sorted -->
+  {% unless tag == previous %}
+    <!-- Push to unique_tags -->
+    {% assign unique_tags = unique_tags | push: tag %}
+  {% endunless %}
+  {% assign previous = tag %}
+{% endfor %}
+
+
+{% for item in (0..unique_tags.size) %}{% unless forloop.last %}
+  {% capture this_word %}{{ unique_tags[item] | strip_newlines }}{% endcapture %}
+	<article>
+	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
+		<ul>
+    {% assign tagPosts = site.vertimai | where: "index",this_word %}
+
+    {% for post in tagPosts %}{% if post.title != null %}
+        {% unless post.hideIndex %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.parts %}
+          [{% for part in post.parts %}
+            {% capture postNum %}-p{{ part }}{% endcapture %}
+            {% assign postName = post.url | replace: '-p1', postNum %}
+            <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">dalis {{ part }}</a>
+            {% if part != post.parts.size %}
+            |
+            {% endif %}
+          {% endfor %}]
+        {% endif %}
+        </li>
+        {% endunless %}
+    {% endif %}{% endfor %}
+		</ul>
+	</article><!-- /.hentry -->
+
+
 	</article><!-- /.hentry -->
 {% endunless %}{% endfor %}
