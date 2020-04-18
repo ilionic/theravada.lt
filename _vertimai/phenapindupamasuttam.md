@@ -2,8 +2,8 @@
 layout: page
 title: 'Palyginimas su putų gumulu (Pheṇapiṇḍūpamasuttaṃ, SN II.I.x.3)'
 tags:
-  - P
-index: P
+  - Penkios sankaupos (khandhā)
+index: Penkios sankaupos (khandhā)
 comments: false
 category: suristos suttos
 sortIndex: 2193
