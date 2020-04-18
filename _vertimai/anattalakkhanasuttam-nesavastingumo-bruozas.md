@@ -2,10 +2,10 @@
 layout: page
 title: 'Nesavastingumo bruožas (Anattalakkhaṇasuttaṃ, SNIII.I.vi.7)'
 category: suristos suttos
-index: A
+index: Nesavastingumas (anatta)
 sortIndex: 3167
 tags:
-  - A
+  - Nesavastingumas (anatta)
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Varanasyje Išminčių vietovėje Elnių parke. Tada gi Palaimintasis kreipėsi į vienuolių penketuką:
 
