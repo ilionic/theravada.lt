@@ -5,7 +5,8 @@ category: vidutinio
 comments: false
 hideIndex: true
 tags:
-  - S
+  - Meditacija
+index: Meditacija
 image:
   feature: Burmese.jpg
 published: true
