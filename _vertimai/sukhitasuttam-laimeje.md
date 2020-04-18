@@ -2,10 +2,10 @@
 layout: page
 title: 'Laimėje (Sukhitasuttaṃ, SN II.IV.ii.2)'
 category: suristos suttos
-index: S
+index: Samsara
 sortIndex: 2422
 tags:
-  - S
+  - Samsara
 ---
 Buvo apsistojęs Savathėje... Vienuoliai, neįsivaizduojama \[kada buvo] šios samsaros pradžia...\[žr. SN II.IV.i.1]... vienuoliai, kai pamatysite kažką laimėje, kažką geros kompleksijos, turėtumėte prieiti prie tokios išvados: „Aš gi taip pat per šį labai ilgą laiką esu tai patyręs.“ Dėl ko taip yra? Vienuoliai, neįsivaizduojama \[kada buvo] šios saṃsāros pradžia. Neįmanoma nurodyti praeityje būtybių... <a href="../tinakatthasuttam-zole-ir-sakeles">{žr. SN II.IV.i.1}</a> ... išsilaisvinti \[nuo jų].
 
