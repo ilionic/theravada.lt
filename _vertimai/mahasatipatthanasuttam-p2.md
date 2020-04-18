@@ -2,8 +2,9 @@
 layout: page
 title: 'Didžioji sutra apie keturias atidumo sritis (Mahāsatipaṭṭhānasuttaṃ, DN 19)'
 tags:
-  - M
-index: M
+  - Meditacija
+  - Dorovė
+index: Meditacija, Dorovė
 comments: false
 hideIndex: true
 category: ilgos suttos
