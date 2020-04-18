@@ -2,10 +2,10 @@
 layout: page
 title: 'Su Nirvana susijusios sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1-4)'
 category: dziaugsmingi
-index: 'N'
+index: Nirvana
 sortIndex: 81
 tags:
-  - 'N'
+  - Nirvana
 ---
 
 
