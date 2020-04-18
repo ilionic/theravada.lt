@@ -3,8 +3,11 @@ layout: post
 title: Meditacija
 category: praktika
 tags:
-  - praktika
-  - meditacija
+  - Praktika
+  - Meditacija
+index:
+  - Praktika
+  - Meditacija
 ---
 
 Meditacija (*bhāvana*) šiais laikais tapo plačiai žinoma sąvoka. Įvairių religinių pažiūrų žmonės medituoja ir tai daro dėl skirtingų priežasčių: vieni siekia sumažinti stresą, įgauti ramų protą, kiti - išsilaisvinimo iš atgimimų rato, visų kančių pabaigos.
