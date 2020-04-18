@@ -2,7 +2,9 @@
 layout: page
 title: 'Pasaulėžiūros (Diṭṭhigatasuttaṃ, Iti 49)'
 category: trumpesni
-index: D
+index: Pažiūros (diṭṭhi)
+tags:
+  - Pažiūros (diṭṭhi)
 sortIndex: 1
 ---
 
