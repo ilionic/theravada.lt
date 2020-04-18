@@ -4,13 +4,14 @@ title: 'Didžioji sutra apie kančios krūvą (Mahādukkhakkhandhasuttaṃ, MN I
 category: vidutinio
 hideIndex: true
 tags:
-  - M
+  - Pavojus
+index: Pavojus
 image:
   feature: Burmese.jpg
 published: true
 ---
 <a href="../mahādukkhakkhandhasuttaṃ" class="btn btn-primary btn-next">Lietuvių</a>
-<a href="../mahādukkhakkhandhasuttaṃ-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
+<a href="../mahādukkhakkhandhasuttaṃ-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 
 **Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme.** buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. **Atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā** Tada gi iš ryto būrys vienuolių apsirengę, **pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃsu.** pasiėmę dubenis aukoms ir viršutinius apdarus, nuėjo į Savathę aukų \[rinkti]. **Atha kho tesaṃ bhikkhūnaṃ etadahosi –** Tada gi tie vienuoliai taip pagalvojo: **atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ,** „Per anksti dar eiti į Savathę aukų rinkti, **yaṃ nūna mayaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyyāmāti.** paimsiu ir nuėjsiu į kitatikių klajotojų parką. **Atha kho te bhikkhū** Tada gi tie vienuoliai **yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkamiṃsu;** nuėjo į kitatikių klajotojų parką **upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodiṃsu;** nuėję, su tais kitatikiais klajotojais apsikeitė mandagiais sveikinimais. **sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā** Apsikeitę mandagiais sveikinimais ir draugiškais žodžiais **ekamantaṃ nisīdiṃsu.** atsisėdo iš šono. **Ekamantaṃ nisinne kho te bhikkhū** Sėdintiems gi iš šono tiems vienuoliams **te aññatitthiyā paribbājakā etadavocuṃ –** kitatikiai klajotojai štai ką pasakė:  **samaṇo, āvuso, gotamo kāmānaṃ pariññaṃ paññapeti,** „Draugai, atsiskyrėlis Gotama aiškina visišką juslinių malonumų supratimą, **mayampi kāmānaṃ pariññaṃ paññapema;** mes irgi aiškiname visišką juslinių malonumų supratimą. **samaṇo, āvuso, gotamo rūpānaṃ pariññaṃ paññapeti,** Draugai, atsiskyrėlis Gotama aiškina visišką materijos supratimą, **mayampi rūpānaṃ pariññaṃ paññapema;** mes irgi aiškiname visišką materijos supratimą. **samaṇo, āvuso, gotamo vedanānaṃ pariññaṃ paññapeti,** Draugai, atsiskyrėlis Gotama aiškina visišką jausmų supratimą, **mayampi vedanānaṃ pariññaṃ paññapema;**  mes irgi aiškiname visišką jausmų supratimą. **idha no, āvuso, ko viseso, ko adhippayāso,** Koks, draugai, čia skirtumas, kokia skirtis\[^1], **kiṃ nānākaraṇaṃ samaṇassa vā gotamassa amhākaṃ vā –** koks nesutapimas tarp atsiskyrėlio Gotamos ir mūsų **yadidaṃ dhammadesanāya vā dhammadesanaṃ,** Dharmos dėstymo, **anusāsaniyā vā anusāsaninti?** apmokymo. **Atha kho te bhikkhū tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ** Tada gi tie vienuoliai kitatikių klajotojų kalba **neva abhinandiṃsu, nappaṭikkosiṃsu;** nei pasidžiaugė, nei ją išpeikė. **anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃsu –** Nepasidžiaugę, neišpeikę, atsikėlė ir išėjo, \[galvodami]: **bhagavato santike etassa bhāsitassa atthaṃ ājānissāmāti.** „Sužinosime šios kalbos prasme kai būsime šalia Palaimintojo.
