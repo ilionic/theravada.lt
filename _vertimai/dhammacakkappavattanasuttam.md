@@ -2,12 +2,12 @@
 layout: page
 title: 'Dharmos rato pasukimas (Dhammacakkappavattanasuttaṃ, SN V.XXII.ii.1)'
 category: suristos suttos
-index: D
+index: Taurinančios tiesos
 sortIndex: 5921
 image:
   feature: Burmese.jpg
 tags:
-  - D
+  - Taurinančios tiesos
 ---
 Vieną kartą Palaimintasis gyveno Varanasyje Išminčių vietovėje Elnių parke. Tada gi Palaimintasis kreipėsi į vienuolių penketuką:
 
