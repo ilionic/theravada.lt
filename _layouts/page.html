@@ -37,8 +37,6 @@
     </header>
     <div class="entry-content">
       {{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
-      <footer class="entry-meta">
-      </footer>
     </div><!-- /.entry-content -->
     {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
   </article>
