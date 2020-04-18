@@ -2,16 +2,16 @@
 layout: page
 title: 'Didžioji sutra apie kančios krūvą (Mahādukkhakkhandhasuttaṃ, MN I.ii.3)'
 category: vidutinio
-index: M
+index: Pavojus
 sortIndex: 123
 tags:
-  - M
+  - Pavojus
 image:
   feature: Burmese.jpg
 published: true
 ---
 <a href="../mahādukkhakkhandhasuttaṃ" class="btn btn-primary btn-next">Lietuvių</a>
-<a href="../mahādukkhakkhandhasuttaṃ-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
+<a href="../mahādukkhakkhandhasuttaṃ-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. Tada gi iš ryto būrys vienuolių apsirengę, pasiėmę dubenis aukoms ir viršutinius apdarus, nuėjo į Savathę aukų \[rinkti]. Tada gi tie vienuoliai taip pagalvojo: „Dar per anksti eiti į Savathę aukų rinkti, paimsiu ir nuėjsiu į kitatikių klajotojų parką.“ Tada gi tie vienuoliai nuėjo į kitatikių klajotojų parką, nuėję, su tais kitatikiais klajotojais apsikeitė mandagiais sveikinimais. Apsikeitę mandagiais sveikinimais ir draugiškais žodžiais atsisėdo iš šono. Sėdintiems gi iš šono tiems vienuoliams kitatikiai klajotojai štai ką pasakė:\
 – Draugai, atsiskyrėlis Gotama aiškina visišką juslinių malonumų supratimą, mes irgi aiškiname visišką juslinių malonumų supratimą. Draugai, atsiskyrėlis Gotama aiškina visišką materijos supratimą, mes irgi aiškiname visišką materijos supratimą. Draugai, atsiskyrėlis Gotama aiškina visišką jausmų supratimą, mes irgi aiškiname visišką jausmų supratimą. Koks, draugai, čia skirtumas, kokia skirtis\[^1], koks nesutapimas tarp atsiskyrėlio Gotamos ir mūsų Dharmos dėstymo, apmokymo.\
