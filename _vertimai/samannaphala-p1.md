@@ -5,7 +5,10 @@ tags:
   - Dorovė
   - Meditacija
   - Praktika
-index: Dorovė, Meditacija, Praktika
+index: 
+  - Dorovė 
+  - Meditacija 
+  - Praktika
 comments: false
 parts:
   - 1
