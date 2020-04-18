@@ -2,10 +2,10 @@
 layout: page
 title: 'Sąlygotas atsiradimas (Paṭiccasamuppādasuttaṃ, SN II.I.i.1)'
 category: suristos suttos
-index: P
+index: Sąlygotas atsiradimas (paṭiccasamuppāda)
 sortIndex: 2111
 tags:
-  - P
+  - Sąlygotas atsiradimas (paṭiccasamuppāda)
 ---
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi Palaimintasis kreipėsi į vienuolius:
 
