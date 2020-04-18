@@ -2,7 +2,7 @@
 layout: page
 title: Samannaphalasuttaṃ pali-lt
 tags:
-  - S
+  - Dorovė, Meditacija
 index: S
 comments: false
 hideIndex: true
