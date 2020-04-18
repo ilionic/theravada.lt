@@ -2,10 +2,10 @@
 layout: page
 title: 'Mažoji veiksmų analizė (Cūḷakammavibhaṅgasuttaṃ, MN III.iv.5)'
 category: vidutinio
-index: C
+index: Karma
 sortIndex: 345
 tags:
-  - C
+  - Karma
 ---
 Taip aš girdėjau:
 
