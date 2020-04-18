@@ -2,8 +2,8 @@
 layout: page
 title: 'Didesnis pamokymas Rahulai (Mahārāhulovādasuttaṃ, MN II.ii.2)'
 tags:
-  - M
-index: M
+  - Meditacija
+index: Meditacija
 comments: false
 category: vidutinio
 sortIndex: 222
