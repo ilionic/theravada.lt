@@ -2,10 +2,10 @@
 layout: page
 title: 'Žolė ir šakelės (Tiṇakaṭṭhasuttaṃ, SN II.IV.i.1)'
 category: suristos suttos
-index: T
+index: Samsara
 sortIndex: 2411
 tags:
-  - T
+  - Samsara
 ---
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džėtos girioje Anathapindikos vienuolyne. Tada gi Palaimintasis kreipėsi į vienuolius:
 
