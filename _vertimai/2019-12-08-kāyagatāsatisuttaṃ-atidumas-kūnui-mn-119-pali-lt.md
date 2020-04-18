@@ -2,9 +2,9 @@
 layout: page
 title: 'Kāyagatāsatisuttaṃ (Atidumas kūnui, MN 119)'
 category: vidutinio
-index: K
+index: Meditacija
 tags:
-  - K
+  - Meditacija
 comments: false
 hideIndex: true
 image:
