@@ -2,12 +2,12 @@
 layout: page
 title: 'Paharadai (Pahārādasuttaṃ, AN 8.ii.9)'
 category: palaipsnines
-index: P
+index: Dharma ir disciplina
 sortIndex: 829
 image:
   feature: Burmese.jpg
 tags:
-  - P
+  - Dharma ir disciplina
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio nimo medžio papėdėje. Tada gi pas Palaimintąjį nuėjo asura Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:
 
