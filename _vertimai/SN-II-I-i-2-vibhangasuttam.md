@@ -2,10 +2,10 @@
 layout: page
 title: 'Nagrinėjimas (Vibhaṅgasuttaṃ, SN II.I.i.2)'
 category: suristos suttos
-index: V
+index: Sąlygotas atsiradimas (paṭiccasamuppāda)
 sortIndex: 2112
 tags:
-  - V
+  - Sąlygotas atsiradimas (paṭiccasamuppāda)
 ---
 Buvo apsistojęs Savathėje...
 
