@@ -2,8 +2,8 @@
 layout: page
 title: 'Dreduoti asketai (Jaṭilasuttaṃ, Ud 1.9)'
 tags:
-  - J
-index: J
+  - Pažiūros (diṭṭhi)
+index: Pažiūros (diṭṭhi)
 comments: false
 category: dziaugsmingi
 sortIndex: 19
