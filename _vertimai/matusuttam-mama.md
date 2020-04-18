@@ -2,10 +2,10 @@
 layout: page
 title: 'Mama (Mātusuttaṃ, SN II.IV.ii.4)'
 category: suristos suttos
-index: M
+index: Samsara
 sortIndex: 2424
 tags:
-  - M
+  - Samsara
 ---
 
 Buvo apsistojęs Savathėje...
