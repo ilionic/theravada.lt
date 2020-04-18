@@ -2,8 +2,10 @@
 layout: page
 title: 'Atsiskyrimo vaisiai (Sāmaññaphalasuttaṃ, DN 2)'
 tags:
-  - S
-index: S
+  - Dorovė
+  - Meditacija
+  - Praktika
+index: Dorovė, Meditacija, Praktika
 comments: false
 parts:
   - 1
