@@ -2,10 +2,10 @@
 layout: page
 title: 'Keturios atidumo sritys (Satipaṭṭhānasuttaṃ, MN I.i.10)'
 category: vidutinio
-index: S
+index: Meditacija
 sortIndex: 110
 tags:
-  - S
+  - Meditacija
 image:
   feature: Burmese.jpg
 published: true
