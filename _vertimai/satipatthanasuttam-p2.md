@@ -5,8 +5,17 @@ category: vidutinio
 comments: false
 hideIndex: true
 tags:
+  - Keturios atidumo sritys (satipaṭṭhāna)
   - Meditacija
-index: Meditacija
+  - Praktika 
+  - Taurinančios tiesos
+  - Teršalai (kilesā)
+index: 
+  - Keturios atidumo sritys (satipaṭṭhāna)
+  - Meditacija
+  - Praktika 
+  - Taurinančios tiesos
+  - Teršalai (kilesā)
 image:
   feature: Burmese.jpg
 published: true

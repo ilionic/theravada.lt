@@ -2,9 +2,19 @@
 layout: page
 title: 'Didžioji sutra apie keturias atidumo sritis (Mahāsatipaṭṭhānasuttaṃ, DN 19)'
 tags:
+  - Keturios atidumo sritys (satipaṭṭhāna)
   - Meditacija
-  - Dorovė
-index: Meditacija, Dorovė
+  - Praktika 
+  - Taurinančios tiesos
+  - Aštuonialypis kelias
+  - Teršalai (kilesā)
+index: 
+  - Keturios atidumo sritys (satipaṭṭhāna)
+  - Meditacija
+  - Praktika 
+  - Taurinančios tiesos
+  - Aštuonialypis kelias
+  - Teršalai (kilesā)
 comments: false
 category: ilgos suttos
 sortIndex: 19

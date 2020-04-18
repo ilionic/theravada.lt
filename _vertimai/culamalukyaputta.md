@@ -2,7 +2,9 @@
 layout: page
 title: 'Mažesnė suta Malukjai (Cūḷamālukyasutta, MN II.ii.3)'
 category: vidutinio
-index: Pažiūros (diṭṭhi), Taurinančios tiesos
+index: 
+  - Pažiūros (diṭṭhi)
+  - Taurinančios tiesos
 sortIndex: 223
 tags:
   - Pažiūros (diṭṭhi)

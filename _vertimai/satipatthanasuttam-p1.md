@@ -2,10 +2,19 @@
 layout: page
 title: 'Keturios atidumo sritys (Satipaṭṭhānasuttaṃ, MN I.i.10)'
 category: vidutinio
-index: Meditacija
 sortIndex: 110
 tags:
+  - Keturios atidumo sritys (satipaṭṭhāna)
   - Meditacija
+  - Praktika 
+  - Taurinančios tiesos
+  - Teršalai (kilesā)
+index: 
+  - Keturios atidumo sritys (satipaṭṭhāna)
+  - Meditacija
+  - Praktika 
+  - Taurinančios tiesos
+  - Teršalai (kilesā)
 image:
   feature: Burmese.jpg
 published: true

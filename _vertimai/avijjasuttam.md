@@ -4,7 +4,9 @@ title: 'Nežinojimas (Avijjāsuttaṃ, AN10.II.ii.1)'
 tags:
   - Teršalai (kilesā)
   - Praktika
-index: Teršalai (kilesā), Praktika
+index: 
+  - Teršalai (kilesā) 
+  - Praktika
 comments: false
 category: palaipsnines
 sortIndex: 10221

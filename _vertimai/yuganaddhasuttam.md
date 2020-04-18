@@ -2,7 +2,9 @@
 layout: page
 title: 'Sykiu (Yuganaddhasuttaṃ, AN 4.IV.ii.10)'
 category: palaipsnines
-index: Meditacija, Praktika
+index: 
+  - Meditacija 
+  - Praktika
 sortIndex: 442
 tags:
   - Meditacija
