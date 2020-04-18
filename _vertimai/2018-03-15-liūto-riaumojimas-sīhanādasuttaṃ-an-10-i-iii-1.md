@@ -2,7 +2,9 @@
 layout: page
 title: 'Liūto riaumojimas (Sīhanādasuttaṃ, AN 10.I.iii.1)'
 category: palaipsnines
-index: S
+index: Buda
+tags:
+  - Buda
 sortIndex: 10131
 ---
 Vienuoliai, liūtas, žvėrių karalius, iš ryto išlenda iš guolio. Išlindęs iš guolio, pasirąžo, pažiovauja. Pasirąžęs, pažiovavęs, apžiūri visas keturias \[pasaulio] puses. Apžiūrėjęs visas keturias \[pasaulio] puses, tris kartus suriaumoja liūto riaumojimą. Tris kartus suriaumojęs liūto riaumojimą, eina ieškoti grobio. Kodėl? \[Jis galvoja]: „Kad tik pavojų kupinuose keliuose netyčia nesužaločiau mažų būtybių!“\
