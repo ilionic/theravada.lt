@@ -2,7 +2,9 @@
 layout: page
 title: 'Našta (Bhārasuttaṃ, SN III.I.iii.1)'
 category: suristos suttos
-index: B
+index: Penkios sankaupos (khandhā)
+tags:
+  - Penkios sankaupos (khandhā)
 sortIndex: 3131
 ---
 Savathėje... tada gi... <br />
