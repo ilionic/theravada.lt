@@ -2,7 +2,9 @@
 layout: page
 title: 'Geranoriškumas (Mettasuttaṃ, Sn 1.8, Khp 9)'
 category: trumpesni
-index: M
+index: Praktika
+tags:
+  - Praktika
 sortIndex: 9
 ---
 1. Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną).<br /> Jis turi būti gebantis, tiesus, atviras, nuolankus, lankstus ir nepasipūtęs,<br />
