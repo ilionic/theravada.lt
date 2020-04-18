@@ -116,4 +116,4 @@ Kaip saulė apšviečianti dangaus skliautą."
 **Sūriyova [suriyova (sī. syā. kaṃ. pī.)] obhāsayamantalikkha’’nti.** Kaip saulė apšviečianti dangaus skliautą."  
 
 
-\**Mara (Māra) - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija. Jo armiją sudaro tokie trugdžiai kelyje į atbudimą kaip jusliniai malonumai, nepasitenkinimas, alkis ir troškulys, troškimas, tingulys ir apsnūdimas, baimė, neapsisprendimas, veidmainystė ir užsispirimas, neteisėtas praturtėjimas, išgarsėjimas, garbė ir statusas; bei savęs liaupsinimas ir kitų niekinimas.*
+\**Mara (Māra) - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija. Jo armiją sudaro tokie trugdžiai kelyje į nušvitimą kaip jusliniai malonumai, nepasitenkinimas, alkis ir troškulys, troškimas, tingulys ir apsnūdimas, baimė, neapsisprendimas, veidmainystė ir užsispirimas, neteisėtas praturtėjimas, išgarsėjimas, garbė ir statusas; bei savęs liaupsinimas ir kitų niekinimas.*
