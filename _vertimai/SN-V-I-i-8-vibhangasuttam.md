@@ -2,12 +2,12 @@
 layout: page
 title: 'Nagrinėjimas (Vibhaṅgasuttaṃ, SN V.I.i.8)'
 category: suristos suttos
-index: V
+index: Aštuonialypis kelias
 sortIndex: 5118
 image:
   feature: Burmese.jpg
 tags:
-  - V
+  - Aštuonialypis kelias
 ---
 Savathėje.
 
