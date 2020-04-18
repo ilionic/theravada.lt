@@ -2,10 +2,10 @@
 layout: page
 title: 'Liepsnose (Ādittasuttaṃ, SN IV.I.iii.6)'
 category: suristos suttos
-index: A
+index: Teršalai (kilesā)
 sortIndex: 4136
 tags:
-  - A
+  - Teršalai (kilesā)
 ---
 Vieną kartą Palaimintasis kartu su tūkstančiu vienuolių buvo apsistojęs Gajoje Gajasisoje. Tada gi Palaimintasis kreipėsi į vienuolius:
 
