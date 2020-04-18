@@ -2,10 +2,10 @@
 layout: page
 title: 'Apie gerą žmogų (Sappurisasuttaṃ, AN 4.II.iii.3)'
 category: palaipsnines
-index: S
+index: Dorovė
 sortIndex: 423
 tags:
-  - S
+  - Dorovė
 ---
 Vienuoliai, pasižymintis keturiomis savybėmis, turėtų būti žinomas esąs negeras žmogus. Kokias keturias? Štai, vienuoliai, negeras žmogus ir nepaklaustas kitų trūkumus atskleidžia, ką jau sakyti, kai paklaustas?! O jei jo klausia, jei tardo, nieko nepraleisdamas, nenutylėdamas, išsamiai, detaliai kalba apie kitų trūkumus. Vienuoliai, žinotina: šis yra negeras žmogus.
 
