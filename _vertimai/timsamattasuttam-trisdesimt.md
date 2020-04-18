@@ -2,10 +2,10 @@
 layout: page
 title: 'Trisdešimt (Tiṃsamattasuttaṃ , SN II.IV.ii.3)'
 category: suristos suttos
-index: T
+index: Samsara
 sortIndex: 2423
 tags:
-  - T
+  - Samsara
 ---
 Buvo apsistojęs Ražagahe bambukų girioje. Tada gi trisdešimt vienuolių iš Pavos \[Pathos] nuėjo pas Palaimintąjį; atėję pasveikino Palaimintąjį ir atsisėdo iš šono. Tada gi Palaimintasis taip pagalvojo: „Visi šie trisdešimt vienuolių iš Pavos gyvena miške, visi renka aukas, dėvi skudurų iš šiukšlyno apdarus, turi tik tris apdarus, \[bet] visi jie yra suvystyti į saitus. Pamokysiu juos Dharmos taip, kad jų protai dabar pat dėl neprisirišimo išsilaisvins nuo „užkratų“.“ Tada gi Palaimintasis kreipėsi į vienuolius:
 
