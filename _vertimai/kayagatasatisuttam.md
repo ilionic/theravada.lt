@@ -2,10 +2,10 @@
 layout: page
 title: 'Atidumas kūnui (Kāyagatāsatisuttaṃ, MN 119)'
 category: vidutinio
-index: K
+index: Meditacija
 sortIndex: 329
 tags:
-  - K
+  - Meditacija
 image:
   feature: Burmese.jpg
 published: true
