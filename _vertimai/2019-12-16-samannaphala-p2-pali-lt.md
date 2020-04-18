@@ -2,8 +2,8 @@
 layout: page
 title: Sāmaññaphalasuttaṃ pali-lt
 tags:
-  - S
-index: S
+  - Dorovė, Meditacija
+index: Dorovė, Meditacija
 comments: false
 hideIndex: true
 category: ilgos suttos
