@@ -2,7 +2,7 @@
 layout: page
 title: 'Vystymas (Bhāvanāsuttaṃ, AN 7.II.ii.7)'
 category: palaipsnines
-index: B
+index: Meditacija
 sortIndex: 7227
 image:
   feature: Burmese.jpg
