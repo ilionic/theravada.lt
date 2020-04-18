@@ -2,8 +2,8 @@
 layout: page
 title: 'Nušvitimas (Bodhisuttāni, Ud 1.1-3)'
 tags:
-  - B
-index: B
+  - Sąlygotas atsiradimas (paṭiccasamuppāda)
+index: Sąlygotas atsiradimas (paṭiccasamuppāda)
 comments: false
 category: dziaugsmingi
 sortIndex: 11
