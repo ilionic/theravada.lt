@@ -2,7 +2,9 @@
 layout: page
 title: 'Pasitenkinimas (Assādasuttaṃ, SN III.I.iii.5-7)'
 category: suristos suttos
-index: A
+index: Penkios sankaupos (khandhā)
+tags:
+  - Penkios sankaupos (khandhā)
 sortIndex: 3135
 ---
 Pasitenkinimas (SN III.I.iii.5, Assādasuttaṃ)
