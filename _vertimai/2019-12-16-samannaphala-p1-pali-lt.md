@@ -3,7 +3,7 @@ layout: page
 title: Samannaphalasuttaṃ pali-lt
 tags:
   - Dorovė, Meditacija
-index: S
+index: Dorovė, Meditacija
 comments: false
 hideIndex: true
 category: ilgos suttos
