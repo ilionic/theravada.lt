@@ -2,7 +2,9 @@
 layout: page
 title: 'Pusė (Upaḍḍhasutta, SN III.I.i.2)'
 category: suristos suttos
-index: U
+index: Praktika
+tags:
+  - Praktika
 image:
   feature: Burmese.jpg
 sortIndex: 3112
