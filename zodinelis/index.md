@@ -4,7 +4,7 @@ title: Žodinėlis
 category: zodinelis
 comments: false
 image:
-  feature: buddha4801.jpg
+  feature: Inscription.jpg
 published: true
 ---
 
