@@ -14,11 +14,11 @@ published: true
 
 **Bhavanga (bhavaṅga)** - vienuodų sąmonių tęstinumas, kuris nutrunka tik pažinimo proceso metu; jos objektas  yra toks pat kaip praeito gyvenimo artimos mirčiai sąmonės objektas.
 
-**Bodhisata (bodhisatta)** - žmogus pasižadėjęs tapti Buda; Mahajanos tradicijos idealas; iki savo atbudimo jis nugyvena nenusakomai didelį gyvenimų skaičių, o po jo tampa Buda iki tol kol tame gyvenime pasiekia parinirvana.
+**Bodhisata (bodhisatta)** - žmogus pasižadėjęs tapti Buda; Mahajanos tradicijos idealas; iki savo nušvitimo jis nugyvena nenusakomai didelį gyvenimų skaičių, o po jo tampa Buda iki tol kol tame gyvenime pasiekia parinirvana.
 
 **Brahma** - vieno iš dvidešimties žymiai aukštesnių už žmogaus pasalių gyventojų; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
 
-**Buda (buddha)** - be mokytojo pagalbos višiskai atbudes žmogus, tas kas pats atranda ir moko keturias tauriasias tiesas; kaip ir kiti Arahantai, po mirties (parinibbānos) jis nebeatgimsta nei viename iš pasaulių.
+**Buda (buddha)** - be mokytojo pagalbos višiskai nušvitęs žmogus, tas kas pats atranda ir moko keturias tauriasias tiesas; kaip ir kiti Arahantai, po mirties (parinibbānos) jis nebeatgimsta nei viename iš pasaulių.
 
 **Čėtana (cetana)** - viena iš svarbiausių universalių, t.y. surištų su kiekviena sąmone, mentalinių veikmių. Ji yra atsakinga už ketinimą, jos charakteristika yra siekimo būsena, ji pasireiškia visų su ja besirandančių mentalinių veikmių suderinimu ir nukreipimu link tikslo pasiekimo, jos funkcija yra karmos kaupimas.
 
@@ -44,7 +44,7 @@ published: true
 
 **Nirvana (nibbāna)** - galutinis nušvitimas; išnykimo elementas; galutinė realybė; pasiekiama pažinus ir peržengus galinius protą-materiją; 'matoma' subrendus įžvalgos pažinimams; tai nesavastis ir neprilygstamai pastovu ir ramu; tai nėra vieta.
 
-**Pačėkabudha (paccekabuddha)** - be mokytojo pagalbos višiskai atbudes žmogus, tas kas pats atranda keturias tauriasias tiesas, bet jų nemoko.
+**Pačėkabudha (paccekabuddha)** - be mokytojo pagalbos višiskai nušvitęs žmogus, tas kas pats atranda keturias tauriasias tiesas, bet jų nemoko.
 
 **Parinirvana (parinibbāna)** - Budos, Pačėkabudos ir visų Arahantų mirtis po kurios nebėra daugiau gimimų, nebėra materijos ir proto.
 
