@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Suta Vasakarai (Vassakārasuttaṃ, AN VII.i.III.2)'
-category: palaipsnines suttos
+category: palaipsnines
 index:  
 sortIndex: 7132
 tags:
