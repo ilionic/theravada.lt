@@ -6,7 +6,8 @@ index: Dorovė
 sortIndex: 7132
 tags: Dorovė
 ---
-– Vienuoliai, šie penki pavojai gresia nedoram, dorovės netekusiam [žmogui]. Kokie penki?\
+– Vienuoliai, šie penki pavojai gresia nedoram, dorovės netekusiam [žmogui]. Kokie penki?
+
 Štai, vienuoliai, nedoras, dorovės netekęs [žmogus] dėl nerūpestingumo praranda daug turto. Tai, vienuoliai, yra pirmas pavojus, gresiantis nedoram, dorovės netekusiam [žmogui].\
 Toliau, vienuoliai, nedoras, dorovės netekęs [žmogus] įgyja blogą vardą. Tai, vienuoliai, yra antras pavojus, gresiantis nedoram, dorovės netekusiam [žmogui].\
 Toliau, vienuoliai, nedoras, dorovės netekęs [žmogus] į kokį susirinkimą nenueitų – ar valdovų sueigą, ar brahmanų  krivulę, ar namų šeimininkų sueigą, ar atsiskyrėlių kuopą – jis savimi nepasitiki [ir būna] nebylus. Tai, vienuoliai, yra trečias pavojus, gresiantis nedoram, dorovės netekusiam [žmogui].\
