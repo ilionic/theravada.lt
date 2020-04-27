@@ -14,12 +14,9 @@ Vieną kartą Palaimintasis buvo apsistojęs vadžių šalyje Kotigamoje. Tada g
 
 – Vienuoliai, tai dėl keturių taurinančių tiesų nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
  
-Kokių keturių? Vienuoliai, dėl taurinančios tiesos apie kančią nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
-
-Dėl taurinančios tiesos apie kančios priežastį ...
-
-Dėl taurinančios tiesos apie kančios išnykimą ... 
-
+Kokių keturių? Vienuoliai, dėl taurinančios tiesos apie kančią nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.</br>
+Dėl taurinančios tiesos apie kančios priežastį ...</br>
+Dėl taurinančios tiesos apie kančios išnykimą ...</br>
 Dėl taurinančios tiesos apie kelią, vedantį į kančios išnykimą, nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
 
 O dabar, vienuoliai, taurinanti tiesa apie kančią yra pažinta, perprasta; taurinanti tiesa apie kančios priežastį yra pažinta, perprasta; taurinanti tiesa apie kančios išnykimą yra pažinta, perprasta; taurinanti tiesa apie kelią, vedantį į kančios išnykimą yra pažinta, perprasta; nutrauktas būties troškimas, panaikinta tai, kas lydi į būtį, nuo šiol nebebus kito gimimo.
