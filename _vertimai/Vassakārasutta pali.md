@@ -5,7 +5,7 @@ category: palaipsnines
 hideIndex: true  
 ---
 <a href="../Vassakārasutta-lt" class="btn btn-primary btn-next">Lietuvių</a>
-<a href="../Vassakārasutta-pali" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
+<a href="../Vassakārasutta pali" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 __evaṃme sutaṃ —__ Taip aš girdėjau: __ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate.__ Vieną kartą Palaimintasis buvo apsistojęs Grifų viršūnių kalne Radžagahoje. __tena kho pana samayena__ Tuomet gi __rājā māgadho ajātasattu vedehiputto vajjī abhiyātukāmo hoti.__ Magadhos karaliui Adžatasatui Vedehiputai kilo noras užpulti vadžius. __so evamāha —__ Jis taip pasakė: __“ahaṃ hime vajjī__ – Užpulsiu vadžius, __evaṃ mahiddhike evaṃ mahānubhāve__ tokius galingus, tokius stiprius; __ucchecchāmi vajjī__ sunaikinsiu vadžius, __vināsessāmi vajjī__ sutriuškinsiu vadžius, __anayabyasanaṃ āpādessāmī”ti.__ atnešiu [jiems] skurdą ir netektis.
 
