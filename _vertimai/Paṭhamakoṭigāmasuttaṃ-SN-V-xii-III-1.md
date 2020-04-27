@@ -11,10 +11,17 @@ tags:
   - Samsara
 ---
 Vieną kartą Palaimintasis buvo apsistojęs vadžių šalyje Kotigamoje. Tada gi Palaimintasis kreipėsi į vienuolius:
-– Vienuoliai, tai dėl keturių taurinančių tiesų nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje. 
+
+– Vienuoliai, tai dėl keturių taurinančių tiesų nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
+ 
 Kokių keturių? Vienuoliai, dėl taurinančios tiesos apie kančią nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
+
 Dėl taurinančios tiesos apie kančios priežastį ...
-Dėl taurinančios tiesos apie kančios išnykimą ... dėl taurinančios tiesos apie kelią, vedantį į kančios išnykimą, nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
+
+Dėl taurinančios tiesos apie kančios išnykimą ... 
+
+Dėl taurinančios tiesos apie kelią, vedantį į kančios išnykimą, nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
+
 O dabar, vienuoliai, taurinanti tiesa apie kančią yra pažinta, perprasta; taurinanti tiesa apie kančios priežastį yra pažinta, perprasta; taurinanti tiesa apie kančios išnykimą yra pažinta, perprasta; taurinanti tiesa apie kelią, vedantį į kančios išnykimą yra pažinta, perprasta; nutrauktas būties troškimas, panaikinta tai, kas lydi į būtį, nuo šiol nebebus kito gimimo.
 
 Tai pasakė Palaimintasis. Tai pasakęs Gerai Žengęs, Mokytojas pasakė dar štai ką:
@@ -23,19 +30,19 @@ klajota ratais ilgą laiką nuo vieno gimimo į kitą.
 Bet dabar jos pamatytos, pašalinta tai, kas lydi į būtį,
 nukirsta kančios šaknis, nuo šiol nebebus kito gimimo.“
 
-_Pirma suta Kotigamoje (Paṭhamakoṭigāmasuttaṃ, SN V.xii.III.1)_
+__Paṭhamakoṭigāmasuttaṃ (Pirma suta Kotigamoje, SN V.xii.III.1)__
 
-_ekaṃ samayaṃ bhagavā vajjīsu viharati koṭigāme._ Vieną kartą Palaimintasis buvo apsistojęs vadžių šalyje Kotigamoje. _tatra kho bhagavā bhikkhū āmantesi —_ Tada gi Palaimintasis kreipėsi į vienuolius:  _“catunnaṃ, bhikkhave, ariyasaccānaṃ ananubodhā appaṭivedhā_ – Vienuoliai, tai dėl keturių taurinančių tiesų nežinojimo ir neperpratimo _evam idaṃ dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañ c'eva tumhākañ ca”._ ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
+__ekaṃ samayaṃ bhagavā vajjīsu viharati koṭigāme.__ Vieną kartą Palaimintasis buvo apsistojęs vadžių šalyje Kotigamoje. __tatra kho bhagavā bhikkhū āmantesi —__ Tada gi Palaimintasis kreipėsi į vienuolius:  __“catunnaṃ, bhikkhave, ariyasaccānaṃ ananubodhā appaṭivedhā__ – Vienuoliai, tai dėl keturių taurinančių tiesų nežinojimo ir neperpratimo __evam idaṃ dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañ c'eva tumhākañ ca”.__ ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje.
 
-_“katamesaṃ catunnaṃ?_ Kokių keturių? _dukkhassa, bhikkhave, ariyasaccassa ananubodhā appaṭivedhā_ Vienuoliai, dėl taurinančios tiesos apie kančią nežinojimo ir neperpratimo _evam idaṃ dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañ c' eva tumhākañ ca._ nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje. _dukkhasamudayassa ariyasaccassa ... pe ..._ Dėl taurinančios tiesos apie kančios priežastį... _dukkhanirodhassa ariyasaccassa ... pe ..._ Dėl taurinančios tiesos apie kančios išnykimą ... _dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ananubodhā appaṭivedhā_ dėl taurinančios tiesos apie kelią, vedantį į kančios išnykimą, _evam idaṃ dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañ c' eva tumhākañ ca._ nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje. _tayidaṃ, bhikkhave,_ O dabar, vienuoliai, _dukkhaṃ ariyasaccaṃ anubuddhaṃ paṭividdhaṃ,_ taurinanti tiesa apie kančią yra pažinta, perprasta; _dukkhasamudayaṃ ariyasaccaṃ anubuddhaṃ paṭividdhaṃ,_ taurinanti tiesa apie kančios priežastį yra pažinta, perprasta; _dukkhanirodhaṃ ariyasaccaṃ anubuddhaṃ paṭividdhaṃ,_ taurinanti tiesa apie kančios išnykimą yra pažinta, perprasta; _dukkhanirodhagāminī paṭipadā ariyasaccaṃ anubuddhaṃ paṭividdhaṃ;_ taurinanti tiesa apie kelią, vedantį į kančios išnykimą yra pažinta, perprasta; _ucchinnā bhavataṇhā,_ nutrauktas būties troškimas, _khīṇā bhavanetti;_ panaikinta tai, kas lydi į būtį, _natthidāni punabbhavo”ti._ nuo šiol nebebus kito gimimo.
+__“katamesaṃ catunnaṃ?__ Kokių keturių? __dukkhassa, bhikkhave, ariyasaccassa ananubodhā appaṭivedhā__ Vienuoliai, dėl taurinančios tiesos apie kančią nežinojimo ir neperpratimo __evam idaṃ dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañ c' eva tumhākañ ca.__ nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje. __dukkhasamudayassa ariyasaccassa ... pe ...__ Dėl taurinančios tiesos apie kančios priežastį... __dukkhanirodhassa ariyasaccassa ... pe ...__ Dėl taurinančios tiesos apie kančios išnykimą ... __dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ananubodhā appaṭivedhā__ dėl taurinančios tiesos apie kelią, vedantį į kančios išnykimą, __evam idaṃ dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañ c' eva tumhākañ ca.__ nežinojimo ir neperpratimo ir aš, ir jūs tokį ilgą laiką pralakstėme ir praklajojome samsaroje. __tayidaṃ, bhikkhave,__ O dabar, vienuoliai, __dukkhaṃ ariyasaccaṃ anubuddhaṃ paṭividdhaṃ,__ taurinanti tiesa apie kančią yra pažinta, perprasta; __dukkhasamudayaṃ ariyasaccaṃ anubuddhaṃ paṭividdhaṃ,__ taurinanti tiesa apie kančios priežastį yra pažinta, perprasta; __dukkhanirodhaṃ ariyasaccaṃ anubuddhaṃ paṭividdhaṃ,__ taurinanti tiesa apie kančios išnykimą yra pažinta, perprasta; __dukkhanirodhagāminī paṭipadā ariyasaccaṃ anubuddhaṃ paṭividdhaṃ;__ taurinanti tiesa apie kelią, vedantį į kančios išnykimą yra pažinta, perprasta; __ucchinnā bhavataṇhā,__ nutrauktas būties troškimas, __khīṇā bhavanetti;__ panaikinta tai, kas lydi į būtį, __natthidāni punabbhavo”ti.__ nuo šiol nebebus kito gimimo.
 
-_idam avoca bhagavā._ Tai pasakė Palaimintasis. _idaṃ vatvāna sugato athāparaṃ etadavoca satthā —_ Tai pasakęs Gerai Žengęs, Mokytojas pasakė dar štai ką:
+__idam avoca bhagavā.__ Tai pasakė Palaimintasis. __idaṃ vatvāna sugato athāparaṃ etadavoca satthā —__ Tai pasakęs Gerai Žengęs, Mokytojas pasakė dar štai ką:
 
-_“catunnaṃ ariyasaccānaṃ, yathābhūtaṃ adassanā._
+__“catunnaṃ ariyasaccānaṃ, yathābhūtaṃ adassanā.__
 „Dėl keturių taurinančių tiesų nematymo tokiomis, kaip jos yra iš tikrųjų,
-_saṃsaritaṃ dīghamaddhānaṃ, tāsu tāsv eva jātisu._
+__saṃsaritaṃ dīghamaddhānaṃ, tāsu tāsv eva jātisu.__
 klajota ratais ilgą laiką nuo vieno gimimo į kitą.
-_“tāni etāni diṭṭhāni, bhavanetti samūhatā._
+__“tāni etāni diṭṭhāni, bhavanetti samūhatā.__
 Bet dabar jos pamatytos, pašalinta tai, kas lydi į būtį,
-_ucchinnaṃ mūlaṃ dukkhassa, natthidāni punabbhavo”ti_
+__ucchinnaṃ mūlaṃ dukkhassa, natthidāni punabbhavo”ti__
 nukirsta kančios šaknis, nuo šiol nebebus kito gimimo.“
