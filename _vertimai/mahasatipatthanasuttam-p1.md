@@ -152,7 +152,7 @@ Toliau, vienuoliai, vienuolis gyvena reiškiniuose, kontempliuodamas keturias ta
 
 ### Kančios tiesa
 
-Ir kas, vienuoliai, yra kančios taurinanti tiesa? Ir gimimas yra kančia, ir senėjimas yra kančia, ir mirtis yra kančia, ir liūdesys, raudojimas, skausmas, nusiminimas, nerimas yra kančia, susidūrimas su tuo, kas nemiela, yra kančia, išsiskyrimas su tuo, kas miela, yra kančia, negavimas to, ko norisi, irgi yra kančia; trumpiau penki prisirišimo komponentai yra kančia.
+Ir kas, vienuoliai, yra taurinanti tiesa apie kančią? Ir gimimas yra kančia, ir senėjimas yra kančia, ir mirtis yra kančia, ir liūdesys, raudojimas, skausmas, nusiminimas, nerimas yra kančia, susidūrimas su tuo, kas nemiela, yra kančia, išsiskyrimas su tuo, kas miela, yra kančia, negavimas to, ko norisi, irgi yra kančia; trumpiau penki prisirišimo komponentai yra kančia.
 
 Ir kas yra gimimas? Bet kokių būtybių bet kokioje būtybių klasėje pradėjimas, prigimimas, atgimimas, [jutimo] pagrindų įgijimas yra vadinama gimimu.
 
@@ -176,11 +176,11 @@ Ir kas, vienuoliai, yra išsiskyrimas su tuo, kas miela? Štai, [žmogus] nesusi
 
 Ir kas, vienuoliai, yra negavimas to, ko norisi? Būtybėms, turinčioms prigimtį gimti, atsiranda toks noras: "Ak, kad mes neturėtume prigimties gimti, kad mūsų neištiktų gimimas!" Betgi tas noras neišpildomas, tai irgi yra kančia [dėl] negavimo to, ko norisi. Vienuoliai, būtybėms, turinčioms prigimtį senti, atsiranda toks noras: “Ak, kad mes neturėtume prigimties senti, kad mūsų neištiktų senėjimas!” Betgi tas noras neišpildomas, tai irgi yra kančia [dėl] negavimo to, ko norisi. Vienuoliai, būtybėms, turinčioms prigimtį sirgti, atsiranda toks noras: “Ak, kad mes neturėtume prigimties sirgti, kad mus neištiktų liga!” Betgi tas noras neišpildomas,tai irgi yra kančia [dėl] negavimo to, ko norisi. Vienuoliai, būtybėms, turinčioms prigimtį mirti, atsiranda toks noras: “Ak, kad mes neturėtume prigimties mirti, kad mūsų neištiktų mirtis!” Betgi tas noras neišpildomas, tai irgi yra kančia [dėl] negavimo to, ko norisi. Vienuoliai, būtybėms, turinčioms prigimtį liūdėti, raudoti, patirti skausmą, nusiminti, nerimauti, atsiranda toks noras: “Ak, kad mes neturėtume prigimties liūdėti, raudoti, patirti skausmą, nusiminti, nerimauti, kad mūsų neištiktų liūdesys, raudojimas, skausmas, nusiminimas, nerimavimas!” Betgi tas noras neišpildomas, tai irgi yra kančia [dėl] negavimo to, ko norisi.  
 
-Vienuoliai, ir kas tai trumpiau- penki prisirišimo komponentai, [kurie] yra kančia? Tai yra materijos prisirišimo komponentas, jausmo prisirišimo komponentas, suvokimo prisirišimo komponentas, proto darinių prisirišimo komponentas, sąmonės prisirišimo komponentas. Šie, vienuoliai, vadinami trumpiau - penkiais prisirišimo komponentais [kurie] yra kančia. Tai, vienuoliai, vadinama kančios tauriąja tiesa.
+Vienuoliai, ir kas tai trumpiau- penki prisirišimo komponentai, [kurie] yra kančia? Tai yra materijos prisirišimo komponentas, jausmo prisirišimo komponentas, suvokimo prisirišimo komponentas, proto darinių prisirišimo komponentas, sąmonės prisirišimo komponentas. Šie, vienuoliai, vadinami trumpiau - penkiais prisirišimo komponentais [kurie] yra kančia. Tai, vienuoliai, vadinama taurinančia tiesa apie kančią.
 
 ### Priežasties tiesa
 
-Ir kas, vienuoliai, yra kančios priežasties taurinanti tiesa? Tai yra tas troškimas, kuris veda į pakartotiną būtį, susijęs su džiugesiu ir geismu, siekiantis džiugesio tai šen, tai ten, tai yra juslinių malonumų troškimas, būties troškimas, nebūties troškimas.
+Ir kas, vienuoliai, yra taurinanti tiesa apie kančios priežastį? Tai yra tas troškimas, kuris veda į pakartotiną būtį, susijęs su džiugesiu ir geismu, siekiantis džiugesio tai šen, tai ten, tai yra juslinių malonumų troškimas, būties troškimas, nebūties troškimas.
 
 Bet kurgi, vienuoliai, šis troškimas gimdamas gimsta, kur jis būdamas būna? Tame, kas pasaulyje iš prigimties yra miela, kas iš prigimties yra malonu, ten šis troškimas gimdamas gimsta, ten jis būdamas būna.
 
@@ -202,11 +202,11 @@ Formų troškimas pasaulyje... Garsų troškimas pasaulyje... Kvapų troškimas 
 
 Mintis apie formą pasaulyje... Mintis apie garsą pasaulyje... Mintis apie kvapą pasaulyje... Mintis apie skonį pasaulyje... Mintis apie kūnu liečiamą pasaulyje... Mintis apie proto objektą pasaulyje iš prigimties yra miela, iš prigimties yra maloni, ten šis troškimas gimdamas gimsta, ten jis būdamas būna.
 
-Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas gimdamas gimsta, ten jis būdamas būna. Tai, vienuoliai, vadinama kančios priežasties tauriąja tiesa.
+Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas gimdamas gimsta, ten jis būdamas būna. Tai, vienuoliai, taurinančia tiesa apie kančios priežastį.
 
 ### Išnykimo tiesa
 
-Ir kas, vienuoliai, yra kančios išnykimo taurinanti tiesa? Tai yra to troškimo visiškas užgesimas ir išnykimas, [jo] atmetimas, atsisakymas, išsilavinimas [nuo jo], [jo] nepriėmimas.
+Ir kas, vienuoliai, yra taurinanti tiesa apie kančios išnykimą? Tai yra to troškimo visiškas užgesimas ir išnykimas, [jo] atmetimas, atsisakymas, išsilavinimas [nuo jo], [jo] nepriėmimas.
 
 Bet kurgi, vienuoliai, šis troškimas pašalinamas būna pašalintas, kur išnykdamas jis išnyksta? Tame, kas pasaulyje iš prigimties yra miela, kas iš prigimties yra malonu, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta.
 
@@ -228,7 +228,7 @@ Formų troškimas pasaulyje... Garsų troškimas pasaulyje... Kvapų troškimas 
 
 Mintis apie formą pasaulyje... Mintis apie garsą pasaulyje... Mintis apie kvapą pasaulyje... Mintis apie skonį pasaulyje... Mintis apie kūnu liečiamą pasaulyje... Mintis apie proto objektą pasaulyje iš prigimties yra miela, iš prigimties yra maloni, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta.
 
-Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta. Tai, vienuoliai, vadinama kančios išnykimo tauriąja tiesa.
+Galvojimas apie formą pasaulyje... Galvojimas apie garsą pasaulyje... Galvojimas apie kvapą pasaulyje... Galvojimas apie skonį pasaulyje... Galvojimas apie kūnu jaučiamą pasaulyje... Galvojimas apie proto objektą pasaulyje iš prigimties yra mielas, iš prigimties yra malonus, ten šis troškimas pašalinamas būna pašalintas, ten išnykdamas jis išnyksta. Tai, vienuoliai, vadinama taurinančia tiesa apie kančios išnykimą.
 
 ### Kelio tiesa
 
@@ -248,7 +248,7 @@ Ir kas, vienuoliai, yra teisinga pastanga? Štai, vienuolis užsidega noru, kad 
 
 Ir kas, vienuoliai, yra teisingas atidumas? Štai, vienuolis gyvena kūne, kontempliuodamas kūną, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena jausmuose, kontempliuodamas jausmus, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena prote, kontempliuodamas protą, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu; gyvena reiškiniuose kontempliuodamas reiškinius, būdamas uolus, su aiškiu supratimu, atidus, be godulio ir nepasitenkinimo pasauliu. Tai vadinama teisingu atidumu.
 
-Ir kas, vienuoliai, yra teisingas susitelkimas? Štai, vienuolis, atsitolinęs nuo juslinių malonumų, atsitolinęs nuo nedorų būsenų, pasiekia pirmąją džhaną, kuri yra su pirminiu pritaikymu, ilgalaikiu taikymu, su dėl atsiskyrimo gimusiais džiaugsmu ir laime, ir būna joje. Kai liaunasi pradinis pritaikymas ir ilgalaikis taikymas, su iš vidaus nurimusiu protu sutelktu į vieną [objektą] jis pasiekia antrąją džhaną, kuri yra be pradinio pritaikymo, be ilgalaikio taikymo, su dėl susitelkimo gimusiais džiaugsmu ir laime, ir būna joje. Išblėsus džiaugsmui, jis būna pusiausviro proto, atidus ir aiškiai suprantantis ir kūnu patiria laimę, jis pasiekia trečiąją džhaną ir būna joje, taurieji nupasakoja tai taip: "Jis būna laimingas, pusiausviras  ir atidus". Atsisakęs nuo malonių ir nemalonių pojūčių, peržengęs ankstesnius laimę ir nusiminimą, jis pasiekia ketvirtąją džhaną: be nemalonių ir malonių pojūčių, su atidumo išgryninta [proto] pusiausvyra ir būna joje. Tai vadinama teisingu susitelkimu. Tai, vienuoliai, vadinama kelio, vedančio į kančios išnykimą, tauriąja tiesa.
+Ir kas, vienuoliai, yra teisingas susitelkimas? Štai, vienuolis, atsitolinęs nuo juslinių malonumų, atsitolinęs nuo nedorų būsenų, pasiekia pirmąją džhaną, kuri yra su pirminiu pritaikymu, ilgalaikiu taikymu, su dėl atsiskyrimo gimusiais džiaugsmu ir laime, ir būna joje. Kai liaunasi pradinis pritaikymas ir ilgalaikis taikymas, su iš vidaus nurimusiu protu sutelktu į vieną [objektą] jis pasiekia antrąją džhaną, kuri yra be pradinio pritaikymo, be ilgalaikio taikymo, su dėl susitelkimo gimusiais džiaugsmu ir laime, ir būna joje. Išblėsus džiaugsmui, jis būna pusiausviro proto, atidus ir aiškiai suprantantis ir kūnu patiria laimę, jis pasiekia trečiąją džhaną ir būna joje, taurieji nupasakoja tai taip: "Jis būna laimingas, pusiausviras  ir atidus". Atsisakęs nuo malonių ir nemalonių pojūčių, peržengęs ankstesnius laimę ir nusiminimą, jis pasiekia ketvirtąją džhaną: be nemalonių ir malonių pojūčių, su atidumo išgryninta [proto] pusiausvyra ir būna joje. Tai vadinama teisingu susitelkimu. Tai, vienuoliai, vadinama taurinančia tiesa apie kelią vedantį į kančios išnykimą.
 
 Taip, jis gyvena reiškiniuose, kontempliuodamas reiškinius viduje, arba gyvena reiškiniuose, kontempliuodamas reiškinius išorėje, arba gyvena reiškiniuose, kontempliuodamas reiškinius viduje ir išorėje. Jis stebi atsiradimo prigimtį reiškiniuose arba stebi irimo prigimtį reiškiniuose, arba stebi atsiradimo ir irimo prigimtį reiškiniuose, arba "yra reiškiniai“ jame yra įtvirtintas atidumas, toks, kad to pakanka žinojimui ir besitęsiančiam atidumui. Jis būna nepriklausomas ir pasaulyje prie nieko neprisiriša. Taip irgi, vienuoliai, vienuolis gyvena reiškiniuose, kontempliuodamas keturias taurinančias tiesas.
 
