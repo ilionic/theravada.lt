@@ -14,7 +14,7 @@ Vienuoliai, šie penki pavojai gresia nedoram, dorovės netekusiam [žmogui]. Ko
 4. Toliau, vienuoliai, nedoras, dorovės netekęs [žmogus] miršta sumišęs. Tai, vienuoliai, yra ketvirtas pavojus, gresiantis nedoram, dorovės netekusiam [žmogui].
 5. Toliau, vienuoliai, nedoras, dorovės netekęs [žmogus] po kūno žūties, po mirties atgimsta pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare. Tai, vienuoliai, yra penktas pavojus, gresiantis nedoram, dorovės netekusiam [žmogui].<br/>Šie, vienuoliai, penki pavojai gresia nedoram, dorovės netekusiam [žmogui].
 
-Vienuolia, šie penki palaimingi vaisiai laukia doro, dorovingo [žmogaus]. Kokie penki?\
+Vienuolia, šie penki palaimingi vaisiai laukia doro, dorovingo [žmogaus]. Kokie penki?
 1. Štai, vienuoliai, doras, dorovingas [žmogus] dėl rūpestingumo pasidaro didžturtis. Tai, vienuoliai, yra pirmas palaimingas vaisius, laukiantis doro, dorovingo [žmogaus].
 2. Toliau, vienuoliai, doras, dorovingas [žmogus] įgyja gerą vardą. Tai, vienuoliai, yra antras palaimingas vaisius, laukiantis doro, dorovingo [žmogaus].
 3. Toliau, vienuoliai, doras, dorovingas [žmogus] į kokį susirinkimą nenueitų – ar valdovų sueigą, ar brahmanų  krivulę, ar namų šeimininkų sueigą, ar atsiskyrėlių kuopą – jis savimi pasitiki [ir būna] orus. Tai, vienuoliai, yra trečias palaimingas vaisius, laukiantis doro, dorovingo [žmogaus].
