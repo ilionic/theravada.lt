@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 'Vassakārasuttaṃ (Suta Vasakarai, AN VII.i.III.2)'
-category: palaipsnines
+title: 'Suta Vasakarai (Vassakārasuttaṃ, AN VII.i.III.2)'
+category: palaipsnines 
 hideIndex: true  
-sortIndex: 7132
-tags:
 ---
 <a href="../Vassakārasutta-lt" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../Vassakārasutta-pali" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
