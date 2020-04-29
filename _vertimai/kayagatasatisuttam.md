@@ -16,7 +16,7 @@ published: true
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi, vienuolių daugybei sugrįžus iš aukų rinkimo, jiems susirinkus po valgio, susėdus susirinkimų salėje, kilo tokios kalbos: "Draugai, kaip nuostabu, draugai, tiesiog neįtikėtina tai, kad, pasak Palaimintojo, žinančiojo, matančiojo, arahanto, visiškai nušvitusiojo, išlavintas dažnai praktikuotas atidumas kūnui atneša didžius vaisius, didžią palaimą!" Ir štai čia ši vienuolių kalba buvo pertraukta, nes tada gi vakare Palaimintasis, sugrįžęs iš atokios vietos, nuėjo į susirinkimų salę, atėjęs atsisėdo į paruoštą jam vietą. Sėdėdamas gi Palaimintasis kreipėsi į vienuolius: <br /><br />
 －Vienuoliai, apie ką kalbėti čia dabar esate susisėdę? Apie ką buvo jūsų kalba, kuri buvo pertraukta? <br /><br />
-－Štai, Gerbiamasis, mums, sugrįžus iš aukų rinkimo, po valgio susirinkus, susėdus susirinkimų salėje, kilo tokios kalbos: "Draugai, kaip nuostabu, draugai, tiesiog neįtikėtina tai, kad, pasak Palaimintojo, žinančiojo, matančiojo, arahanto, visiškai nušvitusiojo, išlavintas, dažnai praktikuotas atidumas kūnui atneša didžius vaisius, didžią palaimą!" <br />
+－Štai, Garbusis, mums, sugrįžus iš aukų rinkimo, po valgio susirinkus, susėdus susirinkimų salėje, kilo tokios kalbos: "Draugai, kaip nuostabu, draugai, tiesiog neįtikėtina tai, kad, pasak Palaimintojo, žinančiojo, matančiojo, arahanto, visiškai nušvitusiojo, išlavintas, dažnai praktikuotas atidumas kūnui atneša didžius vaisius, didžią palaimą!" <br />
 
 ### Atidumo kūnui lavinimas ###
 －Ir kaip, vienuoliai, lavinamas, dažnai praktikuojamas atidumas kūnui, atnešantis didžius vaisius, didžią palaimą? <br /><br />
@@ -40,23 +40,23 @@ Sakykime, įgudęs skerdikas ar skerdiko padėjėjas išdorojęs karvę, padalin
 
 Vienuoliai, bet kas, kas išlavino, dažnai praktikavo atidumą kūnui, aprėpia bet kokias doras būsenas, padedančias išminčiai. Panašiai, vienuoliai, kaip bet kas, paskleidęs protą virš didžiojo vandenyno, aprėpia bet kokias upeles, įtekančias į vandenyną, lygiai gi, vienuoliai, taip bet kas, kas išlavino, dažnai praktikavo atidumą kūnui, aprėpia bet kokias doras būsenas, padedančias išminčiai.<br /><br />
 Vienuoliai, bet ką, kas neišlavino, nepraktikavo dažnai atidumo kūnui, Mara gali nugramzdinti, Mara gali rasti jame paramą. Sakykime, žmogus sviestų sunkų akmens rutulį į drėgno molio krūvą. Vienuoliai, kaip jūs manote, ar tą sunkų akmens rutulį galėtų nugramzdinti drėgno molio krūva?<br /><br />
-－Taip, Gerbiamasis.<br /><br />
+－Taip, Garbusis.<br /><br />
 －Lygiai gi, vienuoliai, taip bet ką, kas neišlavino, dažnai nepraktikavo atidumo kūnui, Mara gali nugramzdinti, Mara gali rasti jame paramą. Sakykime, būtų sausa, išdžiūvusi malka [išdžiūvusi išmesta į vandens telkinio krantą, į sausumą]. Ateitų žmogus pasiėmęs geriausios kokybės lazdelę ugniai įžiebti [galvodamas]: "Įžiebsiu ugnį, iššauksiu liepsną". Vienuoliai, kaip jūs manote, ar tas žmogus tą sausą, išdžiūvusią malką trindamas geriausios kokybės lazdele įžiebtų ugnį, iššauktų liepsną?<br /><br />
-－Taip, Gerbiamasis.<br /><br />
+－Taip, Garbusis.<br /><br />
 －Lygiai gi, vienuoliai, taip bet ką, kas neišlavino, dažnai nepraktikavo atidumo kūnui, Mara gali nugramzdinti, Mara gali rasti jame paramą. Sakykime, ant laikiklio stovėtų tuščias, dykas puodas vandeniui ir ateitų žmogus nešinas vandeniu. Vienuoliai, kaip jūs manote, ar galėtų tas žmogus vandenį supilti [į puodą]?<br /><br />
-－Taip, Gerbiamasis.<br /><br />
+－Taip, Garbusis.<br /><br />
 －Lygiai gi, vienuoliai, taip bet ką, kas neišlavino, dažnai nepraktikavo atidumo kūnui, Mara gali nugramzdinti, Mara gali rasti jame paramą.
 Vienuoliai, bet ko, kas išlavino, dažnai praktikavo atidumą kūnui, Mara negali nugramzdinti, Mara negali rasti jame paramos. Sakykime, žmogus sviestų lengvą siūlų kamuolį į kieto medžio stulpą, laikantį skersinį kartį. Vienuoliai, kaip jūs manote, ar tas žmogus tą lengvą siūlų kamuolį galėtų nugramzdinti kieto medžio stulpe, laikančiame skersinį kartį?<br /><br />
-－Tai gi ne, Gerbiamasis.<br /><br />
+－Tai gi ne, Garbusis.<br /><br />
 －Lygiai gi, vienuoliai, taip bet ko, kas išlavino, dažnai praktikavo atidumą kūnui, Mara negali nugramzdinti, Mara negali rasti jame paramos. Sakykime, būtų drėgna malka su syvais [su syvais išmesta į vandens telkinio krantą, į sausumą]. Ateitų žmogus pasiėmęs geriausios kokybės lazdelę ugniai įžiebti [galvodamas]: "Įžiebsiu ugnį, iššauksiu liepsną". Vienuoliai, kaip jūs manote, ar tas žmogus tą drėgną malką su syvais trindamas paimta geriausios kokybės lazdele įžiebtų ugnį, iššauktų liepsną?<br /><br />
-－Tai gi ne, Gerbiamasis.<br /><br />
+－Tai gi ne, Garbusis.<br /><br />
 －Lygiai gi, vienuoliai, taip bet ko, kas išlavino, dažnai praktikavo atidumą kūnui, Mara negali nugramzdinti, Mara negali rasti jame paramos. Sakykime, ant laikiklio stovėtų iki viršaus, iki krašto pripildytas puodas su vandeniu ir ateitų žmogus nešinas vandeniu. Vienuoliai, kaip jūs manote, ar galėtų tas žmogus vandenį supilti [į puodą]?<br /><br />
-－Tai gi ne, Gerbiamasis.<br /><br />
+－Tai gi ne, Garbusis.<br /><br />
 －Lygiai gi, vienuoliai, taip bet ko, kas išlavino, dažnai praktikavo atidumą kūnui, Mara negali nugramzdinti, Mara negali rasti jame paramos.
 Vienuoliai, bet kas, kas išlavino, dažnai praktikavo atidumą kūnui, nukreipęs protą bet kokių tiesiogiai pažintinų dalykų link tam, kad juos tiesiogiai pažintų, tam esant pagrindui, tampa jų liudytoju. Sakykime, ant laikiklio stovėtų iki viršaus, iki krašto pripildytas puodas vandeniui. Jei stiprus žmogus kaip nors jį palenktų, ar vanduo ištekėtų?<br /><br />
-－Taip, Gerbiamasis.<br /><br />
+－Taip, Garbusis.<br /><br />
 －Lygiai gi taip, bet kas, kas išlavino, dažnai praktikavo atidumą kūnui, nukreipęs protą bet kokių tiesiogiai pažintinų dalykų link tam, kad juos tiesiogiai pažintų, tam esant pagrindui, tampa jų liudytoju. Sakykime, lygiame žemės plote būtų keturi iki viršaus, iki kraštų pripildyti vandens tvenkiniai, atitverti užtvankomis. Jei stiprus žmogus kaip nors užtvanką atidarytų, ar vanduo ištekėtų?<br /><br />
-－Taip, Gerbiamasis.<br /><br />
+－Taip, Garbusis.<br /><br />
 －Lygiai gi taip bet kas, kas išlavino, dažnai praktikavo atidumą kūnui, nukreipęs protą bet kokių tiesiogiai pažintinų dalykų link tam, kad juos tiesiogiai pažintų, tam esant pagrindui, tampa jų liudytoju. Sakykime, lygioje žemėje, kryžkelėje stovėtų vežimas pakinkytas geros veislės arkliu [ir su šalia] paguldytu rimbu. Ant jo užsilipęs įgudęs arklininkas, arklių tramdytojas, pasiėmęs vežėčias į kairę ranką, o rimbą į dešinę ranką, pajudėtų kai panorėjęs, kur panorėjęs, ir į priekį, ir atgal. Lygiai gi taip bet kas, kas išlavino, dažnai praktikavo atidumą kūnui, nukreipęs protą bet kokių tiesiogiai pažintinų dalykų link tam, kad juos tiesiogiai pažintų, tam esant pagrindui, tampa jų liudytoju.<br />
 
 ### Atidumo kūnui nauda

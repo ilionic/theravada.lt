@@ -9,34 +9,21 @@ tags:
 ---
 Buvo apsistojęs Savathėje...
 
-－Vienuoliai, mokysiu jus, nagrinėsiu sąlygotą atsiradimą. Klausykite, sutelkite visą dėmesį, kalbėsiu.
+－Vienuoliai, mokysiu jus, nagrinėsiu sąlygotą atsiradimą. Klausykite, sutelkite visą dėmesį, kalbėsiu.\
+－Taip, Garbusis! － atsakė Palaimintajam vienuoliai.
 
-－Taip, gerbiamasis! － atsakė Palaimintajam vienuoliai.
-
-Palaimintasis štai ką pasakė:
-
-－Ir kas yra sąlygotas atsiradimas? Sąlygoti nežinojimo, vienuoliai, yra valingi veiksmai;
-
-sąlygota valingų veiksmų yra sąmonė;
-
-sąlygota sąmonės yra protas-materija;
-
-sąlygoti proto-materijos yra šeši jutimo pagrindai;
-
-sąlygotas šešių jutimo pagrindų yra sąlytis;
-
-sąlygotas sąlyčio yra jausmas;
-
-sąlygotas jausmo yra troškimas;
-
-sąlygotas troškimo yra prisirišimas;
-
-sąlygota prisirišimo yra būtis;
-
-sąlygotas būties yra gimimas;
-
-sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.
-
+Palaimintasis štai ką pasakė:\
+－Ir kas yra sąlygotas atsiradimas? Sąlygoti nežinojimo, vienuoliai, yra valingi veiksmai;\
+sąlygota valingų veiksmų yra sąmonė;\
+sąlygota sąmonės yra protas-materija;\
+sąlygoti proto-materijos yra šeši jutimo pagrindai;\
+sąlygotas šešių jutimo pagrindų yra sąlytis;\
+sąlygotas sąlyčio yra jausmas;\
+sąlygotas jausmo yra troškimas;\
+sąlygotas troškimo yra prisirišimas;\
+sąlygota prisirišimo yra būtis;\
+sąlygotas būties yra gimimas;\
+sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.\
 Tokiu būdu atsiranda visa ši kentėjimų daugybė. Tai vadinama sąlygotu atsiradimu.
 
 Ir kas yra senėjimas ir mirtis? Bet kokių būtybių, esančių bet kokioje būtybių klasėje, senėjimas, senatvė, subyrėję dantys, žilumas, susiraukšlėjimas, gyvybinių jėgų nykimas, gebėjimų sumenkėjimas – tai vadinama senėjimu. Bet kokių būtybių išnykimas, pranykimas iš bet kokios būtybių klasės, susiskaidymas, pradingimas, giltinė, mirtis, galo gavimas, sankaupų susiskaidymas, griaučių numetimas, (gyvybinės jėgos nutrūkimas*) – tai vadinama mirtimi. Taigi, tai yra senėjimas, o tai yra mirtis. Tai vadinama senėjimu ir mirtimi.
@@ -69,7 +56,7 @@ Taigi taip, vienuoliai, sąlygoti nežinojimo yra valingi veiksmai; sąlygota va
 
 ### Vibhaṅgasuttaṃ (Nagrinėjimas, SN II.I.i.2)
 
-**2. Sāvatthiyaṃ viharati…pe…** Buvo apsistojęs Savathėje... **"paṭiccasamuppādaṃ vo, bhikkhave, desessāmi vibhajissāmi.** "Vienuoliai, mokysiu jus, nagrinėsiu sąlygotą atsiradimą. **Taṃ suṇātha, sādhukaṃ manasi karotha;** Klausykite, sutelkite visą dėmesį, **bhāsissāmī"ti.** kalbėsiu." **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** "Taip, gerbiamasis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
+**2. Sāvatthiyaṃ viharati…pe…** Buvo apsistojęs Savathėje... **"paṭiccasamuppādaṃ vo, bhikkhave, desessāmi vibhajissāmi.** "Vienuoliai, mokysiu jus, nagrinėsiu sąlygotą atsiradimą. **Taṃ suṇātha, sādhukaṃ manasi karotha;** Klausykite, sutelkite visą dėmesį, **bhāsissāmī"ti.** kalbėsiu." **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** "Taip, Garbusis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
 **"Katamo ca, bhikkhave,** "Ir kas yra **paṭiccasamuppādo?** sąlygotas atsiradimas?\
 **Avijjāpaccayā, bhikkhave, saṅkhārā;** Sąlygoti nežinojimo, vienuoliai, yra valingi veiksmai;\

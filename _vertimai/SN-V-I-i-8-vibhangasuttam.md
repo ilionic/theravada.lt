@@ -13,7 +13,7 @@ Savathėje.
 
 – Vienuoliai, mokysiu jus, nagrinėsiu taurinantį aštuonialypį kelią. Klausykite, sutelkite visą dėmesį, kalbėsiu.
 
-– Taip, Gerbiamasis! – atsakė Palaimintajam vienuoliai.
+– Taip, Garbusis! – atsakė Palaimintajam vienuoliai.
 
 Palaimintasis štai ką pasakė:
 
@@ -37,7 +37,7 @@ Ir kas, vienuoliai, yra teisingas susitelkimas? Štai, vienuolis, atsitolinęs n
 
 ### Vibhaṅgasuttaṃ (Nagrinėjimas, SN V.I.i.8)
 
-**8. Sāvatthinidānaṃ.** Savathėje. **"Ariyaṃ vo, bhikkhave, aṭṭhaṅgikaṃ maggaṃ desessāmi vibhajissāmi.** „Vienuoliai, mokysiu jus, nagrinėsiu taurinantį aštuonialypį kelią. **Taṃ suṇātha, sādhukaṃ manasi karotha;** Klausykite, sutelkite visą dėmesį, **bhāsissāmī"ti.** kalbėsiu.“ **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** „Taip, gerbiamasis!“– atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
+**8. Sāvatthinidānaṃ.** Savathėje. **"Ariyaṃ vo, bhikkhave, aṭṭhaṅgikaṃ maggaṃ desessāmi vibhajissāmi.** „Vienuoliai, mokysiu jus, nagrinėsiu taurinantį aštuonialypį kelią. **Taṃ suṇātha, sādhukaṃ manasi karotha;** Klausykite, sutelkite visą dėmesį, **bhāsissāmī"ti.** kalbėsiu.“ **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** „Taip, Garbusis!“– atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
 **"Katamo ca, bhikkhave,** „Ir kas, vienuoliai, yra **ariyo aṭṭhaṅgiko maggo?** taurinantis aštuonialypis kelias? **Seyyathidaṃ –** Tai yra **sammādiṭṭhi** teisingas požiūris, **sammāsaṅkappo** teisingas ketinimas, **sammāvācā** teisinga kalba, **sammākammanto** teisingas veiksmas, **sammāājīvo** teisingas pragyvenimo šaltinis, **sammāvāyāmo** teisinga pastanga, **sammāsati** teisingas atidumas, **sammāsamādhi** teisingas susitelkimas.
 

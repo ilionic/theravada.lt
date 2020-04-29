@@ -23,15 +23,15 @@ published: true
 
 *Paṭhamasandiṭṭhikasāmaññaphalaṃ*
 
-Tai aš, Gerbiamasis, Palaimintojo taip pat paklausiu: "Na gi yra, Gerbiamasis, įvairių amatų žmonės, tokie kaip: dramblių dresuotojai, arklių dresuotojai, kavalerijos kariai, lankininkai, vėliavnešiai, maršalai, atsakingieji už proviziją, didieji karininkai, žvalgai, narsuoliai, herojai, šarvuoti raiteliai, vergai, virėjai, kirpėjai, pirtininkai, konditeriai, floristai, skalbėjai, audėjai, krepšių pynėjai, puodžiai, matematikai, buhalteriai ir bet kokie kiti panašaus pobūdžio amatininkai, jie pragyvena iš čia pat ir iškart matomų tų amatų vaisių; taip jie neša laimę ir džiaugsmą sau, taip jie neša laimę ir džiaugsmą tėvams, taip jie neša laimę ir džiaugsmą žmonai ir vaikams, taip jie neša laimę ir džiaugsmą draugams, jie įsteigia dvasiškai naudingus aukojimus, dovanas atsiskyrėliams ir brahmanams, kurie veda į dangiškas karalystes, duoda palaimingus rezultatus, atgimimą danguje. Nagi ar įmanoma, Gerbiamasis, kad būtų nurodyti panašiai: čia pat ir iškart regimi atsiskyrimo vaisiai?"
+Tai aš, Garbusis, Palaimintojo taip pat paklausiu: "Na gi yra, Garbusis, įvairių amatų žmonės, tokie kaip: dramblių dresuotojai, arklių dresuotojai, kavalerijos kariai, lankininkai, vėliavnešiai, maršalai, atsakingieji už proviziją, didieji karininkai, žvalgai, narsuoliai, herojai, šarvuoti raiteliai, vergai, virėjai, kirpėjai, pirtininkai, konditeriai, floristai, skalbėjai, audėjai, krepšių pynėjai, puodžiai, matematikai, buhalteriai ir bet kokie kiti panašaus pobūdžio amatininkai, jie pragyvena iš čia pat ir iškart matomų tų amatų vaisių; taip jie neša laimę ir džiaugsmą sau, taip jie neša laimę ir džiaugsmą tėvams, taip jie neša laimę ir džiaugsmą žmonai ir vaikams, taip jie neša laimę ir džiaugsmą draugams, jie įsteigia dvasiškai naudingus aukojimus, dovanas atsiskyrėliams ir brahmanams, kurie veda į dangiškas karalystes, duoda palaimingus rezultatus, atgimimą danguje. Nagi ar įmanoma, Garbusis, kad būtų nurodyti panašiai: čia pat ir iškart regimi atsiskyrimo vaisiai?"
 
 －Įmanoma, karaliau. Bet paklausiu, karaliau, tavęs kai ko atgal. Kaip tau atrodo tinkama, taip ir atsakyki. Kaip tu manai, karaliau, štai, vienas žmogus būtų tavo vergu ar tarnu, jis atsikeltų ankščiau už tave, eitų miegoti vėliau už tave, darytų tai ką lieptas, maloniai elgtųsi, tartų mielus žodžius, žiūrėtų į [šeimininko] veidą [ar jis patenkintas ir laimingas]. Jis pagalvotų taip: "Kokie nuostabūs, kokie stulbinantys nuopelnų keliai, nuopelnų vaisiai! Juk štai Magadhos karalius Adžatasatus Vedehiputas yra žmogus; aš irgi esu žmogus. Ir šis Magadhos karalius Adžatasatus Vedehiputas turi, yra apdovanotas, aprūpintas penkiais jusliniais malonumais, linksminasi, aš manyčiau, lyg dievas. Bet aš gi esu jo vergas, tarnas, atsikeliu ankščiau, einu miegoti vėliau, darau tai ką lieptas, maloniai elgiuosi, tariu mielus žodžius, žiūriu į veidą. Aš galėčiau užsitarnauti jo nuopelnus [ir būti kaip jis]. Paimsiu, ir nusiskutęs plaukus, apsirengsiu geltonais apdarais ir žengsiu priekin iš namų į gyvenimą be namų!" Vėliau, nusiskutęs plaukus, apsirengęs geltonais apdarais, jis žengtų priekin iš namų į gyvenimą be namų. Taip būdamas atsiskyrėliu jis gyventų susitvardęs kūną, gyventų susitvardęs kalbą, gyventų susitvardęs protą, pasitenkinęs minimaliu maistu ir drabužiais, besidžiaugdamas vienuma. Ir jei tau žmonės taip praneštų: "O, jūsų didenybe, turėtumėte žinoti, tas žmogus, jūsų vergas, tarnas, kuris kėlėsi ankščiau, ėjo miegoti vėliau, darė tai ką lieptas, maloniai elgėsi, tarė mielus žodžius, žiūrėjo į veidą; jis, didenybe, nusiskutęs plaukus, apsirengęs geltonais drabužiais, žengė priekin iš namų į gyvenimą be namų. Taip būdamas atsiskyrėliu jis gyvena susitvardęs kūną, gyvena susitvardęs kalbą, gyvena susitvardęs protą, pasitenkinęs minimaliu maistu ir drabužiais, besidžiaugdamas vienuma." Ar tuomet sakytumei: "Gerbiamas, tegul tas žmogus ateina pas mane, tegul ir vėl jis būna vergu, tarnu, kuris keliasi ankščiau, eina miegoti vėliau, daro tai ką lieptas, maloniai elgiasi, taria mielus žodžius, žiūri į veidą!?
 
-－Na gi ne, Gerbiamasis. Tada gi mes šį ir pagerbtume, ir atsikeltume pasveikinant, ir paruoštume vietą atsisėsti, ir padovanotume jam tokių būtinybių kaip apdarų, maisto, būsto, vaistų, ir parūpintume apsaugą, derančia su Dharma, prieglobstį ir pastogę.  
+－Na gi ne, Garbusis. Tada gi mes šį ir pagerbtume, ir atsikeltume pasveikinant, ir paruoštume vietą atsisėsti, ir padovanotume jam tokių būtinybių kaip apdarų, maisto, būsto, vaistų, ir parūpintume apsaugą, derančia su Dharma, prieglobstį ir pastogę.  
 
 －Kaip manai, karaliau, tokiu atveju ar yra čia pat ir iškart regimas atsiskyrimo vaisius, ar ne?
 
-－Kaip gi, Gerbiamasis, tokiu atveju yra čia pat ir iškart regimas atsiskyrimo vaisius.  
+－Kaip gi, Garbusis, tokiu atveju yra čia pat ir iškart regimas atsiskyrimo vaisius.  
 
 －Štai gi, karaliau, nurodžiau tau pirmąjį čia pat ir iškart regimą atsiskyrimo vaisių.
 
@@ -39,15 +39,15 @@ Tai aš, Gerbiamasis, Palaimintojo taip pat paklausiu: "Na gi yra, Gerbiamasis, 
 
 *Dutiyasandiṭṭhikasāmaññaphalaṃ*
 
-－Na bet ar įmanoma, Gerbiamasis, kad būtų nurodytas kitas panašiai: čia pat ir iškart regimas atsiskyrimo vaisius?
+－Na bet ar įmanoma, Garbusis, kad būtų nurodytas kitas panašiai: čia pat ir iškart regimas atsiskyrimo vaisius?
 
 －Įmanoma, karaliau. Bet paklausiu, karaliau, tavęs kai ko atgal. Kaip tau atrodo tinkamai, taip ir atsakyki. Kaip tu manai, karaliau, štai, tavo žmogus būtų namų savininku, darbininku, mokesčių mokėtoju. Jis pagalvotų taip: "Kokie nuostabūs, kokie stulbinantys nuopelnų keliai, nuopelnų vaisiai! Juk štai Magadhos karalius Adžatasatus Vedehiputas yra žmogus; aš irgi esu žmogus. Ir šis Magadhos karalius Adžatasatus Vedehiputas apdovanotas, turintis, aprūpintas penkiais jusliniais malonumais, linksminasi, aš manyčiau, lyg dievas. Bet aš gi esu jo žemdirbys, namų savininkas, darbininkas, mokesčių mokėtojas. Aš galėčiau užsitarnauti jo nuopelnus [ir būti kaip jis]. Paimsiu, ir nusiskutęs plaukus apsirengsiu geltonais apdarais ir žengsiu priekin iš namų į gyvenimą be namų!" Vėliau, palikęs ar tai mažą turtų masę, ar tai palikęs didelę turtų masę, palikęs ar tai mažą giminių ratą, ar tai palikęs didelį giminių ratą, nusiskutęs plaukus, apsirengęs geltonais apdarais, jis žengtų priekin iš namų į gyvenimą be namų. Taip, būdamas atsiskyrėliu, jis gyventų susitvardęs kūną, gyventų susitvardęs kalbą, gyventų susitvardęs protą, pasitenkinęs minimaliu maistu ir drabužiais, besidžiaugdamas vienuma. Ir jei tau žmonės taip praneštų: "O, jūsų didenybe, turėtumėte žinoti, žemdirbys, namų savininkas, darbininkas, mokesčių mokėtojas; jis, didenybe, nusiskutęs plaukus, apsirengęs geltonais drabužiais, žengė priekin iš namų į gyvenimą be namų. Taip būdamas atsiskyrėliu jis gyvena susitvardęs kūną, gyvena susitvardęs kalbą, gyvena susitvardęs protą, pasitenkinęs minimaliu maistu ir drabužiais, besidžiaugdamas vienuma." Ar tuomet sakytumei: "Gerbiamas, tegul tas žmogus ateina pas mane, tegul vėl būna žemdirbiu, namų savininku, darbininku, mokesčių mokėtoju!
 
-－Na gi ne, Gerbiamasis. Tada gi mes šį ir pagerbtume, ir atsikeltume pasveikinant, ir paruoštume vietą atsisėsti, ir padovanotume jam tokių būtinybių kaip apdarų, maisto, būsto, vaistų, ir parūpintume apsaugą, derančia su Dharma, prieglobstį ir pastogę.
+－Na gi ne, Garbusis. Tada gi mes šį ir pagerbtume, ir atsikeltume pasveikinant, ir paruoštume vietą atsisėsti, ir padovanotume jam tokių būtinybių kaip apdarų, maisto, būsto, vaistų, ir parūpintume apsaugą, derančia su Dharma, prieglobstį ir pastogę.
 
 －Kaip manai, karaliau, tokiu atveju ar yra čia pat ir iškart regimas atsiskyrimo vaisius, ar ne?
 
-－Kaip gi, Gerbiamasis, tokiu atveju yra čia pat ir iškart regimas atsiskyrimo vaisius.  
+－Kaip gi, Garbusis, tokiu atveju yra čia pat ir iškart regimas atsiskyrimo vaisius.  
 
 －Štai gi, karaliau, nurodžiau tau antrąjį čia pat ir iškart regimą atsiskyrimo vaisių.
 
@@ -55,11 +55,11 @@ Tai aš, Gerbiamasis, Palaimintojo taip pat paklausiu: "Na gi yra, Gerbiamasis, 
 
 *Paṇītatarasāmaññaphalaṃ*
 
-－Na bet ar įmanoma, Gerbiamasis, kad būtų nurodytas kitas, čia pat ir iškart regimas atsiskyrimo vaisius, nuostabesnis ir puikesnis už šiuos čia pat ir iškart regimus atsiskyrimo vaisius?  
+－Na bet ar įmanoma, Garbusis, kad būtų nurodytas kitas, čia pat ir iškart regimas atsiskyrimo vaisius, nuostabesnis ir puikesnis už šiuos čia pat ir iškart regimus atsiskyrimo vaisius?  
 
 －Įmanoma, karaliau. Taigi, karaliau, klausyki, sutelki visą dėmesį, kalbėsiu.
 
-－Taip, Gerbiamasis,－ atsakė Magadhos karalius Adžatasatus Vedehiputa.
+－Taip, Garbusis,－ atsakė Magadhos karalius Adžatasatus Vedehiputa.
 
 Palaimintasis pasakė:
 
@@ -280,13 +280,13 @@ Sakykime, karaliau, būtų tyras, švarus, skaidrus ežeras kalno papėdėje. Tu
 
 Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pasakė Paliamintajam štai ką:
 
-－Nuostabu, Gerbiamasis, nuostabu, Gerbiamasis. Tai lyg, Gerbiamasis, tai, kas buvo apversta, jis būtų atstatęs atgal, ar tai, kas buvo paslėpta, jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs aliejinę lempą tam, kad tas, kas turi akis, pamatytų formas, lygiai taip, Gerbiamasis, Palaimintasis daugeliu būdų padarė Dharmą aiškia. Gerbiamasis, aš imu prieglobstį Palaimintajame, Dharmoje ir vienuolių Sanghoje. Lai Palaimintasis nuo šiol laiko mane pasauliečiu pasekėju, priėmusiu prieglobstį visam gyvenimui. Padariau nusikaltimą, Gerbiamasis, [tai buvo] taip kvaila, taip neišmintinga, taip nedora, kad aš iš tėvo, iš doro žmogaus, teisingo karaliaus norėdamas sosto atėmiau gyvybę. Gerbiamasis, lai Palaimintasis priima šį mano nusikaltimo prisipažinimą, tam, kad ateityje aš susilaikyčiau.
+－Nuostabu, Garbusis, nuostabu, Garbusis. Tai lyg, Garbusis, tai, kas buvo apversta, jis būtų atstatęs atgal, ar tai, kas buvo paslėpta, jis būtų atskleidęs, ar pasiklydusiam jis būtų parodęs kelią, ar į tamsą atnešęs aliejinę lempą tam, kad tas, kas turi akis, pamatytų formas, lygiai taip, Garbusis, Palaimintasis daugeliu būdų padarė Dharmą aiškia. Garbusis, aš imu prieglobstį Palaimintajame, Dharmoje ir vienuolių Sanghoje. Lai Palaimintasis nuo šiol laiko mane pasauliečiu pasekėju, priėmusiu prieglobstį visam gyvenimui. Padariau nusikaltimą, Garbusis, [tai buvo] taip kvaila, taip neišmintinga, taip nedora, kad aš iš tėvo, iš doro žmogaus, teisingo karaliaus norėdamas sosto atėmiau gyvybę. Garbusis, lai Palaimintasis priima šį mano nusikaltimo prisipažinimą, tam, kad ateityje aš susilaikyčiau.
 
 －Tikrai tu, karaliau, padarei nusikaltimą, [tai buvo] taip kvaila, taip neišmintinga, taip nedora, kad tu iš tėvo, iš doro žmogaus, teisingo karaliaus atėmei gyvybę. Bet dėl to, kad tu, pamatęs nusikaltimą kaip nusikaltimą, kaip pridera [jame] prisipažinai, mes priimame tavo prisipažinimą. Karaliau, švarus tauriųjų drausmės atžvilgiu yra tas, kas pamatęs nusikaltimą kaip nusikaltimą, kaip pridera [jame] prisipažįsta, o ateityje susilaiko.
 
 Kai tai buvo pasakyta, Magadhos karalius Adžatasatus Vedehiputa pasakė Paliamintajam štai ką:
 
-－Na ką gi, Gerbiamasis, dabar eisiu, turiu daug reikalų, daug ką reikia padaryti.
+－Na ką gi, Garbusis, dabar eisiu, turiu daug reikalų, daug ką reikia padaryti.
 
 －Daryki, karaliau, dabar taip kaip išmanai.
 

@@ -24,7 +24,7 @@ published: true
 
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Kurų šalyje Kurų kaime pavadinimu Kamasadhama. Tada gi Palaimintasis kreipėsi į vienuolius:  
 －Vienuoliai!   
-－Gerbiamasis,- atsakė tie vienuoliai Palaimintajam.   
+－Garbusis,- atsakė tie vienuoliai Palaimintajam.   
 Palaimintasis pasakė štai ką:  
 
 ### Teiginys

@@ -7,48 +7,47 @@ sortIndex: 2111
 tags:
   - Sąlygotas atsiradimas (paṭiccasamuppāda)
 ---
-Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi Palaimintasis kreipėsi į vienuolius:
+Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi Palaimintasis kreipėsi į vienuolius:\
+－Vienuoliai!\
+－Garbusis! － atsakė Palaimintajam vienuoliai.
 
-－Vienuoliai!
+Palaimintasis štai ką pasakė:\
+－Vienuoliai, mokysiu jus sąlygoto atsiradimo, klausykite, sutelkite visą dėmesį, kalbėsiu.\ 
+－Taip, Garbusis! － atsakė Palaimintajam vienuoliai.
 
-－Gerbiamasis! － atsakė Palaimintajam vienuoliai.
-
-Palaimintasis štai ką pasakė:
-
-－Vienuoliai, mokysiu jus sąlygoto atsiradimo, klausykite, sutelkite visą dėmesį, kalbėsiu. －Taip, gerbiamasis! － atsakė Palaimintajam vienuoliai.
-
-Palaimintasis štai ką pasakė:
-
-－Ir kas yra sąlygotas atsiradimas? 
-Sąlygoti nežinojimo, vienuoliai, yra valingi veiksmai;
-sąlygota valingų veiksmų yra sąmonė;
-sąlygota sąmonės yra protas-materija;
-sąlygoti proto-materijos yra šeši jutimo pagrindai;
-sąlygotas šešių jutimo pagrindų yra sąlytis;
-sąlygotas sąlyčio yra jausmas;
-sąlygotas jausmo yra troškimas;
-sąlygotas troškimo yra prisirišimas;
-sąlygota prisirišimo yra būtis;
-sąlygotas būties yra gimimas;
-sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.
+Palaimintasis štai ką pasakė:\
+－Ir kas yra sąlygotas atsiradimas?\ 
+Sąlygoti nežinojimo, vienuoliai, yra valingi veiksmai;\
+sąlygota valingų veiksmų yra sąmonė;\
+sąlygota sąmonės yra protas-materija;\
+sąlygoti proto-materijos yra šeši jutimo pagrindai;\
+sąlygotas šešių jutimo pagrindų yra sąlytis;\
+sąlygotas sąlyčio yra jausmas;\
+sąlygotas jausmo yra troškimas;\
+sąlygotas troškimo yra prisirišimas;\
+sąlygota prisirišimo yra būtis;\
+sąlygotas būties yra gimimas;\
+sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas.\
 Tokiu būdu atsiranda visa ši kentėjimų daugybė. Tai vadinama sąlygotu atsiradimu.
 
-Dėl visiško nežinojimo užgesimo, išnykimo išnyksta valingi veiksmai;
-dėl valingų veiksmų išnykimo išnyksta sąmonė;
-dėl sąmonės išnykimo išnyksta protas-materija;
-dėl proto-materijos išnykimo išnyksta šeši jutimo pagrindai;
-dėl šešių jutimo pagrindų išnykimo išnyksta sąlytis;
-dėl sąlyčio išnykimo išnyksta jausmas;
-dėl jausmo išnykimo išnyksta troškimas;
-dėl troškimo išnykimo išnyksta prisirišimas;
-dėl prisirišimo išnykimo išnyksta būtis;
-dėl būties išnykimo išnyksta gimimas;
-dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas.
-Tokiu būdu išnyksta visa ši kentėjimų daugybė. Tai pasakė Palaimintasis. Pamaloninti vienuoliai džiaugėsi Palaimintojo kalba.
+Dėl visiško nežinojimo užgesimo, išnykimo išnyksta valingi veiksmai;\
+dėl valingų veiksmų išnykimo išnyksta sąmonė;\
+dėl sąmonės išnykimo išnyksta protas-materija;\
+dėl proto-materijos išnykimo išnyksta šeši jutimo pagrindai;\
+dėl šešių jutimo pagrindų išnykimo išnyksta sąlytis;\
+dėl sąlyčio išnykimo išnyksta jausmas;\
+dėl jausmo išnykimo išnyksta troškimas;\
+dėl troškimo išnykimo išnyksta prisirišimas;\
+dėl prisirišimo išnykimo išnyksta būtis;\
+dėl būties išnykimo išnyksta gimimas;\
+dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas.\
+Tokiu būdu išnyksta visa ši kentėjimų daugybė. 
+
+Tai pasakė Palaimintasis. Pamaloninti vienuoliai džiaugėsi Palaimintojo kalba.
 
 ### Paṭiccasamuppādasuttaṃ (Sąlygotas atsiradimas, SN II.I.i.1)
 
-**1. Evaṃ \[1] me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: **"bhikkhavo"ti** "Vienuoliai!". **“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.** "Gerbiamasis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė: **paṭiccasamuppādaṃ vo, bhikkhave, desessāmi;** "Vienuoliai, mokysiu jus sąlygoto atsiradimo, **taṃ suṇātha, sādhukaṃ manasi karotha;** klausykite, sutelkite visą dėmesį, **bhāsissāmī”ti.** kalbėsiu." **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** "Taip, gerbiamasis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
+**1. Evaṃ \[1] me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** Vieną kartą Palaimintasis **sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme** buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: **"bhikkhavo"ti** "Vienuoliai!". **“Bhadante”ti te bhikkhū bhagavato paccassosuṃ.** "Garbusis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė: **paṭiccasamuppādaṃ vo, bhikkhave, desessāmi;** "Vienuoliai, mokysiu jus sąlygoto atsiradimo, **taṃ suṇātha, sādhukaṃ manasi karotha;** klausykite, sutelkite visą dėmesį, **bhāsissāmī”ti.** kalbėsiu." **“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ.** "Taip, Garbusis!", atsakė Palaimintajam vienuoliai. **Bhagavā etadavoca –** Palaimintasis štai ką pasakė:
 
 **"Katamo ca, bhikkhave,** "Ir kas yra **paṭiccasamuppādo?** sąlygotas atsiradimas?\
 **Avijjāpaccayā, bhikkhave, saṅkhārā;** Sąlygoti nežinojimo, vienuoliai, yra valingi veiksmai;\

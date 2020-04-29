@@ -25,7 +25,7 @@ published: true
 <a href="../mahasatipatthanasuttam-p1" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../mahasatipatthanasuttam-p2" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
-**372. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **kurūsu viharati** buvo apsistojęs Kurų šalyje **kammāsadhammaṃ nāma kurūnaṃ nigamo.** Kurų kaime pavadinimu Kamasadhama. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: **‘‘bhikkhavo’’ ti.** "Vienuoliai!" **‘‘Bhaddante’’ ti [bhadanteti (sī. syā. pī.)]** “Gerbiamasis,”- **te bhikkhū bhagavato paccassosuṃ.** atsakė tie vienuoliai Palaimintajam. **Bhagavā etadavoca –** Palaimintasis pasakė štai ką:
+**372. Evaṃ me sutaṃ –** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **kurūsu viharati** buvo apsistojęs Kurų šalyje **kammāsadhammaṃ nāma kurūnaṃ nigamo.** Kurų kaime pavadinimu Kamasadhama. **Tatra kho bhagavā bhikkhū āmantesi –** Tada gi Palaimintasis kreipėsi į vienuolius: **‘‘bhikkhavo’’ ti.** "Vienuoliai!" **‘‘Bhaddante’’ ti [bhadanteti (sī. syā. pī.)]** “Garbusis,”- **te bhikkhū bhagavato paccassosuṃ.** atsakė tie vienuoliai Palaimintajam. **Bhagavā etadavoca –** Palaimintasis pasakė štai ką:
 
 **Uddeso**  
 Teiginys  

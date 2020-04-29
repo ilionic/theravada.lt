@@ -12,20 +12,19 @@ Savathėje... tada gi... <br />
 – Vienuoliai, mokysiu jūs apie naštą, naštnešį, naštos paėmimą ir naštos numetimą. To klausykite.<br />
 
 Ir kas, vienuoliai, yra našta? Pasakytina, kad tai yra penkios sankaupos, paveiktos įsikibimo. Kokios penkios? 
-1. Materijos sankaupa, paveikta įsikibimo,<br /> 
-2. jausmo sankaupa, paveikta įsikibimo,<br /> 
-3. suvokimo sankaupa, paveikta įsikibimo, <br />
-4. proto darinių sankaupa, paveikta įsikibimo, <br />
-5. sąmonės sankaupa, paveikta įsikibimo – tai vadinama penkiomis sankaupomis, paveiktomis įsikibimo.<br />
+1. Materijos sankaupa, paveikta įsikibimo,
+2. jausmo sankaupa, paveikta įsikibimo, 
+3. suvokimo sankaupa, paveikta įsikibimo,
+4. proto darinių sankaupa, paveikta įsikibimo,
+5. sąmonės sankaupa, paveikta įsikibimo – tai vadinama penkiomis sankaupomis, paveiktomis įsikibimo.
 
-Ir kas, vienuoliai, yra naštnešys? Pasakytina, kad tai yra asmuo: gerbiamasis, tokiu ir tokiu vardu, iš tokios ir tokios giminės. Tai, vienuoliai, vadinama naštnešiu.<br />
+Ir kas, vienuoliai, yra naštnešys? Pasakytina, kad tai yra asmuo: gerbiamasis, tokiu ir tokiu vardu, iš tokios ir tokios giminės. Tai, vienuoliai, vadinama naštnešiu.
 
-Ir kas, vienuoliai, yra naštos paėmimas? Tai – troškimas, vedantis į pakartotiną būtį, susijęs su džiugesiu ir geismu, siekiantis džiugesio tai šian, tai ten, tai yra: juslinių malonumų troškimas, būties troškimas, nebūties troškimas. Tai, vienuoliai, vadinama naštos paėmimu.<br />
+Ir kas, vienuoliai, yra naštos paėmimas? Tai – troškimas, vedantis į pakartotiną būtį, susijęs su džiugesiu ir geismu, siekiantis džiugesio tai šian, tai ten, tai yra: juslinių malonumų troškimas, būties troškimas, nebūties troškimas. Tai, vienuoliai, vadinama naštos paėmimu.
 
-Ir kas, vienuoliai, yra naštos numetimas? Tai yra to troškimo visiškas užgesimas ir išnykimas, [jo] atmetimas, atsisakymas, išsilaisvinimas [nuo jo], [jo] nepriėmimas.<br />
+Ir kas, vienuoliai, yra naštos numetimas? Tai yra to troškimo visiškas užgesimas ir išnykimas, [jo] atmetimas, atsisakymas, išsilaisvinimas [nuo jo], [jo] nepriėmimas.
 
 Tai pasakė Palaimintasis. Tai pasakė Gerai Žengęs, o toliau Mokytojas pasakė štai ką:<br />
-
 Iš ties, penkios sankaupos, paveiktos įsikibimo yra našta, naštnešys - tai asmenybė,<br />
 naštos paėmimas yra kančia, laimė yra naštos numetimas.<br />
 Numetęs sunkią naštą, kitos naštos nepasiėmęs,<br />

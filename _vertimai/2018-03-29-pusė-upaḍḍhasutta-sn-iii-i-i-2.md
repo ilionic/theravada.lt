@@ -13,7 +13,7 @@ sortIndex: 3112
 
 Taip aš girdėjau: vieną kartą Palaimintasis gyveno tarp Sakjų, Sakjų mieste – Nagarakoje. Tada gi gerbiamas Ananda nuėjo pas Palaimintąjį, atėjęs pasveikino Palaimintąjį ir atsisėdo iš šono. Sėdėdamas gi iš šono gerbiamas Ananda štai ką pasakė Palaimintajam:  
 
-— Gerbiamasis, geri draugai, geri bičiuliai, gera kompanija – tai pusė švento gyvenimo.
+— Garbusis, geri draugai, geri bičiuliai, gera kompanija – tai pusė švento gyvenimo.
 
 — Tai kad ne taip, Ananda, nėra taip, Ananda. Ananda, geri draugai, geri bičiuliai, gera kompanija – tai visas šventas gyvenimas. Galima tikėtis, Ananda, kad vienuolis turintis gerų draugų, gerų bičiulių, esantis geroje kompanijoje, lavins taurinantį aštuonialypį kelią, dažnai praktikuos taurinantį aštuonialypį kelią.
 
@@ -23,7 +23,7 @@ Ananda, tam, kad geri draugai, geri bičiuliai, gera kompanija yra visas šventa
 
 ### Upaḍḍhasutta *Pusė* (SN III.I.i.2)  
 
-**Evaṃ me sutaṃ—** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sakyesu viharati** gyveno Sakijų tarpe **nagarakaṃ nāma sakyānaṃ nigamo.** Sakijų mieste vardu Nagaraka. **Atha kho āyasmā ānando** Tada gi gerbiamas Ananda **yena bhagavā tenupasaṅkami;** nuėjo pas Palaimintąjį, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.** Atėjęs pasveikino Palaimintąjį ir atsisėdo iš šono. **Ekamantaṃ nisinno kho** Sėdėdamas gi iš šono **āyasmā ānando bhagavantaṃ etadavoca:** gerbiamas Ananda štai ką pasakė Palaimintajam: **upaḍḍhamidaṃ, bhante, brahmacariyaṃ, yadidaṃ—** „Gerbiamasis, tai yra pusė švento gyvenimo: **kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatāti.** geri draugai, geri bičiuliai, gera kompanija.
+**Evaṃ me sutaṃ—** Taip aš girdėjau: **ekaṃ samayaṃ bhagavā** vieną kartą Palaimintasis **sakyesu viharati** gyveno Sakijų tarpe **nagarakaṃ nāma sakyānaṃ nigamo.** Sakijų mieste vardu Nagaraka. **Atha kho āyasmā ānando** Tada gi gerbiamas Ananda **yena bhagavā tenupasaṅkami;** nuėjo pas Palaimintąjį, **upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.** Atėjęs pasveikino Palaimintąjį ir atsisėdo iš šono. **Ekamantaṃ nisinno kho** Sėdėdamas gi iš šono **āyasmā ānando bhagavantaṃ etadavoca:** gerbiamas Ananda štai ką pasakė Palaimintajam: **upaḍḍhamidaṃ, bhante, brahmacariyaṃ, yadidaṃ—** „Garbusis, tai yra pusė švento gyvenimo: **kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatāti.** geri draugai, geri bičiuliai, gera kompanija.
 
 **Mā hevaṃ, ānanda,** Tai kad ne taip, Ananda, **mā hevaṃ, ānanda.** nėra taip, Ananda. **Sakalamevidaṃ, ānanda, brahmacariyaṃ, yadidaṃ—** Ananda, tai yra visas šventas gyvenimas: **kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā.** geri draugai, geri bičiuliai, gera kompanija. **Kalyāṇamittassetaṃ, ānanda, bhikkhuno pāṭikaṅkhaṃ** Galima tikėtis, Ananda, kad vienuolis turintis gerų draugų, **kalyāṇasahāyassa kalyāṇasampavaṅkassa—** gerų bičiulių, esantis geroje kompanijoje, **ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvessati,** lavins taurinantį aštuonialypį kelią, **ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissati.** dažnai praktikuos taurinantį aštuonialypį kelią.
 
