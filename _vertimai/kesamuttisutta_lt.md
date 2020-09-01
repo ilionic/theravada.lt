@@ -7,7 +7,6 @@ index:
 - 
 comments: false
 sortIndex: 3225
-hideIndex: true
 category: palaipsnines
 image:
 feature: abstract-2.jpg
