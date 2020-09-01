@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kesamuttisutta (Kālāmasutta) (AN3.II.ii.5)
+title: Kesamuttisutta (Kālāmasutta, AN3.II.ii.5)
 tags:
 - 
 index: 
@@ -9,7 +9,7 @@ comments: false
 sortIndex: 3225
 category: palaipsnines
 image:
-feature: abstract-2.jpg
+  feature: abstract-2.jpg
 published: true
 ---
 <a href="../kesamuttisutta_lt_" class="btn btn-primary btn-next">Lietuvių</a>

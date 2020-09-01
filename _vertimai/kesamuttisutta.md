@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kesamuttisutta (Kālāmasutta) (AN3.II.ii.5) pali-lt
+title: Kesamuttisutta (Kālāmasutta, AN3.II.ii.5, pali-lt)
 tags:
   - 
 index: 
