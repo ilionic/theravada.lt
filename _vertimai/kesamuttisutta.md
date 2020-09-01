@@ -7,7 +7,7 @@ index:
   - 
 comments: false
 hideIndex: true
-category: palaipsnines
+category: 
 image:
   feature: abstract-2.jpg
 published: true
