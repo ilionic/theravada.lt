@@ -12,7 +12,7 @@ image:
   feature: abstract-2.jpg
 published: true
 ---
-<a href="../kesamuttisutta_lt_" class="btn btn-primary btn-next">Lietuvių</a>
+<a href="../kesamuttisutta_lt" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../kesamuttisutta" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
 
 
