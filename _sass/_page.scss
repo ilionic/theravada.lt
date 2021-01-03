@@ -590,3 +590,11 @@ header .entry-meta {
 #goog-wm-sb {
 	@extend .btn;
 }
+
+.gsc-control-cse {
+	position: absolute;
+	z-index: 1000;
+	right: 0;
+	width: 300px !important;
+	border-radius: 4px;
+}
