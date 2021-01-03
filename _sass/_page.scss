@@ -598,3 +598,9 @@ header .entry-meta {
 	width: 300px !important;
 	border-radius: 4px;
 }
+
+input[type='text'],
+input[type='number'],
+textarea {
+  font-size: 16px;
+}
