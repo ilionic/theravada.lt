@@ -8,21 +8,21 @@ image:
 published: true
 ---
 
-**Arahantas (arahant)** - žmogus susidorojęs su visais teršalais, pasiekęs meditacijoje aukšiausio, t. y. nušvitimo; po mirties (parinibbānos) jis nebeatgims nei viename iš pasaulių.
+**Arahantas (arahant)** - žmogus susidorojęs su visais teršalais, pasiekęs meditacijoje aukščiausio, t. y. nušvitimo; po mirties (parinibbānos) jis nebeatgims nei viename iš pasaulių.
 
 **Asura (asura)** - vienos žemesnės dėvų klasės būtybė, budizmo puolęs angelas.
 
-**Bhavanga (bhavaṅga)** - vienuodų sąmonių tęstinumas, kuris nutrunka tik pažinimo proceso metu; jos objektas  yra toks pat kaip praeito gyvenimo artimos mirčiai sąmonės objektas.
+**Bhavanga (bhavaṅga)** - vienodų sąmonių tęstinumas, kuris nutrunka tik pažinimo proceso metu; jos objektas  yra toks pat kaip praeito gyvenimo artimos mirčiai sąmonės objektas.
 
-**Bodhisata (bodhisatta)** - žmogus pasižadėjęs tapti Buda; Mahajanos tradicijos idealas; iki savo nušvitimo jis nugyvena nenusakomai didelį gyvenimų skaičių, o po jo tampa Buda iki tol kol tame gyvenime pasiekia parinirvana.
+**Bodhisata (bodhisatta)** - žmogus pasižadėjęs tapti Buda; Mahajanos tradicijos idealas; iki savo nušvitimo jis nugyvena nenusakomai didelį gyvenimų skaičių, o po jo tampa Buda iki tol, kol tame gyvenime pasiekia parinirvana.
 
 **Brahma** - vieno iš dvidešimties žymiai aukštesnių už žmogaus pasalių gyventojų; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
 
-**Buda (buddha)** - be mokytojo pagalbos višiskai nušvitęs žmogus, tas kas pats atranda ir moko keturias tauriasias tiesas; kaip ir kiti Arahantai, po mirties (parinibbānos) jis nebeatgimsta nei viename iš pasaulių.
+**Buda (buddha)** - be mokytojo pagalbos višiskai nušvitęs žmogus, tas, kas pats atranda ir moko keturias tauriasias tiesas; kaip ir kiti Arahantai, po mirties (parinibbānos) jis nebeatgimsta nei viename iš pasaulių.
 
 **Čėtana (cetana)** - viena iš svarbiausių universalių, t.y. surištų su kiekviena sąmone, mentalinių veikmių. Ji yra atsakinga už ketinimą, jos charakteristika yra siekimo būsena, ji pasireiškia visų su ja besirandančių mentalinių veikmių suderinimu ir nukreipimu link tikslo pasiekimo, jos funkcija yra karmos kaupimas.
 
-**Dėva (deva)** - vieno iš penkių aukštesnių už žmogaus pasalių gyventojų; nematomas žmogaus akimis, bet gali būti pamatytas susitelkimo šviesos pagalba.
+**Dėva (deva)** - dievybė, gyvenanti viename iš penkių aukštesnių už žmogaus pasaulių; nematoma žmogaus akimis, bet gali būti pamatyta susitelkimo šviesos pagalba.
 
 **Dharma (Dhamma)** - (iš didžiosios raidės) Budos mokymai, taurioji tiesa.
 
@@ -42,9 +42,9 @@ published: true
 
 **Naga (nāga)** - vienos žemesnės dėvų klasės būtybė; panašaus į gyvatę pavidalo; dažnai turi antgamtinių galių ir pasižymi didžia stiprybe.
 
-**Nirvana (nibbāna)** - galutinis nušvitimas; išnykimo elementas; galutinė realybė; pasiekiama pažinus ir peržengus galinius protą-materiją; 'matoma' subrendus įžvalgos pažinimams; tai nesavastis ir neprilygstamai pastovu ir ramu; tai nėra vieta.
+**Nirvana (nibbāna)** - galutinis nušvitimas; išnykimo elementas; galutinė realybė; pasiekiama visiškai pažinus ir peržengus protą-materiją; 'matoma' subrendus įžvalgos pažinimams; tai nesavastis ir neprilygstamai pastovu ir ramu; tai nėra vieta.
 
-**Pačėkabudha (paccekabuddha)** - be mokytojo pagalbos višiskai nušvitęs žmogus, tas kas pats atranda keturias tauriasias tiesas, bet jų nemoko.
+**Pačėkabudha (paccekabuddha)** - be mokytojo pagalbos višiskai nušvitęs žmogus, tas, kas pats atranda keturias tauriasias tiesas, bet jų nemoko.
 
 **Parinirvana (parinibbāna)** - Budos, Pačėkabudos ir visų Arahantų mirtis po kurios nebėra daugiau gimimų, nebėra materijos ir proto.
 
@@ -56,7 +56,7 @@ published: true
 
 **Samatha** - ramuma; susitelkimo į objektą praktika vedanti į aukštesnias susitelkimo būsenas, jos pagalba protas vis labiau nurimsta.
 
-**Samsara (saṃsāra)** - besikartojantis gimimų, gyvenimų ir mirčių ciklas, 'atgimimų ratas', nuo neatmenamų laikų netrūkstama nuolat kintančių penkių visumų kombinacijos kaita.
+**Samsara (saṃsāra)** - besikartojantis gimimų, gyvenimų ir mirčių ciklas, 'atgimimų ratas', nuo neatmenamų laikų nenotrūkstanti nuolat kintančių penkių visumų kombinacijos kaita.
 
 **Sangha (saṅgha)** - bendrija, bendruomenė; praeities, dabarties ir ateities pasaulinė vienuolių bendruomenė; taip pat atskira vienuolių grupė, pvz. vieno vienuolyno vienuoliai.
 
