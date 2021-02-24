@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: 'Duodantis ką? (kiṃdadasuttaṃ, SN I.I.v.2)'
