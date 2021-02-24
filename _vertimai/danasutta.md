@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: 'Dovanos (Dānasuttaṃ, Iti 1.26)'
