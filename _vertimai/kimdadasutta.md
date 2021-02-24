@@ -9,12 +9,16 @@ tags:
 sortIndex: 1152
 ---
 
+[Deva paklausė:]
+
 Duodantis ką duoda stiprumą?\
 Duodantis ką duoda gražumą?\
 Duodantis ką duoda patogumą?\
 Duodantis ką duoda regėjimą?\
 Kas yra duodantis viską?\
 Tai paklaustas, pasakyk man.\
+
+[Buda atsakė:]
 
 Duodantis maistą duoda stiprumą,\
 Duodantis rūbą duoda gražumą,\
@@ -23,6 +27,7 @@ Duodantis žibintą duoda regėjimą,\
 Duoda viską duodantis būstą,\
 Nemirtingumą duoda mokantis Dharmos.
 
+__Kiṃdadasuttaṃ (Duodantis ką?)__
 
 **“kiṃdado balado hoti, kiṃdado hoti vaṇṇado**\
 Duodantis ką duoda stiprumą? Duodantis ką duoda gražumą?\

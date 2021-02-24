@@ -25,6 +25,7 @@ Būdami Nešykštus, jie patiria dalinimosi vaisius.\
 
 Tai taip pat to, ką pasakė Palaimintasis prasmė. Taip aš girdėjau.
 
+__Dānasuttaṃ (Suta apie dovanas)__
 
 **vuttañhetaṃ bhagavatā, vuttamarahatāti me sutaṃ —** Aš girdėjau, jog tai pasakė Palaiminasis, taip pasakė Arahantas:
 
@@ -48,4 +49,4 @@ Ten atgimę jie džiaugiasi, mėgaujasi malonumais.\
 Būdami nešykštus, jie patiria dalinimosi vaisius.
 
 **ayam pi attho vutto bhagavatā, iti me sutanti.**
-Tai taip pat to, ką pasakė Palaimintasis prasmė. Taip aš girdėjau.
+Tai taip pat to, ką pasakė Palaimintasis prasmė. Taip aš girdėjau. 

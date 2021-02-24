@@ -3,7 +3,7 @@ layout: page
 title: 'Suta apie dorovę (Sīlasuttaṃ, AN V.v.II.3)'
 category: palaipsnines
 index: Dorovė 
-sortIndex: 7132
+sortIndex: 5523 
 tags: Dorovė
 ---
 Vienuoliai, šie penki pavojai gresia nedoram, dorovės netekusiam [žmogui]. Kokie penki?
@@ -21,7 +21,7 @@ Vienuolia, šie penki palaimingi vaisiai laukia doro, dorovingo [žmogaus]. Koki
 4. Toliau, vienuoliai, doras, dorovingas [žmogus] miršta nesumišęs. Tai, vienuoliai, yra ketvirtas palaimingas vaisius, laukiantis doro, dorovingo [žmogaus].
 5. Toliau, vienuoliai, doras, dorovingas [žmogus] po kūno žūties, po mirties atgimsta geroje vietoje, danguje. Tai, vienuoliai, yra penktas palaimingas vaisius, laukiantis doro, dorovingo [žmogaus].<br/> Šie, vienuoliai, penki palaimingi vaisiai, laukia doro, dorovingo [žmogaus].
 
-__Sīlasuttaṃ (SuSuta apie dorovę)__
+__Sīlasuttaṃ (Suta apie dorovę)__
 
 __“pañcime, bhikkhave, ādīnavā dussīlassa sīlavipattiyā.__ – Vienuoliai, šie penki pavojai gresia nedoram, dorovės netekusiam [žmogui]. __katame pañca?__ Kokie penki? __idha, bhikkhave, dussīlo sīlavipanno__ Štai, vienuoliai, nedoras, dorovės netekęs [žmogus] __pamādādhikaraṇaṃ mahatiṃ bhogajāniṃ nigacchati.__ dėl nerūpestingumo praranda daug turto. __ayaṃ, bhikkhave, paṭhamo ādīnavo dussīlassa sīlavipattiyā.__ Tai, vienuoliai, yra pirmas pavojus, gresiantis nedoram, dorovės netekusiam [žmogui].\
 __“puna caparaṃ, bhikkhave, dussīlassa sīlavipannassa__ Toliau, vienuoliai, nedoras, dorovės netekęs [žmogus] __pāpako kittisaddo abbhuggacchati.__ įgyja blogą vardą. __ayaṃ, bhikkhave, dutiyo ādīnavo dussīlassa sīlavipattiyā.__ Tai, vienuoliai, yra antras pavojus, gresiantis nedoram, dorovės netekusiam [žmogui].\
