@@ -7,25 +7,27 @@ sortIndex: 5147
 tags: Dosnumas
 ---
 
-Taip aš girdėjau:\ 
+Taip aš girdėjau:
+ 
 vieną kartą Palaimintasis buvo apsistojęs Savathėje Džėtos girioje Anathapindikos vienuolyne. Tuo gi pat metu pasaulietė pasekėja Nandos motina Velukandakė rengė aukojimą vienuolių bendrijai su Sariputa ir Mogalana priešakyje pasižymintį šešiais bruožais. Ir pamatė gi Palaimintasis išgryninta antžmogiška dieviška akimi pasaulietę pasekėją Nandos motyną Velukandakę rengiančią aukojimą vienuolių bendrijai su Sariputa ir Mogalana priešakyje pasižymintį šešiais bruožais. Pamatęs, jis kreipėsi į vienuolius:
 
-– Ši, vienuoliai, pasaulietė pasekėja Nandos motina Velukandakė rengia aukojimą vienuolių bendrijai su Sariputa ir Mogalana priešakyje pasižymintį šešiais bruožais.\ 
+– Ši, vienuoliai, pasaulietė pasekėja Nandos motina Velukandakė rengia aukojimą vienuolių bendrijai su Sariputa ir Mogalana priešakyje pasižymintį šešiais bruožais.\
 Ir kaip, vienuoliai, aukojimas pasižymi šešiais bruožais? Čia, vienuoliai, trys bruožai yra aukojančiojo, trys bruožai gaunančiųjų. Kurie yra trys aukojančiojo bruožai? Čia, vienuoliai, duodantis prieš padovanojęs džiaugiasi, bedovanojant [jo] širdis nuskaidrėja, davęs, jis yra patenkintas. Šie yra trys aukojančiojo bruožai.\
 Kurie yra trys gaunančiųjų bruožai? Čia, vienuoliai, gaunantieji nebeturi aistros, arba praktikuoja tam, kad atsikratytų aistros nebeturi bjaurėjimosi, arba praktikuoja tam, kad atsikratytų bjaurėjimosi, nebeturi klydimo, arba praktikuoja tam, kad atsikratytų klydimo. Taigi, trys yra aukojančio bruožai, trys gaunančiųjų bruožai. Štai taip, vienuoliai, aukojimas pasižymi šešiais bruožais.
 
 Nelengva, vienuoliai, yra suvokti tokio, pasižyminčio šešiais bruožais, aukojimo nuopelnų kiekį [ir pasakyti]: "Tiek tai išteka nuopelno, išteka gėrio, pamaitinama laimė. Tai yra dangiška, neša laimę, veda į dangų, atneša norimą, malonų, žavingą, naudą ir laimę." Greičiau, tai pavadinsime tik kaip begalinė, nepamatuojama didi nuopelno gausa.\
 Lygiai kaip, vienuoliai, nelengva yra suvokti didžio vandenino vandens kiekį [ir pasakyti]: "Tiek tai gorčių, ar tiek tai šimtų gorčių, ar tiek tai tūkstančių gorčių, ar tiek tai šimtų tūkstančių gorčių." Greičiau, tai pavadinsime tik kaip begalinė, nepamatuojama didi vandens gausa. Taip, vienuoliai, nelengva yra suvokti ir tokio, pasižyminčio šešiais bruožais, aukojimo nuopelnų kiekį [ir pasakyti]: "Tiek tai išteka nuopelno, išteka gėrio, pamaitinama laimė. Tai yra dangiška, neša laimę, veda į dangų, atneša norimą, malonų, žavingą, naudą ir laimę." Greičiau, tai pavadinsime tik kaip begalinė, nepamatuojama didi nuopelno gausa.
 
-Kai džiaugiamasi prieš dovanojant, kai bedovanojant širdis nuskaidrėja,\ 
+Kai džiaugiamasi prieš dovanojant, kai bedovanojant širdis nuskaidrėja,\
 o davus jaučiamas pasitenkinimas, tai aukojimas yra pasisekęs.
 
-Kai [gaunantys] nebeturi aistros, nebeturi bjaurėjimosis, nebeturi klydimo, yra be ydingų polinkių,\ susitvardę, gyvenantys skaistų gyvenimą, tobulas yra laukas aukojimui.
+Kai [gaunantys] nebeturi aistros, nebeturi bjaurėjimosis, nebeturi klydimo, yra be ydingų polinkių,\
+susitvardę, gyvenantys skaistų gyvenimą, tobulas yra laukas aukojimui.
 
-Tiems, [kas aukoja prieš tai] nusuprausę, duodami savo rankomis,\ 
+Tiems, [kas aukoja prieš tai] nusuprausę, duodami savo rankomis,\
 vėliau šis aukojimas neša didžius vaisius.
 
-Išmoningasis, tikintis tokiu budu paaukojęs yra proto laisvo [nuo šykštumo].\ 
+Išmoningasis, tikintis tokiu budu paaukojęs yra proto laisvo [nuo šykštumo].\
 Tas išmintingasis gimsta laimingame pasaulyje, kur bėdos nekankina. 
 
 __Chaḷaṅgadānasuttaṃ (Dovanojimas su šešiais bruožais)__
@@ -54,7 +56,7 @@ susitvardę, gyvenantys skaistų gyvenimą, tobulas yra laukas aukojimui.
 __“sayaṃ ācamayitvāna, datvā sakehi pāṇibhi.__\
 Tiems, [kas aukoja prieš tai] nusuprausę, duodami savo rankomis, \
 __attano parato ceso, yañño hoti mahapphalo.__\
-vėliau šis aukojimas neša didžius vaisius.\
+vėliau šis aukojimas neša didžius vaisius.
 
 __“evaṃ yajitvā medhāvī, saddho muttena cetasā.__\
 Išmoningasis, tikintis taip paaukojęs yra proto laisvo [nuo šykštumo]. \
