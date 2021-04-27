@@ -6,7 +6,10 @@ index: Dosnumas
 sortIndex: 126
 tags:
   - Dosnumas
+image:
+  feature: dana_indagaw.jpg
 ---
+
 Aš girdėjau, jog tai pasakė Palaiminasis, taip pasakė Arahantas:
 
 Vienuoliai, jei būtybės žinotų taip, kaip aš tai žinau, kokius vaisius neša dovanų dalinimas, nedavę, jie nevalgytų, jie neleistų, kad jų protą užvaldytų šykštumo dėmė. Ir kai būtų kam duoti, jie paskutiniu kąsniu, paskutiniu gabaliuku dalintųsi. Bet dėl to, vienuoliai, kad būtybės nežino taip, kaip aš tai žinau, kokius vaisius neša dovanų dalinimas, jie valgo neduodami, bei leidžia, kad jų protą užvaldytų šykštumo dėmė. 

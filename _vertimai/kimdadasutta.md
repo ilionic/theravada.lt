@@ -5,6 +5,8 @@ category: suristos suttos
 index: Dosnumas
 tags:
   - Dosnumas
+image:
+  feature: dana_indagaw_2.jpg  
 sortIndex: 1152
 ---
 
