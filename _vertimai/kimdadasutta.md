@@ -17,7 +17,7 @@ Duodantis ką duoda gražumą?\
 Duodantis ką duoda patogumą?\
 Duodantis ką duoda regėjimą?\
 Kas yra duodantis viską?\
-Tai paklaustas, pasakyk man.\
+Tai paklaustas, pasakyk man.
 
 [Buda atsakė:]
 
