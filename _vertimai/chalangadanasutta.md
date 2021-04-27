@@ -5,6 +5,8 @@ category: palaipsnines
 index: Dorovė 
 sortIndex: 5147
 tags: Dosnumas
+image:
+  feature: dana.jpg
 ---
 
 Taip aš girdėjau:
