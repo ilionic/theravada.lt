@@ -2,7 +2,7 @@
 layout: page
 title: 'Dovanojimas pasižymintis šešiais bruožais (chaḷaṅgadānasuttaṃ, AN VI.i.IV.7)'
 category: palaipsnines
-index: Dorovė 
+index: Dosnumas 
 sortIndex: 5147
 tags: Dosnumas
 image:
