@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Suta apie dorovę (Sīlasuttaṃ, AN V.v.II.3)'
+title: 'Suta apie dorovę (Sīlasuttaṃ, AN 5.v.II.3)'
 category: palaipsnines
 index: Dorovė 
 sortIndex: 5523 

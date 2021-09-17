@@ -69,7 +69,7 @@ Paklauso tos Dharmos ar tai namų šeimininkas, ar tai namų šeimininko sūnus,
 
 Vėliau, palikęs ar tai mažą, ar tai didelę turtų masę, palikęs ar tai mažą, ar tai didelį giminių ratą, nusiskutęs plaukus, apsirengęs geltonais apdarais, jis žengia priekin iš namų į gyvenimą be namų.
 
-Jis, taip žengęs priekin, gyvena susitvardęs patimokhos laikymusi, pasižymėdamas geru elgesiu, matantis pavojų mažiausiame nusižengime, įsipareigoja laikytis priesakų, jo kūno ir kalbos veiksmai pasidaro dori, [jis yra] išgryninęs pragyvenimo šaltinius, pasižymi dorove, apsisaugojęs juslinių gebėjimų duris, [apsisaugojęs juslinių gebėjimų duris, žinantis saiką valgant] išsivystęs atidumą ir aiškų supratimą, pasitenkinęs.
+Jis, taip žengęs priekin, gyvena susitvardęs patimokhos laikymusi, pasižymėdamas geru elgesiu, matantis pavojų mažiausiame nusižengime, įsipareigoja laikytis priesakų, jo kūno ir kalbos veiksmai pasidaro dori, [jis yra] išgryninęs pragyvenimo šaltinius, pasižymi dorove, apsisaugojęs juslinių gebėjimų duris, [apsisaugojęs juslinių gebėjimų duris, žinantis saiką valgant] išsivystęs atidą ir aiškų supratimą, pasitenkinęs.
 
 ### 13. Mažoji dorovė
 
@@ -141,11 +141,11 @@ Karaliau, vienuolis, pasižymintis tokia dorove, t. y. susitvardęs dorove, niek
 
 Ir kaip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris? Štai, karaliau, vienuolis, akimis pamatęs formą, nebando pagauti nei [jos] bruožų, nei smulkių detalių. Gyvenant nesutvardžius akių juslinio gebėjimo, gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos, todėl jis žengia susitvardymo keliu, saugo akių juslinį gebėjimą, susitvardo akių juslinio gebėjimo atžvilgiu. Ausimis išgirdęs garsą… nosimi užuodęs kvapą…liežuviu pajutęs skonį... kūnu palietęs apčiuopiamą, protu pažinęs reiškinį nebando pagauti nei [jo] bruožų, nei smulkių detalių. Gyvenant nesutvardžius proto juslinio gebėjimo, gali įtekėti godulys, nusiminimas, blogos, nedoros būsenos, todėl jis žengia susitvardymo keliu, saugo proto juslinį gebėjimą, susitvardo proto juslinio gebėjimo atžvilgiu. Įgijęs šį taurųjį juslinių gebėjimų sutvardymą, jis jaučia vidinį neliečiamumo [teršalais] džiaugsmą. Štai taip, karaliau, vienuolis apsisaugoja juslinių gebėjimų duris.
 
-### 17. atidumas ir aiškus supratimas
+### 17. atida ir aiškus supratimas
 
 *Satisampajaññaṃ*
 
-Ir kaip, karaliau, vienuolis yra išsivystęs atidumą ir aiškų supratimą? Štai, karaliau, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištiesia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Štai taip, karaliau, vienuolis yra išsivystęs atidumą ir aiškų supratimą.
+Ir kaip, karaliau, vienuolis yra išsivystęs atidą ir aiškų supratimą? Štai, karaliau, vienuolis, kai eina į priekį ir kai eina atgal, daro tai aiškiai suprasdamas, kai žiūri į priekį ir kai žiūri į šalis, daro tai aiškiai suprasdamas, kai sulenkia ir kai ištiesia [galūnes], daro tai aiškiai suprasdamas, kai dėvi apdarus ir kai neša dubenį aukoms, daro tai aiškiai suprasdamas, kai valgo, geria, kramto ir kai ragauja, daro tai aiškiai suprasdamas, kai tuštinasi ir kai šlapinasi, daro tai aiškiai suprasdamas, kai eina, stovi, sėdi, guli, pabunda, kalba ir kai tyli, daro tai aiškiai suprasdamas. Štai taip, karaliau, vienuolis yra išsivystęs atidą ir aiškų supratimą.
 
 ### 18. Pasitenkinimas
 
@@ -158,7 +158,7 @@ Ir kaip, karaliau, vienuolis yra pasitenkinęs? Štai, karaliau, vienuolis yra p
 
 *Nīvaraṇappahānaṃ*
 
-Jis, pasižymėdamas šia taurios dorovės visuma, šiuo tauriu juslinių gebėjimų susitvardymu, išsivystęs šį taurųjį atidumą ir aiškų supratimą, išsivystęs šį taurųjį pasitenkinimą, dažnai lankosi nuošaliuose vietose: miške, medžio papėdėje, kalnuose, olose, kalnų tarpekliuose, kapinėse, miškų glūdumoje, atvirame ore, ant šiaudų krūvelės. Pavalgęs po sugrįžimo iš aukų rinkimo, jis atsisėda sukryžiavęs kojas, laikydamas kūną tiesiai, sutelkęs atidumą priešais save.
+Jis, pasižymėdamas šia taurios dorovės visuma, šiuo tauriu juslinių gebėjimų susitvardymu, išsivystęs šią tauriąją atidą ir aiškų supratimą, išsivystęs šį taurųjį pasitenkinimą, dažnai lankosi nuošaliuose vietose: miške, medžio papėdėje, kalnuose, olose, kalnų tarpekliuose, kapinėse, miškų glūdumoje, atvirame ore, ant šiaudų krūvelės. Pavalgęs po sugrįžimo iš aukų rinkimo, jis atsisėda sukryžiavęs kojas, laikydamas kūną tiesiai, sutelkęs atidą priešais save.
 
 Nusikratęs gobšumo pasaulio atžvilgiu, jis gyvena su protu be gobšumo, išgrynina protą nuo gobšumo. Nusikratęs piktavališkumo ydos, jis gyvena su geranorišku protu, su gailesčiu visoms gyvoms būtybėms, išgrynina protą nuo piktavališkumo. Nusikratęs tingulio ir apsnūdimo, jis gyvena be tingulio ir apsnūdimo, suvokdamas šviesą, būna atidus ir aiškiai suprantantis, išgrynina protą nuo tingulio ir apsnūdimo. Nusikratęs jaudinimosi ir nerimavimo, jis gyvena ramus, su iš vidaus nurimusiu protu, išgrynina protą nuo jaudinimosi ir nerimavimo. Nusikratęs abejonės, jis gyvena išsklaidęs abejones, nedvejodamas doromis būsenomis, išgrynina protą nuo abejonių.
 
@@ -176,7 +176,7 @@ Lygiai, karaliau, taip, kaip į skolą, kaip į ligą, kaip į kalėjimą, kaip 
 
 Lygiai, karaliau, taip, kaip į skolų neturėjimą, kaip į pasveikimą, kaip į išėjimą iš kalėjimo į laisvę, kaip į laisvę nuo vergystės, vienuolis žiūri į šių penkių kliūčių savyje pašalinimą.
 
-Matančiam, kad šios penkios kliūtys jame yra pašalintos, kyla malonumas, patiriančiam malonumą kyla džiaugsmas, besidžiaugiančio kūnas nurimsta, nurimusysis kūnu patiria laimę, laimingojo gi protas susitelkia.
+Kai jis mato, kad šios penkios kliūtys jame yra pašalintos, jam kyla malonumas, patiriančiam gi malonumą kyla džiaugsmas, besidžiaugiančio kūnas nurimsta, nurimusysis kūnu patiria laimę, o laimingojo protas susitelkia.
 
 ### 20. Pirmoji džhana
 
@@ -206,7 +206,7 @@ Sakykime, karaliau, žydrų, raudonų ar baltų lotosų tvenkinyje kurie nors ž
 
 *Catutthajjhānaṃ*
 
-Toliau, karaliau, vienuolis atsisakęs malonių ir nemalonių pojūčių, peržengęs ankstesnę laimę ir nusiminimą, pasiekia ketvirtąją džhaną, be nemalonių ir malonių pojūčių, su atidumu išgryninta [proto] pusiausvyra, ir būna joje, jis sėdi persmelkęs visą šitą patį kūną švariu, tyru protu, taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekęs švarus, tyras protas.
+Toliau, karaliau, vienuolis atsisakęs malonių ir nemalonių pojūčių, peržengęs ankstesnę laimę ir nusiminimą, pasiekia ketvirtąją džhaną, be nemalonių ir malonių pojūčių, su atidos išgryninta [proto] pusiausvyra, ir būna joje, jis sėdi persmelkęs visą šitą patį kūną švariu, tyru protu, taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekęs švarus, tyras protas.
 
 Sakykime, karaliau, žmogus būtų visas apdengtas baltu audeklu, jo kūne neliktų nei dalelytės, kurios nebūtų pasiekęs baltas audeklas; lygiai gi taip, karaliau, vienuolis sėdi persmelkęs visą šitą patį kūną švariu, tyru protu taip, kad jo kūne nelieka nei dalelytės, kurios nebūtų pasiekęs švarus, tyras protas. Tai irgi, karaliau, yra čia pat ir iškart regimas atsiskyrimo vaisius, nuostabesnis ir puikesnis už ankstesnius čia pat ir iškart regimus atsiskyrimo vaisius.
 

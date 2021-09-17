@@ -15,7 +15,7 @@ sortIndex: 9
 6. Lai niekas kito neapgaudinėja, lai niekas nieko nežemina niekur,<br /> Bei dėl pykčio ir neapykantos apimto proto niekas nelinki kitam blogo!“<br />
 7. Kaip mamą saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,<br /> Lygiai taip, lai jis vysto beribį protą visų būtybių atžvilgių.<br />
 8. Tegul jis vysto visą pasaulį persmelkiantį proto geraširdiškumą,<br /> Į viršų, žemyn, aplink, be ribų, be neapykantos, be priešiškumo.<br />
-9. Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas – visą būdravimo laiką,<br /> Lai jis taip vysto šį atidumą – tai šiame mokyme vadinama dieviškąja buveine.<br />
+9. Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas – visą būdravimo laiką,<br /> Lai jis taip vysto šią atidą – tai šiame mokyme vadinama dieviškąja buveine.<br />
 10. Nesiartindamas prie klaidingų pažiūrų, dorovingas, turintis tikros įžvalgos,<br /> Atsikratęs \[prisirišimo prie] juslinių malonumų, nebesugrįš jis į moters įsčias.<br />
 
 ## Mettasuttaṃ (Geranoriškumas, Sn I.8, Khp 9)
@@ -54,7 +54,7 @@ sortIndex: 9
 
 **9. Tiṭṭhaṃ caraṃ nisinno vā, sayāno yāvatāssa vigatamiddo;**<br /> Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas – visą būdravimo laiką,
 
-**Etaṃ satiṃ adhiṭṭheyya, brahmametaṃ vihāramidhamāhu.**<br /> Lai jis taip vysto šį atidumą – tai šiame mokyme vadinama dieviškąja buveine.
+**Etaṃ satiṃ adhiṭṭheyya, brahmametaṃ vihāramidhamāhu.**<br /> Lai jis taip vysto šią atidą – tai šiame mokyme vadinama dieviškąja buveine.
 
 **10. Diṭṭhiñca anupaggamma, sīlavā dassanena sampanno;**<br /> Nesiartindamas prie klaidingų pažiūrų, dorovingas, turintis tikros įžvalgos,
 
