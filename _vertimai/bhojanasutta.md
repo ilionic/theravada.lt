@@ -14,7 +14,7 @@ Vienuoliai, dovanojantis maistą, gavėjui dovanoja penkis dalykus. Kokius penki
 Išmintingasis dovanoja gyvenimą, stiprumą, grožį ir sumanumą.\
 Išmaningasis dovanoja laimę, [ir dėl to] jis pasiekia laimę.\
 Padovanojęs gyvenimą, stiprumą, grožį, laimę ir sumanumą,\
-Kur begimtų, jis gyvena ilgai, ir garsa apie jį pasklinda.
+Kur begimtų, jis gyvena ilgai, ir pasklinda apie jį garsa.
 
 __Bhojanasuttaṃ (Suta apie maistą)__
 
