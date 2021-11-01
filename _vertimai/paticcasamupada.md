@@ -12,11 +12,11 @@ Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Dže
 －Garbusis! － atsakė Palaimintajam vienuoliai.
 
 Palaimintasis štai ką pasakė:\
-－Vienuoliai, mokysiu jus sąlygoto atsiradimo, klausykite, sutelkite visą dėmesį, kalbėsiu.\ 
+－Vienuoliai, mokysiu jus sąlygoto atsiradimo, klausykite, sutelkite visą dėmesį, kalbėsiu.\
 －Taip, Garbusis! － atsakė Palaimintajam vienuoliai.
 
 Palaimintasis štai ką pasakė:\
-－Ir kas yra sąlygotas atsiradimas?\ 
+－Ir kas yra sąlygotas atsiradimas?\
 Sąlygoti nežinojimo, vienuoliai, yra valingi veiksmai;\
 sąlygota valingų veiksmų yra sąmonė;\
 sąlygota sąmonės yra protas-materija;\

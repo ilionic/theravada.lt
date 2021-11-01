@@ -5,6 +5,8 @@ category: palaipsnines
 index:  
 sortIndex: 7132
 tags:
+image:
+  feature: Burmese.jpg
 ---
 <a href="../Vassakārasutta-lt" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../Vassakārasutta pali" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />

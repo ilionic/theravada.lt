@@ -24,7 +24,7 @@ Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
 Kai reiškiniai tampa matomi\
-Su užsidegimu medituojančiam brahmanui,\ 
+Su užsidegimu medituojančiam brahmanui,\
 Visos jo abejonės išsisklaido,\
 Nes jis žino reiškinius kartu su jų priežastimis.
 
@@ -41,7 +41,7 @@ Nes jis žino reiškinius kartu su jų priežastimis.
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
 **‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi\
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,\ 
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,\
 **Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,\
 **Yato pajānāti sahetudhamma’’nti.** Nes jis žino reiškinius kartu su jų priežastimis.
 
@@ -57,8 +57,8 @@ Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką 
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-Kai reiškiniai tampa matomi\  
-Su užsidegimu medituojančiam brahmanui,\ 
+Kai reiškiniai tampa matomi\
+Su užsidegimu medituojančiam brahmanui,\
 Visos jo abejonės išsisklaido,\
 Nes jis pažino priežasčių panaikinimą.
 
@@ -73,8 +73,8 @@ Nes jis pažino priežasčių panaikinimą.
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
 **‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi\
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,\ 
-**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,\ 
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,\
+**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,\
 **Yato khayaṃ paccayānaṃ avedī’’ti.** Nes jis pažino priežasčių panaikinimą.  
 
 
@@ -89,10 +89,10 @@ Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką 
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-Kai reiškiniai tampa matomi\ 
-Su užsidegimu medituojančiam brahmanui,\ 
+Kai reiškiniai tampa matomi\
+Su užsidegimu medituojančiam brahmanui,\
 Jis stovi išsklaidęs Maros armiją\*\
-Kaip saulė apšviečianti dangaus skliautą.\ 
+Kaip saulė apšviečianti dangaus skliautą.
 
 \**Mara (Māra) - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija. Jo armiją sudaro tokie trugdžiai kelyje į nušvitimą kaip jusliniai malonumai, nepasitenkinimas, alkis ir troškulys, troškimas, tingulys ir apsnūdimas, baimė, neapsisprendimas, veidmainystė ir užsispirimas, neteisėtas praturtėjimas, išgarsėjimas, garbė ir statusas; bei savęs liaupsinimas ir kitų niekinimas.*
 

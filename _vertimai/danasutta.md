@@ -23,7 +23,7 @@ ten dovanos neša didį vaisių.\
 Davę maisto dovaną tiems, kas vertas dovanų,\
 daugelis aukotojų, kai palieka žmonių pasaulį, atgimsta danguje.\
 Ten atgimę jie džiaugiasi, mėgaujasi malonumais.\
-Būdami Nešykštus, jie patiria dalinimosi vaisius.\  
+Būdami Nešykštus, jie patiria dalinimosi vaisius. 
 
 Tai taip pat to, ką pasakė Palaimintasis prasmė. Taip aš girdėjau.
 

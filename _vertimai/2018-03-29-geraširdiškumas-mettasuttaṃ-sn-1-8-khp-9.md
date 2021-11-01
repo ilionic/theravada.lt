@@ -6,6 +6,8 @@ index: Praktika
 tags:
   - Praktika
 sortIndex: 9
+image:
+  feature: Burmese.jpg
 ---
 1. Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną).<br /> Jis turi būti gebantis, tiesiaširdis, atviras, nuolankus, lankstus ir nepasipūtęs,<br />
 2. Nereiklus, lengvai paremiamas, mažai užsiėmęs ir gyvenantis lengvai;<br /> Su nurimusiomis juslėmis, praktiškas, neįžūlus, bei nesitapatinantis su pasauliečiais.<br />
@@ -18,7 +20,7 @@ sortIndex: 9
 9. Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas – visą būdravimo laiką,<br /> Lai jis taip vysto šią atidą – tai šiame mokyme vadinama dieviškąja buveine.<br />
 10. Nesiartindamas prie klaidingų pažiūrų, dorovingas, turintis tikros įžvalgos,<br /> Atsikratęs \[prisirišimo prie] juslinių malonumų, nebesugrįš jis į moters įsčias.<br />
 
-## Mettasuttaṃ (Geranoriškumas, Sn I.8, Khp 9)
+## Mettasuttaṃ (Geraširdiškumas, Sn I.8, Khp 9)
 
 **1. Karaṇīyamatthakusalena, yanta santaṃ padaṃ abhisamecca;**<br /> Tai turėtų daryti tas, kuris supranta kas yra gėris ir siekia patirti tą ramybės būvį (nirvaną).
 

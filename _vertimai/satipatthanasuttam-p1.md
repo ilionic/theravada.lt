@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'keturios atidos sritys (Satipaṭṭhānasuttaṃ, MN I.i.10)'
+title: 'Keturios atidos sritys (Satipaṭṭhānasuttaṃ, MN I.i.10)'
 category: vidutinio
 sortIndex: 110
 tags:
@@ -35,7 +35,7 @@ Palaimintasis pasakė štai ką:
 
 Kokie keturi? Štai, vienuoliai, vienuolis gyvena kūne, kontempliuodamas kūną, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena jausmuose kontempliuodamas jausmus, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena prote kontempliuodamas protą, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu; gyvena reiškiniuose kontempliuodamas reiškinius, būdamas uolus, su aiškiu supratimu, sąmoningas, be godulio ir nepasitenkinimo pasauliu.  
 
-###Kūno kontempliacija, atidos kvėpavimui skyrius###
+### Kūno kontempliacija, atidos kvėpavimui skyrius
 
 *Kāyānupassanā ānāpānapabbaṃ*
 

@@ -6,6 +6,8 @@ index: Praktika
 sortIndex: 5
 tags:
   - Praktika
+image:
+  feature: Burmese.jpg
 ---
 1.Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje, Džetos girioje, Anathapindikos vienuolyne. Tada gi gilią naktį vienas dėva, neprilygstama šviesa nušvietęs visą Džetos girią, atėjo pas Palaimintąjį. Atėjęs pasveikino jį ir atsistojo iš šono. Iš šono stovėdamas tas dėva ištarė Palaimintajam posmą:
 

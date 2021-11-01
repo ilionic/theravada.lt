@@ -5,15 +5,17 @@ category: palaipsnines
 index: Pyktis 
 sortIndex: 72611 
 tags: Geraširdiškumas
+image:
+  feature: Burmese.jpg
 ---
 
-Vienuoliai, pikčiurnai vyrui ar moteriai atsitinka septyni priešą pamaloninantys, priešui padedantys dalykai. Kurie septyni?\
-1. Štai, vienuoliai, priešas linki priešui: „Kad jis būtų bjaurios išvaizdos!” Kodėl? Todėl, kad priešo nedžiugina priešo grožis. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, kad jis ir yra švariai nusiprausęs, gerai išsitrynęs [aliejais], susišukavęs ir baltais rūbais apsirengęs, vis vien, būdamas užvaldytas pykčio jis atrodo bjauriai. Tai, vienuoliai, yra pirmas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
-2. Toliau, vienuoliai, priešas linki priešui: „Kad jis blogai miegotų!” Kodėl? Todėl, kad priešo nedžiugina priešo saldus miegas. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, kad jis ir guli ant lovos išklotos dideliu juodu kilimu, gėlėmis išsiuvinėtu vilnoniu apklotu ir elnio kailio kilimu bei raudonomis pagalvėmis iš abiejų pusių, vis vien, būdamas užvaldytas pykčio jis miega blogai. Tai, vienuoliai, yra antras priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
-3. Toliau, vienuoliai, priešas linki priešui: „Kad jam nesisektų!” Kodėl? Todėl, kad priešo nedžiugina priešo sėkmė. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, paėmęs kažką kenksmingą, mano, kad pasiėmė kažką naudingą, o paėmęs kažką naudingą, mano, kad pasiėmė kažką kenksmingą. Priešingų dalykų laikymas vienu kitu pykčio užvaldytajam ilgai neša žalą ir skausmą. Tai, vienuoliai, yra trečias priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
-4. Toliau, vienuoliai, priešas linki priešui: „Kad jis būtų nepasiturintis!” Kodėl? Todėl, kad priešo nedžiugina priešo turtingumas. Apimto pykčio, užvaldyto pykčio pikčiurnos, vienuoliai, turtus, kuriuos jis didžiulėmis pastangomis, savo rankomis, prakaitu teisėtai uždirbo, pasisavina valdžia. Tai, vienuoliai, yra ketvirtas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
-5. Toliau, vienuoliai, priešas linki priešui: „Kad jis būtų nepopuliarus!” Kodėl? Todėl, kad priešo nedžiugina priešo populiarumas. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, praranda prieš tai uolumu užsitarnautą populiarumą, jis yra pikčiurna. Tai, vienuoliai, yra penktas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
-6. Toliau, vienuoliai, priešas linki priešui: „Kad jis neturėtų draugų!” Kodėl? Todėl, kad priešo nedžiugina, kai priešas turi draugų. Apimto pykčio, užvaldyto pykčio pikčiurnos, vienuoliai, draugai, bičiuliai, giminės ir artimieji iš tolo jo vengia. Tai, vienuoliai, yra šeštas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
+Vienuoliai, pikčiurnai vyrui ar moteriai atsitinka septyni priešą pamaloninantys, priešui padedantys dalykai. Kurie septyni?
+1. Štai, vienuoliai, priešas linki priešui: „Kad jis būtų bjaurios išvaizdos!” Kodėl? Todėl, kad priešo nedžiugina priešo grožis. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, kad jis ir yra švariai nusiprausęs, gerai išsitrynęs [aliejais], susišukavęs ir baltais rūbais apsirengęs, vis vien, būdamas užvaldytas pykčio jis atrodo bjauriai. Tai, vienuoliai, yra pirmas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
+2. Toliau, vienuoliai, priešas linki priešui: „Kad jis blogai miegotų!” Kodėl? Todėl, kad priešo nedžiugina priešo saldus miegas. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, kad jis ir guli ant lovos išklotos dideliu juodu kilimu, gėlėmis išsiuvinėtu vilnoniu apklotu ir elnio kailio kilimu bei raudonomis pagalvėmis iš abiejų pusių, vis vien, būdamas užvaldytas pykčio jis miega blogai. Tai, vienuoliai, yra antras priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
+3. Toliau, vienuoliai, priešas linki priešui: „Kad jam nesisektų!” Kodėl? Todėl, kad priešo nedžiugina priešo sėkmė. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, paėmęs kažką kenksmingą, mano, kad pasiėmė kažką naudingą, o paėmęs kažką naudingą, mano, kad pasiėmė kažką kenksmingą. Priešingų dalykų laikymas vienu kitu pykčio užvaldytajam ilgai neša žalą ir skausmą. Tai, vienuoliai, yra trečias priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
+4. Toliau, vienuoliai, priešas linki priešui: „Kad jis būtų nepasiturintis!” Kodėl? Todėl, kad priešo nedžiugina priešo turtingumas. Apimto pykčio, užvaldyto pykčio pikčiurnos, vienuoliai, turtus, kuriuos jis didžiulėmis pastangomis, savo rankomis, prakaitu teisėtai uždirbo, pasisavina valdžia. Tai, vienuoliai, yra ketvirtas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
+5. Toliau, vienuoliai, priešas linki priešui: „Kad jis būtų nepopuliarus!” Kodėl? Todėl, kad priešo nedžiugina priešo populiarumas. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, praranda prieš tai uolumu užsitarnautą populiarumą, jis yra pikčiurna. Tai, vienuoliai, yra penktas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
+6. Toliau, vienuoliai, priešas linki priešui: „Kad jis neturėtų draugų!” Kodėl? Todėl, kad priešo nedžiugina, kai priešas turi draugų. Apimto pykčio, užvaldyto pykčio pikčiurnos, vienuoliai, draugai, bičiuliai, giminės ir artimieji iš tolo jo vengia. Tai, vienuoliai, yra šeštas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
 7. Toliau, vienuoliai, priešas linki priešui: „Kad jis po kūno žūties, po mirties atgimtų pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare!” Kodėl? Todėl, kad priešo nedžiugina priešo atgimimas geroje vietoje. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, blogai elgiasi, blogai kalba, blogai mąsto. Blogai pasielgęs, blogai kalbėjęs, blogai mąstęs, jis po mirties atgimsta pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare. Tai, vienuoliai, yra septintas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
 Šie, vienuoliai, yra septyni priešą pamaloninantys, priešui padedantys dalykai atsitinkantis pikčiurnai vyrui ar moteriai.
 
@@ -89,7 +91,7 @@ supykęs nežino, kas yra gera, supykęs nemato Dhammos.\
 **andhatamaṃ tadā hoti, yaṃ kodho sahate naraṃ.**\
 Kai žmogų užvaldo pyktis, yra [tik] aklina tamsa.\
 **“yaṃ kuddho uparodheti, sukaraṃ viya dukkaraṃ.**\
-Dėl to, ką supykęs sugriauna, [padaręs] sunkiai padaroma lyg tai būtų lengva,\ 
+Dėl to, ką supykęs sugriauna, [padaręs] sunkiai padaroma lyg tai būtų lengva,\
 **pacchā so vigate kodhe, aggidaḍḍho va tappati.**\
 kai atlyžta, jis kankinasi lyg ugnies deginamas.\
 **“dummaṅkuyaṃ padasseti dhūmaṃ dhūmīva pāvako.**\
@@ -99,7 +101,7 @@ Kai iš jo pasklida pyktis, tai erzina žmones.\
 **“nāssa hirī na ottappaṃ, na vāco hoti gāravo.**\
 Jis neturi nei gėdos, nei sąžinės jausmo ir kalba jis nepagarbiai,\
 **kodhena abhibhūtassa, na dīpaṃ hoti kiñcanaṃ.**\
-užvaldytajam pykčio nėra jokios [prieglobsčio] salos.\ 
+užvaldytajam pykčio nėra jokios [prieglobsčio] salos.\
 **“tapanīyāni kammāni, yāni dhammehi ārakā.**\
 Apie veiksmus, dėl kurių [vėliau] kankinamasi, kurie yra toli nuo dorųjų,\
 **tāni ārocayissāmi, taṃ suṇātha yathā tathaṃ.**\
@@ -121,7 +123,7 @@ Peilių jie nusižudo, pamišę prarija nuodų,\
 **rajjuyā bajjha mīyanti, pabbatām api kandare.**\
 jie miršta pasikorę, nušokę nuo kalno ar skardžio.\
 **“bhūnahaccāni kammāni, attamāraṇiyāni ca.**\
-Kai jie savo elgesiu sužlugdo klestėjimą ir pražudo save,\ 
+Kai jie savo elgesiu sužlugdo klestėjimą ir pražudo save,\
 **karontā nāvabujjhanti, kodhajāto parābhavo.**\
 jie nesupranta, kad pyktis žlugdo.\
 **“itāyaṃ kodharūpena, maccupāso guhāsayo.**\

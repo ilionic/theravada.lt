@@ -6,6 +6,8 @@ index: Pažiūros (diṭṭhi)
 tags:
   - Pažiūros (diṭṭhi)
 sortIndex: 1
+image:
+  feature: Burmese.jpg
 ---
 
 Tai buvo pasakyta Palaimintojo, pasakyta Arahanto, taip aš girdėjau:
