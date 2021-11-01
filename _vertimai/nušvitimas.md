@@ -17,18 +17,16 @@ published: true
 
 *Paṭhamabodhisuttaṃ*
 
-*Paṭhamabodhisuttaṃ*
-
 Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką nušvitimą buvo apsistojęs Uruvėloje Nadžioje Nerandžios upės pakrantėje bodhi medžio papėdėje. Ir tuo metu Palaimintasis septynias dienas patirdamas išsilaisvinimo laimę sėdėjo sukryžiavęs kojas. Tada gi Palaimintasis, praėjus septyniom dienom, išėjęs iš to susitelkimo, pirmą nakties trečdalį kreipė nuodugnų dėmesį į sąlygotą atsiradimą tiesiogine tvarka.
 
-"Tam esant, tai yra, tam atsiradus, tai atsiranda, tai yra: sąlygoti nežinojimo yra valingi veiksmai; sąlygota valingų veiksmų yra sąmonė; sąlygota sąmonės yra protas-materija; sąlygoti proto-materijos yra šeši jautimo pagrindai; sąlygotas šešių jautimo pagrindų yra sąlytis; sąlygotas sąlyčio yra jausmas; sąlygotas jausmo yra troškimas; sąlygotas troškimo yra prisirišimas; sąlygotas prisirišimo yra būtis; sąlygotas būties yra gimimas; sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. Tokiu būdu atsiranda visa ši kentėjimų daugybė."
+„Šitam esant, tai yra; dėl šito atsiradimo, tai atsiranda, tai yra: sąlygoti nežinojimo yra valingi veiksmai; sąlygota valingų veiksmų yra sąmonė; sąlygota sąmonės yra protas-materija; sąlygoti proto-materijos yra šeši jautimo pagrindai; sąlygotas šešių jautimo pagrindų yra sąlytis; sąlygotas sąlyčio yra jausmas; sąlygotas jausmo yra troškimas; sąlygotas troškimo yra prisirišimas; sąlygotas prisirišimo yra būtis; sąlygotas būties yra gimimas; sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. Tokiu būdu atsiranda visa ši kentėjimų daugybė.”
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-"Kai reiškiniai tampa matomi  
-Su užsidegimu medituojančiam brahmanui,  
-Visos jo abejonės išsisklaido,  
-Nes jis žino reiškinius kartu su jų priežastimis."
+Kai reiškiniai tampa matomi\
+Su užsidegimu medituojančiam brahmanui,\ 
+Visos jo abejonės išsisklaido,\
+Nes jis žino reiškinius kartu su jų priežastimis.
 
 
 
@@ -42,10 +40,10 @@ Nes jis žino reiškinius kartu su jų priežastimis."
 
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
-**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi  
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,  
-**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,  
-**Yato pajānāti sahetudhamma’’nti.** Nes jis žino reiškinius kartu su jų priežastimis."  
+**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi\
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,\ 
+**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,\
+**Yato pajānāti sahetudhamma’’nti.** Nes jis žino reiškinius kartu su jų priežastimis.
 
 
 
@@ -55,14 +53,14 @@ Nes jis žino reiškinius kartu su jų priežastimis."
 
 Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką nušvitimą buvo apsistojęs Uruvėloje Nadžioje Nerandžios upės pakrantėje bodhi medžio papėdėje. Ir tuo metu Palaimintasis septynias dienas patirdamas išsilaisvinimo laimę sėdėjo sukryžiavęs kojas. Tada gi Palaimintasis, praėjus septyniom dienom, išėjęs iš to susitelkimo, antrą nakties trečdalį kreipė nuodugnų dėmesį į sąlygotą atsiradimą atvirkštine tvarka.
 
-"Tam nesant, to nėra, tam išnykus, tai išnyksta, tai yra: dėl nežinojimo išnykimo išnyksta valingi veiksmai; dėl valingų veiksmų išnykimo išnyksta sąmonė; dėl sąmonės išnykimo išnyksta protas-materija; dėl proto-materijos išnykimo išnyksta šeši jautimo pagrindai; dėl šešių jautimo pagrindų išnykimo išnyksta sąlytis; dėl sąlyčio išnykimo išnyksta jausmas; dėl jausmo išnykimo išnyksta troškimas; dėl troškimo išnykimo išnyksta prisirišimas; dėl prisirišimo išnykimo išnyksta būtis; dėl būties išnykimo išnyksta gimimas; dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas. Tokiu būdu išnyksta visa ši kentėjimų daugybė."
+„Šitam nesant, to nėra; dėl šito išnykimo, tai išnyksta., tai yra: dėl nežinojimo išnykimo išnyksta valingi veiksmai; dėl valingų veiksmų išnykimo išnyksta sąmonė; dėl sąmonės išnykimo išnyksta protas-materija; dėl proto-materijos išnykimo išnyksta šeši jautimo pagrindai; dėl šešių jautimo pagrindų išnykimo išnyksta sąlytis; dėl sąlyčio išnykimo išnyksta jausmas; dėl jausmo išnykimo išnyksta troškimas; dėl troškimo išnykimo išnyksta prisirišimas; dėl prisirišimo išnykimo išnyksta būtis; dėl būties išnykimo išnyksta gimimas; dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas. Tokiu būdu išnyksta visa ši kentėjimų daugybė.”
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-"Kai reiškiniai tampa matomi   
-Su užsidegimu medituojančiam brahmanui,  
-Visos jo abejonės išsisklaido,  
-Nes jis pažino priežasčių panaikinimą."
+Kai reiškiniai tampa matomi\  
+Su užsidegimu medituojančiam brahmanui,\ 
+Visos jo abejonės išsisklaido,\
+Nes jis pažino priežasčių panaikinimą.
 
 
 
@@ -74,10 +72,10 @@ Nes jis pažino priežasčių panaikinimą."
 
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
-**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi  
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,  
-**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,  
-**Yato khayaṃ paccayānaṃ avedī’’ti.** Nes jis pažino priežasčių panaikinimą."  
+**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi\
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,\ 
+**Athassa kaṅkhā vapayanti sabbā,** Visos jo abejonės išsisklaido,\ 
+**Yato khayaṃ paccayānaṃ avedī’’ti.** Nes jis pažino priežasčių panaikinimą.  
 
 
 
@@ -87,14 +85,14 @@ Nes jis pažino priežasčių panaikinimą."
 
 Taip aš girdėjau: vieną kartą Palaimintasis tik pasiekęs tobulą visišką nušvitimą buvo apsistojęs Uruvėloje Nadžioje Nerandžios upės pakrantėje bodhi medžio papėdėje. Ir tuo metu Palaimintasis septynias dienas patirdamas išsilaisvinimo laimę sėdėjo sukryžiavęs kojas. Tada gi Palaimintasis, praėjus septyniom dienom, išėjęs iš to susitelkimo, paskutinį nakties trečdalį kreipė nuodugnų dėmesį į sąlygotą atsiradimą tiesiogine ir atvirkštine tvarka.
 
-"Tam esant, tai yra, tam atsiradus, tai atsiranda, tam nesant, to nėra, tam išnykus, tai išnyksta, tai yra: sąlygoti nežinojimo yra valingi veiksmai; sąlygota valingų veiksmų yra sąmonė; sąlygota sąmonės yra protas-materija; sąlygoti proto-materijos yra šeši jautimo pagrindai; sąlygotas šešių jautimo pagrindų yra sąlytis; sąlygotas sąlyčio yra jausmas; sąlygotas jausmo yra troškimas; sąlygotas troškimo yra prisirišimas; sąlygotas prisirišimo yra būtis; sąlygotas būties yra gimimas; sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. Tokiu būdu atsiranda visa ši kentėjimų daugybė. Dėl visiško nežinojimo užgesimo, išnykimo išnyksta valingi veiksmai; dėl valingų veiksmų išnykimo išnyksta sąmonė; dėl sąmonės išnykimo išnyksta protas-materija; dėl proto-materijos išnykimo išnyksta šeši jautimo pagrindai; dėl šešių jautimo pagrindų išnykimo išnyksta sąlytis; dėl sąlyčio išnykimo išnyksta jausmas; dėl jausmo išnykimo išnyksta troškimas; dėl troškimo išnykimo išnyksta prisirišimas; dėl prisirišimo išnykimo išnyksta būtis; dėl būties išnykimo išnyksta gimimas; dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas. Tokiu būdu išnyksta visa ši kentėjimų daugybė."
+„Šitam esant, tai yra; dėl šito atsiradimo, tai atsiranda. Šitam nesant, to nėra; dėl šito išnykimo, tai išnyksta, tai yra: sąlygoti nežinojimo yra valingi veiksmai; sąlygota valingų veiksmų yra sąmonė; sąlygota sąmonės yra protas-materija; sąlygoti proto-materijos yra šeši jautimo pagrindai; sąlygotas šešių jautimo pagrindų yra sąlytis; sąlygotas sąlyčio yra jausmas; sąlygotas jausmo yra troškimas; sąlygotas troškimo yra prisirišimas; sąlygotas prisirišimo yra būtis; sąlygotas būties yra gimimas; sąlygotas gimimo yra senėjimo, mirties, liūdesio, raudojimo, skausmo, nusiminimo, nerimo atsiradimas. Tokiu būdu atsiranda visa ši kentėjimų daugybė. Dėl visiško nežinojimo užgesimo, išnykimo išnyksta valingi veiksmai; dėl valingų veiksmų išnykimo išnyksta sąmonė; dėl sąmonės išnykimo išnyksta protas-materija; dėl proto-materijos išnykimo išnyksta šeši jautimo pagrindai; dėl šešių jautimo pagrindų išnykimo išnyksta sąlytis; dėl sąlyčio išnykimo išnyksta jausmas; dėl jausmo išnykimo išnyksta troškimas; dėl troškimo išnykimo išnyksta prisirišimas; dėl prisirišimo išnykimo išnyksta būtis; dėl būties išnykimo išnyksta gimimas; dėl gimimo išnykimo išnyksta senėjimas, mirtis, liūdesys, raudojimas, skausmas, nusiminimas, nerimas. Tokiu būdu išnyksta visa ši kentėjimų daugybė.”
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-"Kai reiškiniai tampa matomi  
-Su užsidegimu medituojančiam brahmanui,  
-Jis stovi išsklaidęs Maros armiją\*  
-Kaip saulė apšviečianti dangaus skliautą."  
+Kai reiškiniai tampa matomi\ 
+Su užsidegimu medituojančiam brahmanui,\ 
+Jis stovi išsklaidęs Maros armiją\*\
+Kaip saulė apšviečianti dangaus skliautą.\ 
 
 \**Mara (Māra) - vieno iš dėvų pasaulių valdovas, budizmo Šėtonas, Gundytojas, mirties personifikacija. Jo armiją sudaro tokie trugdžiai kelyje į nušvitimą kaip jusliniai malonumai, nepasitenkinimas, alkis ir troškulys, troškimas, tingulys ir apsnūdimas, baimė, neapsisprendimas, veidmainystė ir užsispirimas, neteisėtas praturtėjimas, išgarsėjimas, garbė ir statusas; bei savęs liaupsinimas ir kitų niekinimas.*
 
@@ -110,9 +108,9 @@ Kaip saulė apšviečianti dangaus skliautą."
 
 **Atha kho bhagavā etamatthaṃ viditvā** Tada gi Palaimintasis supratęs to reikšmingumą, **tāyaṃ velāyaṃ imaṃ udānaṃ udānesi –** ta proga ištarė šiuos džiaugsmingus žodžius:
 
-**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi  
-**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,  
-**Vidhūpayaṃ tiṭṭhati mārasenaṃ,** Jis stovi išsklaidęs Maros armiją\*  
+**‘‘Yadā have pātubhavanti dhammā,** Kai reiškiniai tampa matomi\
+**Ātāpino jhāyato brāhmaṇassa;** Su užsidegimu medituojančiam brahmanui,\
+**Vidhūpayaṃ tiṭṭhati mārasenaṃ,** Jis stovi išsklaidęs Maros armiją\*\
 **Sūriyova [suriyova (sī. syā. kaṃ. pī.)] obhāsayamantalikkha’’nti.** Kaip saulė apšviečianti dangaus skliautą."  
 
 

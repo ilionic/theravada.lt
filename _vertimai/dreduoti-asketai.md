@@ -11,12 +11,12 @@ image:
   feature: abstract-2.jpg
 published: true
 ---
-Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Gajoje Gajos upės pakrantėje. Ir tuo pačiu metu, savaitę prieš ir po pilnaties, šaltomis, speiguotomis naktimis, krentant sniegui, daugybė dreduotų asketų nardė Gajos upėje, paneriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: “Tuo apsivalysime”.
-Pamatė gi Palaimintasis, kad savaitę prieš ir po pilnaties, šaltomis, speiguotomis naktimis, krentant sniegui, daugybė tų dreduotų asketų nardė Gajos upėje, paneriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: “Tuo apsivalysime”.
+Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Gajoje Gajos upės pakrantėje. Ir tuo pačiu metu, savaitę prieš ir po pilnaties, šaltomis, speiguotomis naktimis, krentant sniegui, daugybė dreduotų asketų nardė Gajos upėje, paneriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: „Tuo apsivalysime”.
+Pamatė gi Palaimintasis, kad savaitę prieš ir po pilnaties, šaltomis, speiguotomis naktimis, krentant sniegui, daugybė tų dreduotų asketų nardė Gajos upėje, paneriant ir išneriant dar ir taškėsi, taip pat ugnį aukojo [galvodami]: „Tuo apsivalysime”.
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-“Ne dėl vandens viens yr švarus, daug žmonių čia maudosi,
+„Ne dėl vandens viens yr švarus, daug žmonių čia maudosi,\
 Bet tas, kas laikosi tiesos ir Dharmos, yra švarus, yra brahmanas.”
 
 

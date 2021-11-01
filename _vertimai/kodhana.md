@@ -54,86 +54,86 @@ sutramdyti, atsikratę pykčio, neturintys ydingų polinkių pasiekia galutinės
 
   __kodhanasuttaṃ (Apie pikčiurną)__
 
-“sattime, bhikkhave, dhammā sapattakantā sapattakaraṇā kodhanaṃ āgacchanti itthiṃ vā purisaṃ vā. katame satta? idha, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ dubbaṇṇo assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa vaṇṇavatāya nandati. kodhano yaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, kiñcāpi so hoti sunhāto suvilitto kappitakesamassu odātavatthavasano; atha kho so dubbaṇṇova hoti kodhābhibhūto. ayaṃ, bhikkhave, paṭhamo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.
+**“sattime, bhikkhave, dhammā sapattakantā sapattakaraṇā kodhanaṃ āgacchanti itthiṃ vā purisaṃ vā. katame satta? idha, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ dubbaṇṇo assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa vaṇṇavatāya nandati. kodhano yaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, kiñcāpi so hoti sunhāto suvilitto kappitakesamassu odātavatthavasano; atha kho so dubbaṇṇova hoti kodhābhibhūto. ayaṃ, bhikkhave, paṭhamo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.**
 
-“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ dukkhaṃ sayeyyā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa sukhaseyyāya nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, kiñcāpi so pallaṅke seti gonakatthate paṭalikatthate kadalimigapavarapaccattharaṇe sauttaracchade ubhatolohitakūpadhāne; atha kho so dukkhaññeva seti kodhābhibhūto. ayaṃ, bhikkhave, dutiyo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.
+**“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ dukkhaṃ sayeyyā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa sukhaseyyāya nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, kiñcāpi so pallaṅke seti gonakatthate paṭalikatthate kadalimigapavarapaccattharaṇe sauttaracchade ubhatolohitakūpadhāne; atha kho so dukkhaññeva seti kodhābhibhūto. ayaṃ, bhikkhave, dutiyo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.**
 
-“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na pacurattho assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa pacuratthatāya nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, anatthampi gahetvā ‘attho me gahito’ti maññati, atthampi gahetvā ‘anattho me gahito’ti maññati. tassime dhammā aññamaññaṃ vipaccanīkā gahitā dīgharattaṃ ahitāya dukkhāya saṃvattanti kodhābhibhūtassa. ayaṃ, bhikkhave, tatiyo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.
+**“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na pacurattho assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa pacuratthatāya nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, anatthampi gahetvā ‘attho me gahito’ti maññati, atthampi gahetvā ‘anattho me gahito’ti maññati. tassime dhammā aññamaññaṃ vipaccanīkā gahitā dīgharattaṃ ahitāya dukkhāya saṃvattanti kodhābhibhūtassa. ayaṃ, bhikkhave, tatiyo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.**
 
-“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na bhogavā assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa bhogavatāya nandati. kodhanassa, bhikkhave, purisapuggalassa kodhābhibhūtassa kodhaparetassa, ye pi 'ssa te honti bhogā uṭṭhānavīriyādhigatā bāhābalaparicitā sedāvakkhittā dhammikā dhammaladdhā, te pi rājāno rājakosaṃ pavesenti kodhābhibhūtassa. ayaṃ, bhikkhave, catuttho dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.
+**“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na bhogavā assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa bhogavatāya nandati. kodhanassa, bhikkhave, purisapuggalassa kodhābhibhūtassa kodhaparetassa, ye pi 'ssa te honti bhogā uṭṭhānavīriyādhigatā bāhābalaparicitā sedāvakkhittā dhammikā dhammaladdhā, te pi rājāno rājakosaṃ pavesenti kodhābhibhūtassa. ayaṃ, bhikkhave, catuttho dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.**
 
-“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na yasavā assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa yasavatāya nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, yo pissa so hoti yaso appamādādhigato, tamhā pi dhaṃsati kodhābhibhūto. ayaṃ, bhikkhave, pañcamo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.
+**“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na yasavā assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa yasavatāya nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto, yo pissa so hoti yaso appamādādhigato, tamhā pi dhaṃsati kodhābhibhūto. ayaṃ, bhikkhave, pañcamo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.**
 
-“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na mittavā assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa mittavatāya nandati. kodhanaṃ, bhikkhave, purisapuggalaṃ kodhābhibhūtaṃ kodhaparetaṃ, ye pissa te honti mittāmaccā ñātisālohitā, te pi ārakā parivajjanti kodhābhibhūtaṃ. ayaṃ, bhikkhave, chaṭṭho dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.
+**“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ na mittavā assā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa mittavatāya nandati. kodhanaṃ, bhikkhave, purisapuggalaṃ kodhābhibhūtaṃ kodhaparetaṃ, ye pissa te honti mittāmaccā ñātisālohitā, te pi ārakā parivajjanti kodhābhibhūtaṃ. ayaṃ, bhikkhave, chaṭṭho dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā.**
 
-♦ “puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyyā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa sugatigamane nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati. so kāyena duccaritaṃ caritvā vācāya ... pe ... kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati kodhābhibhūto. ayaṃ, bhikkhave, sattamo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā. ime kho, bhikkhave, satta dhammā sapattakantā sapattakaraṇā kodhanaṃ āgacchanti itthiṃ vā purisaṃ vā”ti.
+**“puna caparaṃ, bhikkhave, sapatto sapattassa evaṃ icchati — ‘aho vatāyaṃ kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyyā’ti! taṃ kissa hetu? na, bhikkhave, sapatto sapattassa sugatigamane nandati. kodhanoyaṃ, bhikkhave, purisapuggalo kodhābhibhūto kodhapareto kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati. so kāyena duccaritaṃ caritvā vācāya ... pe ... kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati kodhābhibhūto. ayaṃ, bhikkhave, sattamo dhammo sapattakanto sapattakaraṇo kodhanaṃ āgacchati itthiṃ vā purisaṃ vā. ime kho, bhikkhave, satta dhammā sapattakantā sapattakaraṇā kodhanaṃ āgacchanti itthiṃ vā purisaṃ vā”ti.**
 
-♦ “kodhano dubbaṇṇo hoti, atho dukkham pi seti so.
-Pikčiurna yra negražus ir miega jis blogai.
-♦ atho atthaṃ gahetvāna, anatthaṃ adhipajjati.
-Pasiėmęs kažką, [ką jis mano esą] naudingą, jis pakenkia [sau].
-♦ “tato kāyena vācāya, vadhaṃ katvāna kodhano.
-O kūnu ir kalba įžeidęs, pikčiurna
-♦ kodhābhibhūto puriso, dhanajāniṃ nigacchati.
-pykčio užvaldytas žmogus praranda turtus.
-♦ “kodhasammadasammatto, āyasakyaṃ nigacchati.
-Pasiutęs nuo pykčio jis prisidaro sau gėdos.
-♦ ñātimittā suhajjā ca, parivajjanti kodhanaṃ.
-Giminęs, artimieji bei draugai vengia pikčiurnos.
-♦ “anatthajanano kodho, kodho cittappakopano.
-Pyktis veda į pragaištį, pyktis suaudrina širdį.
-♦ bhayamantarato jātaṃ, taṃ jano nāvabujjhati.
-Žmogus nesupranta iš vidaus kilančio pavojaus,
-♦ “kuddho atthaṃ na jānāti, kuddho dhammaṃ na passati.
-supykęs nežino, kas yra gera, supykęs nemato Dhammos.
-♦ andhatamaṃ tadā hoti, yaṃ kodho sahate naraṃ.
-Kai žmogų užvaldo pyktis, yra [tik] aklina tamsa.
-♦ “yaṃ kuddho uparodheti, sukaraṃ viya dukkaraṃ.
-Dėl to, ką supykęs sugriauna, [padaręs] sunkiai padaroma lyg tai būtų lengva, 
-♦ pacchā so vigate kodhe, aggidaḍḍho va tappati.
-kai atlyžta, jis kankinasi lyg ugnies deginamas.  
-♦ “dummaṅkuyaṃ padasseti dhūmaṃ dhūmīva pāvako.
-Jis rodo perkreiptą veidą, kaip rūkstanti ugnis dūmus. 
-♦ yato patāyati kodho, yena kujjhanti mānavā.
-Kai iš jo pasklida pyktis, tai erzina žmones.
-♦ “nāssa hirī na ottappaṃ, na vāco hoti gāravo.
-Jis neturi nei gėdos, nei sąžinės jausmo ir kalba jis nepagarbiai,
-♦ kodhena abhibhūtassa, na dīpaṃ hoti kiñcanaṃ.
-užvaldytajam pykčio nėra jokios [prieglobsčio] salos. 
-♦ “tapanīyāni kammāni, yāni dhammehi ārakā.
-Apie veiksmus, dėl kurių [vėliau] kankinamasi, kurie yra toli nuo dorųjų,
-♦ tāni ārocayissāmi, taṃ suṇātha yathā tathaṃ.
-aš papasakosiu, to paklausykite!
-♦ “kuddho hi pitaraṃ hanti, hanti kuddho samātaraṃ.
-Supykęs užmuša tėvą, užmuša motyną.
-♦ kuddho hi brāhmaṇaṃ hanti, hanti kuddho puthujjanaṃ.
-Supykęs užmuša brahmaną, užmuša eilinį žmogų.
-♦ “yāya mātu bhato poso, imaṃ lokaṃ avekkhati.
-Tą mamą, kuri žmogų maitino, kuri parodė jam pasaulį,
-♦ tam pi pāṇadadiṃ santiṃ, hanti kuddho puthujjano.
-kuri davė gyvybę ir ramybę, užmuša eilinis žmogus supykęs.
-♦ “attūpamā hi te sattā, attā hi paramo piyo.
-Toms būtybėms, kaip ir [jam] pačiam, jie patys yra brangiausi. 
-♦ hanti kuddho puthuttānaṃ, nānārūpesu mucchito.
-Supykę nusižudo įvairiais būdais, pametę galvą dėl visokiausių dalykų. 
-♦ “asinā hanti attānaṃ, visaṃ khādanti mucchitā.
-Peilių jie nusižudo, pamišę prarija nuodų,
-♦ rajjuyā bajjha mīyanti, pabbatām api kandare.
-jie miršta pasikorę, nušokę nuo kalno ar skardžio.
-♦ “bhūnahaccāni kammāni, attamāraṇiyāni ca.
-Kai jie savo elgesiu sužlugdo klestėjimą ir pražudo save,  
-♦ karontā nāvabujjhanti, kodhajāto parābhavo.
-jie nesupranta, kad pyktis žlugdo.
-♦ “itāyaṃ kodharūpena, maccupāso guhāsayo.
-Taip pykčio pavydalu Maros spąstai glūdi viduje,
-♦ taṃ damena samucchinde, paññāvīriyena diṭṭhiyā.
-juos reikia pašalinti susidtramdymu, išmintimi, uolumu ir teisingu požiūriu.
-♦ “yathā ekametaṃ akusalaṃ, samucchindetha paṇḍito.
-Išminčius turėtų pašalinti šią nedorybę,
-♦ tatheva dhamme sikkhetha, mā no dummaṅkuyaṃ ahu.
-o taip pat lavinti dorybes: „Lai mūsų veidai nebūna persikreipę!” 
-♦ “vītakodhā anāyāsā, vītalobhā anussukā.
-Be pykčio, be rūpesčių, be godulio, be troškimų,
-♦ dantā kodhaṃ pahantvāna, parinibbanti anāsavā”ti. 
+**“kodhano dubbaṇṇo hoti, atho dukkham pi seti so.**\
+Pikčiurna yra negražus ir miega jis blogai.\
+**atho atthaṃ gahetvāna, anatthaṃ adhipajjati.**\
+Pasiėmęs kažką, [ką jis mano esą] naudingą, jis pakenkia [sau].\
+**“tato kāyena vācāya, vadhaṃ katvāna kodhano.**\
+O kūnu ir kalba įžeidęs, pikčiurna\
+**kodhābhibhūto puriso, dhanajāniṃ nigacchati.**\
+pykčio užvaldytas žmogus praranda turtus.\
+**“kodhasammadasammatto, āyasakyaṃ nigacchati.**\
+Pasiutęs nuo pykčio jis prisidaro sau gėdos.\
+**ñātimittā suhajjā ca, parivajjanti kodhanaṃ.**\
+Giminęs, artimieji bei draugai vengia pikčiurnos.\
+**“anatthajanano kodho, kodho cittappakopano.**\
+Pyktis veda į pragaištį, pyktis suaudrina širdį.\
+**bhayamantarato jātaṃ, taṃ jano nāvabujjhati.**\
+Žmogus nesupranta iš vidaus kilančio pavojaus,\
+**“kuddho atthaṃ na jānāti, kuddho dhammaṃ na passati.**\
+supykęs nežino, kas yra gera, supykęs nemato Dhammos.\
+**andhatamaṃ tadā hoti, yaṃ kodho sahate naraṃ.**\
+Kai žmogų užvaldo pyktis, yra [tik] aklina tamsa.\
+**“yaṃ kuddho uparodheti, sukaraṃ viya dukkaraṃ.**\
+Dėl to, ką supykęs sugriauna, [padaręs] sunkiai padaroma lyg tai būtų lengva,\ 
+**pacchā so vigate kodhe, aggidaḍḍho va tappati.**\
+kai atlyžta, jis kankinasi lyg ugnies deginamas.\
+**“dummaṅkuyaṃ padasseti dhūmaṃ dhūmīva pāvako.**\
+Jis rodo perkreiptą veidą, kaip rūkstanti ugnis dūmus.\
+**yato patāyati kodho, yena kujjhanti mānavā.**\
+Kai iš jo pasklida pyktis, tai erzina žmones.\
+**“nāssa hirī na ottappaṃ, na vāco hoti gāravo.**\
+Jis neturi nei gėdos, nei sąžinės jausmo ir kalba jis nepagarbiai,\
+**kodhena abhibhūtassa, na dīpaṃ hoti kiñcanaṃ.**\
+užvaldytajam pykčio nėra jokios [prieglobsčio] salos.\ 
+**“tapanīyāni kammāni, yāni dhammehi ārakā.**\
+Apie veiksmus, dėl kurių [vėliau] kankinamasi, kurie yra toli nuo dorųjų,\
+**tāni ārocayissāmi, taṃ suṇātha yathā tathaṃ.**\
+aš papasakosiu, to paklausykite!\
+**“kuddho hi pitaraṃ hanti, hanti kuddho samātaraṃ.**\
+Supykęs užmuša tėvą, užmuša motyną.\
+**kuddho hi brāhmaṇaṃ hanti, hanti kuddho puthujjanaṃ.**\
+Supykęs užmuša brahmaną, užmuša eilinį žmogų.\
+**“yāya mātu bhato poso, imaṃ lokaṃ avekkhati.**\
+Tą mamą, kuri žmogų maitino, kuri parodė jam pasaulį,\
+**tam pi pāṇadadiṃ santiṃ, hanti kuddho puthujjano.**\
+kuri davė gyvybę ir ramybę, užmuša eilinis žmogus supykęs.\
+**“attūpamā hi te sattā, attā hi paramo piyo.**\
+Toms būtybėms, kaip ir [jam] pačiam, jie patys yra brangiausi.\
+**hanti kuddho puthuttānaṃ, nānārūpesu mucchito.**\
+Supykę nusižudo įvairiais būdais, pametę galvą dėl visokiausių dalykų.\
+**“asinā hanti attānaṃ, visaṃ khādanti mucchitā.**\
+Peilių jie nusižudo, pamišę prarija nuodų,\
+**rajjuyā bajjha mīyanti, pabbatām api kandare.**\
+jie miršta pasikorę, nušokę nuo kalno ar skardžio.\
+**“bhūnahaccāni kammāni, attamāraṇiyāni ca.**\
+Kai jie savo elgesiu sužlugdo klestėjimą ir pražudo save,\ 
+**karontā nāvabujjhanti, kodhajāto parābhavo.**\
+jie nesupranta, kad pyktis žlugdo.\
+**“itāyaṃ kodharūpena, maccupāso guhāsayo.**\
+Taip pykčio pavydalu Maros spąstai glūdi viduje,\
+**taṃ damena samucchinde, paññāvīriyena diṭṭhiyā.**\
+juos reikia pašalinti susidtramdymu, išmintimi, uolumu ir teisingu požiūriu.\
+**“yathā ekametaṃ akusalaṃ, samucchindetha paṇḍito.**\
+Išminčius turėtų pašalinti šią nedorybę,\
+**tatheva dhamme sikkhetha, mā no dummaṅkuyaṃ ahu.**\
+o taip pat lavinti dorybes: „Lai mūsų veidai nebūna persikreipę!”\
+**“vītakodhā anāyāsā, vītalobhā anussukā.**\
+Be pykčio, be rūpesčių, be godulio, be troškimų,\
+**dantā kodhaṃ pahantvāna, parinibbanti anāsavā”ti.**\
 sutramdyti, atsikratę pykčio, neturintys ydingų polinkių pasiekia galutinės nirvanos. 
 
