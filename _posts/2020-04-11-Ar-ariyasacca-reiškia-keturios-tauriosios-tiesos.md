@@ -20,9 +20,9 @@ Ilgųjų sutų komentaras duoda tik vieną _ariyasacca_ aiškinimą: "_Ariyasacc
 
 Svarbus Va. veikalas pašvestas meditacijai, 'Kelias į tyrumą' (_Visuddhimagga_), aiškindamas šio žodžio kilmę siūlo keturias galimas jo interpretacijas.
 1. Jos vadinamos _ariyasaccāni_, nes jas perpranta Budos ir kiti taurieji (_yasmā panetāni buddhādayo ariyā paṭivijjhanti, tasmā ariyasaccānīti vuccanti_).
-2. Be to, _ariyasaccāni_ – tai tauriųjų tiesos (_apica ariyassa saccānītipi ariyasaccāni_).
-3. Arba _ariyasaccāni_ yra tai, ko pažinimas yra taurumo priežastis (_atha vā etesaṃ abhisambuddhattā ariyabhāvasiddhitopi ariyasaccāni_).
-4. Galiausiai _ariyasaccāni_ yra tiesos, kurios yra taurios. Taurios (_ariyāni_) reiškia tikros, ne netikros, neklaidinančios (_apica kho pana ariyā saccānītipi ariyasaccāni. ariyā tathāni tathāni vā attho_). 
+2. Be to, _ariyasaccāni_ – tai tauriųjų tiesos (_api ca ariyassa saccānīti pi ariyasaccāni_).
+3. Arba _ariyasaccāni_ yra tai, ko pažinimas yra taurumo priežastis (_atha vā etesaṃ abhisambuddhattā ariyabhāvasiddhito pi ariyasaccāni_).
+4. Galiausiai _ariyasaccāni_ yra tiesos, kurios yra taurios. Taurios (_ariyāni_) reiškia tikros, ne netikros, neklaidinančios (_apica kho pana ariyāni saccānītipi ariyasaccāni. ariyānīti tathāni avitathāni vā attho_). 
 
 Tradiciškai trys pacituoti veikalai priskiriami vienam autoriui, Budhaghosai. Pažiūrėkime ką turi pasakyti apie _ariyasacca_ kitas komentatorius, Dhamapala. 
 1. _Ariyasaccāni_ susideda iš 'tauriosios' (_ariyāni_) ir 'tiesos' (_saccāni_). Jos yra taurios, nes jos turėtų būti pasiektos, ir tiesos, nes jos yra tikros (_ariyasaccānīti araṇīyato ariyā, avitathabhāvena saccāni cāti ariyasaccāni_). 
