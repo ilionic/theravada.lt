@@ -43,10 +43,10 @@ Nesu tas, kurio protą lengva sugadinti,\
 Nei esu lengvai įtraukiamas pykčio sūkurio,\
 **na vo cirāhaṃ kujjhāmi, kodho mayi nāvatiṭṭhati.**\
 Nei pykstu aš ilgai,\
-Nei pyktis manyje išsilaiko.
+Nei pyktis manyje išsilaiko.\
 **kuddhāhaṃ na pharusaṃ brūmi, na ca dhammāni kittaye.**\
 Kai supykstu, nekalbu šiurkščiai\
 Ir neaukštinu savo dorybių.\
-**sanniggaṇhāmi attānaṃ, sampassaṃ atthamattano”ti.**
+**sanniggaṇhāmi attānaṃ, sampassaṃ atthamattano”ti.**\
 Aš laikau save suvaldęs\
 Rūpindamasis savo gerove.
