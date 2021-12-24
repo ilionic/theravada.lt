@@ -27,14 +27,14 @@ Ar gimusios, ar  dar gimsiančios, tegul visos būtybės būna laimingos!
 6. Tegul niekas kito neapgaudinėja, tegul niekas nieko nežemina niekur,\
 Bei dėl pykčio ir neapykantos apimto proto niekas nelinki kitam blogo!“
 
-7.  Kaip mamą saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,\
-Lygiai taip, tegul jis vysto beribį protą visų gyvųjų būtybių atžvilgių.
+7.  Kaip mama saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,\
+Lygiai taip, tegul jis vysto beribį protą visų gyvųjų būtybių atžvilgiu.
 
 8. Tegul vysto  jis begalinį širdies gerumą visą pasaulį aprepiantį,\
 Į viršų, žemyn, aplink, be ribų, be neapykantos, be priešiškumo.
 
 9. Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas, iki kol neapsnūsta,\
-Te jis ryžtasi būti su tokia atidą – tai šiame mokyme vadinama dieviškąja buveine.
+Te jis ryžtasi būti su tokia atida – tai šiame mokyme vadinama dieviškąja buveine.
 
 10. Be klaidingų pažiūrų, dorovingas, turintis tikros įžvalgos,\
 Atsikratęs prisirišimo prie juslinių malonumų, nebeužgims jis moters įsčiose.
@@ -66,9 +66,9 @@ Atsikratęs prisirišimo prie juslinių malonumų, nebeužgims jis moters įsči
 
 **Byārosanā paṭighasaññā, nāññamaññassa dukkhamiccheyya.**<br /> Bei dėl pykčio ir neapykantos apimto proto niekas nelinki kitam blogo!“
 
-**7. Mātā yathā niyaṃ puttamāyusā ekaputtamanurakkhe;**<br /> Kaip mamą saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,
+**7. Mātā yathā niyaṃ puttamāyusā ekaputtamanurakkhe;**<br /> Kaip mama saugotų vaiką, vienintelį vaiką, kad ir savo gyvybės kaina,
 
-**Evampi sabbabhūtesu, mānasaṃ bhāvaye aparimāṇaṃ.**<br /> Lygiai taip, tegul jis vysto beribį protą visų gyvųjų būtybių atžvilgių.
+**Evampi sabbabhūtesu, mānasaṃ bhāvaye aparimāṇaṃ.**<br /> Lygiai taip, tegul jis vysto beribį protą visų gyvųjų būtybių atžvilgiu.
 
 **8. Mettañca sabbalokasmi, mānasaṃ bhāvaye aparimāṇaṃ;**<br /> Tegul vysto  jis begalinį širdies gerumą visam pasauliui,
 
@@ -76,7 +76,7 @@ Atsikratęs prisirišimo prie juslinių malonumų, nebeužgims jis moters įsči
 
 **9. Tiṭṭhaṃ caraṃ nisinno vā, sayāno yāvatāssa vigatamiddo;**<br /> Ir stovėdamas, ir eidamas, ir sėdėdamas, ir gulėdamas, iki kol neapsnūsta,
 
-**Etaṃ satiṃ adhiṭṭheyya, brahmametaṃ vihāramidhamāhu.**<br /> Te jis ryžtasi būti su tokia atidą – tai šiame mokyme vadinama dieviškąja buveine.
+**Etaṃ satiṃ adhiṭṭheyya, brahmametaṃ vihāramidhamāhu.**<br /> Te jis ryžtasi būti su tokia atida – tai šiame mokyme vadinama dieviškąja buveine.
 
 **10. Diṭṭhiñca anupaggamma, sīlavā dassanena sampanno;**<br /> Be klaidingų pažiūrų, dorovingas, turintis tikros įžvalgos,
 
