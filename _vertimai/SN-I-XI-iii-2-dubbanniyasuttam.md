@@ -5,18 +5,20 @@ category: suristos suttos
 index: 
 sortIndex: 1932
 tags:
+image:
+  feature: Burmese.jpg
 ---
-Prie Savačio, Džetos girioje. Ten Palaimintasis pasakė štai ką: „Bhikkhu, kažkada ant Sakkos, dievybių valdovo, sosto atsisėdo vienas bjaurus išsigimęs jakkha. Tuomet Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, sakydami: „Nieko sau, ponai! Neįtikėtina, ponai! Šis bjaurus išsigimęs jakkha atsisėdo ant Sakkos, dievybių valdovo, sosto!” Tačiau kiek Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, tiek tas jakkha darėsi tik gražesnis, patrauklesnis ir grakštesnis.
+Prie Savačio, Džetos girioje. Ten Palaimintasis pasakė štai ką: „Vienuoliai, kažkada ant Sakkos, dievybių valdovo, sosto atsisėdo vienas bjaurus išsigimęs jakkha. Tuomet Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, sakydami: „Nieko sau, ponai! Neįtikėtina, ponai! Šis bjaurus išsigimęs jakkha atsisėdo ant Sakkos, dievybių valdovo, sosto!” Tačiau kiek Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, tiek tas jakkha darėsi tik gražesnis, patrauklesnis ir grakštesnis.
 
 Tuomet, bhikkhu, Tāvatiṁsa dievybės priėjo prie Sakkos ir tarė jam: 
 
-- Štai, mielasis pone, ant tavo sosto atsisėdo negražus išsigimęs jakkha.  Tuomet Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, sakydami: „Nieko sau, ponai! Neįtikėtina, ponai! Šis bjaurus išsigimęs jakkha atsisėdo ant Sakkos, dievybių valdovo, sosto!” Tačiau kiek Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, tiek tas jakkha darėsi tik gražesnis, patrauklesnis ir grakštesnis. 
+\- Štai, mielasis pone, ant tavo sosto atsisėdo negražus išsigimęs jakkha.  Tuomet Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, sakydami: „Nieko sau, ponai! Neįtikėtina, ponai! Šis bjaurus išsigimęs jakkha atsisėdo ant Sakkos, dievybių valdovo, sosto!” Tačiau kiek Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, tiek tas jakkha darėsi tik gražesnis, patrauklesnis ir grakštesnis. 
 
-- Tai turi būti pykčiu mintantis jakkha.
+\- Tai turi būti pykčiu mintantis jakkha.
 
 Tada, bhikkhu, Sakka, dievybių valdovas, priėjo prie to pykčiu mintančio jakkhos. Priėjęs jis užsimetė viršutinį drabužį ant vieno peties, atsiklaupė dešiniuoju keliu ant žemės ir, iškėlęs sujungtas rankas pagarbiam pasveikinimui to jakkhos atžvilgiu, tris kartus paskelbė savo vardą: „Aš, mielasis pone, esu Sakka, dievybių valdovas! Aš, brangus pone, esu Sakka, dievybių valdovas!” Kiek Sakka skelbė savo vardą, tiek tas jakkha darėsi vis bjauresnis, vis labiau deformuotas, kol išnyko čia pat.
 
-Tada, bhikkhu, atsisėdęs į savo vietą, pamokydamas Tāvatiṁsa dievybes, Sakka, dievybių valdovas, ta proga padeklamavo šiuos posmus:
+Tada, vienuoliai, atsisėdęs į savo vietą, pamokydamas Tāvatiṁsos dievybes, Sakka, dievybių valdovas, ta proga padeklamavo šiuos posmus:
 
 Nesu tas, kurio protą lengva sugadinti,\
 Nei esu lengvai įtraukiamas pykčio sūkurio,\
