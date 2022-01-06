@@ -17,7 +17,7 @@ Taip aš girdėjau:
 
 vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nirvana surišta Dharmos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
 
-Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Vienuoliai, yra toks pagrindas, kur nėra nei žemės, nei vandens, nei ugnies, nei vėjo, nei begalinės erdvės pagrindo, nei begalinės sąmonės pagrindo, nei nebūties pagrindo, nei nei suvokimo nei nesuvokimo pagrindo, nei šio pasaulio, nei kito pasaulio, nei Mėnulio ir Saulės. Aš taip pat sakau, vienuoliai, ten tikrai nėra nei atėjimo, nei išėjimo, nei būvimo, nei išnykimo, nei gimimo; gan neparemtas, be vyksmo, be objekto jis yra. Tai yra visiškas kentėjimo galas."
+Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Vienuoliai, yra tokia sritis, kur nėra nei žemės, nei vandens, nei ugnies, nei vėjo, nei begalinės erdvės [patyrimo] būsenos, nei begalinės sąmonės [patyrimo] būsenos, nei nieko nebuvimo [patyrimo] būsenos, nei nei suvokimo nei nesuvokimo [patyrimo] būsenos, nei šio pasaulio, nei kito pasaulio, nei Mėnulio ar Saulės. Aš taip pat sakau, vienuoliai, ten tikrai nėra nei atėjimo, nei išėjimo, nei būvimo, nei išnykimo, nei gimimo; gan neparemta, be vyksmo, be objekto tai yra.”
 
 ### Antra su Nirvana surišta suta (Ud 8.2)
 
@@ -39,7 +39,7 @@ vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapi
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
-„Yra, vienuoliai, negimęs, nebūnantis nesutvertas, nesąlygotas. Vienuoliai, jeigu nebūtų negimusio, nebūnančio, nesutverto, nesąlygoto, nebūtų įmanoma pažinti negimusio, nebūnančio, nesutverto, nesąlygoto. Bet dėl to gi, vienuoliai, kad yra negimęs, nebūnantis, nesutvertas, nesąlygotas, yra įmanoma pažinti negimusį, nebūnantį, nesutvertą, nesąlygotą."
+„Yra, vienuoliai, tai, kas nesukelta, neatsiradę, nesutverta, nesąlygota. Vienuoliai, jeigu nebūtų to, kas nesukelta, neatsiradę, nesutverta, nesąlygota, nebūtų įmanoma pažinti to, kas nesukelta, neatsiradę, nesutverta, nesąlygota. Bet dėl to gi, vienuoliai, kad yra tai, kas nesukelta, neatsiradę, nesutverta, nesąlygota, yra įmanoma pažinti tai, kas nesukelta, neatsiradę, nesutverta, nesąlygota."
 
 ### Ketvirta su Nirvana surišta suta (Ud 8.4)
 

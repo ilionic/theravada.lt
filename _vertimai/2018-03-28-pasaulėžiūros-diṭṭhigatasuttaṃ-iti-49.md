@@ -9,7 +9,6 @@ sortIndex: 1
 image:
   feature: Burmese.jpg
 ---
-
 Tai buvo pasakyta Palaimintojo, pasakyta Arahanto, taip aš girdėjau:
 
 – Vienuoliai, laikydamiesi dvejų pasaulėžiūrų vieni dėvai ir žmonės užstringa, kiti eina per toli, ir tik turintys akis mato.
