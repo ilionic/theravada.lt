@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Žodynėlis"
-category: "zodynelis"
+title: Žodynėlis
+category: zodinelis
 comments: false
 image:
   feature: Inscription.jpg
