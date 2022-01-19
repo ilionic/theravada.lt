@@ -16,24 +16,24 @@ Vienuoliai, pikčiurnai vyrui ar moteriai atsitinka septyni priešą pamaloninan
 4. Toliau, vienuoliai, priešas linki priešui: „Kad jis būtų nepasiturintis!” Kodėl? Todėl, kad priešo nedžiugina priešo turtingumas. Apimto pykčio, užvaldyto pykčio pikčiurnos, vienuoliai, turtus, kuriuos jis didžiulėmis pastangomis, savo rankomis, prakaitu teisėtai uždirbo, pasisavina valdžia. Tai, vienuoliai, yra ketvirtas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
 5. Toliau, vienuoliai, priešas linki priešui: „Kad jis būtų nepopuliarus!” Kodėl? Todėl, kad priešo nedžiugina priešo populiarumas. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, praranda prieš tai uolumu užsitarnautą populiarumą, jis yra pikčiurna. Tai, vienuoliai, yra penktas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
 6. Toliau, vienuoliai, priešas linki priešui: „Kad jis neturėtų draugų!” Kodėl? Todėl, kad priešo nedžiugina, kai priešas turi draugų. Apimto pykčio, užvaldyto pykčio pikčiurnos, vienuoliai, draugai, bičiuliai, giminės ir artimieji iš tolo jo vengia. Tai, vienuoliai, yra šeštas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.
-7. Toliau, vienuoliai, priešas linki priešui: „Kad jis po kūno žūties, po mirties atgimtų pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare!” Kodėl? Todėl, kad priešo nedžiugina priešo atgimimas geroje vietoje. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, blogai elgiasi, blogai kalba, blogai mąsto. Blogai pasielgęs, blogai kalbėjęs, blogai mąstęs, jis po mirties atgimsta pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare. Tai, vienuoliai, yra septintas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
+7. Toliau, vienuoliai, priešas linki priešui: „Kad jis po kūno žūties, po mirties atgimtų pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare!” Kodėl? Todėl, kad priešo nedžiugina priešo atgimimas geroje vietoje. Apimtas pykčio, užvaldytas pykčio pikčiurna, vienuoliai, blogai elgiasi, blogai kalba, blogai mąsto. Blogai pasielgęs, blogai kalbėjęs, blogai mąstęs, jis po kūno žūties, po mirties atgimsta pragaištingoje, blogoje vietoje, kančių pasaulyje, pragare. Tai, vienuoliai, yra septintas priešą pamaloninantis, priešui padedantis dalykas atsitinkantis pikčiurnai vyrui ar moteriai.\
 Šie, vienuoliai, yra septyni priešą pamaloninantys, priešui padedantys dalykai atsitinkantis pikčiurnai vyrui ar moteriai.
 
 Pikčiurna yra negražus ir miega jis blogai.\
 Pasiėmęs kažką, [ką jis mano esą] naudingą, jis pakenkia [sau].\
 O kūnu ir kalba įžeidęs, pikčiurna\
 pykčio užvaldytas žmogus praranda turtus.\
-Pasiutęs nuo pykčio jis prisidaro sau gėdos.\
+Pasiutęs iš pykčio jis prisidaro sau gėdos.\
 Giminės, artimieji bei draugai vengia pikčiurnos.\
 Pyktis veda į pragaištį, pyktis suaudrina širdį.\
 Žmogus nesupranta iš vidaus kylančio pavojaus,\
 supykęs nežino, kas yra gera, supykęs nemato Dhammos.\
 Kai žmogų užvaldo pyktis, yra [tik] aklina tamsa.\
 Dėl to, ką supykęs sugriauna, [padaręs] sunkiai padaroma lyg tai būtų lengva,\
-kai atlyžta, jis kankinasi lyg ugnies deginamas.\
+vėliau, kai atlyžta, jis kankinasi lyg ugnies deginamas.\
 Jis rodo perkreiptą veidą, kaip rūkstanti ugnis dūmus.\
 Kai iš jo pasklinda pyktis, tai erzina žmones.\
-Jis neturi nei gėdos, nei sąžinės jausmo ir kalba jis nepagarbiai,\
+Jis neturi nei gėdos, nei sąžinės jausmo, ir kalba jis nepagarbiai,\
 užvaldytajam pykčio nėra jokios [prieglobsčio] salos.\
 Apie veiksmus, dėl kurių [vėliau] kankinamasi, kurie yra toli nuo dorųjų,\
 aš papasakosiu, to paklausykite!\
