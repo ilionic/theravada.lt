@@ -41,7 +41,7 @@ Išgirdę žemės dievybių šauksmą, Keturių didžiųjų karalių pasaulio di
 
 – Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą, kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
 
-Išgirdę Keturių didžiųjų karalių pasaulio dievybių šauksmą, Trisdešimt trijų pasaulio dievybės... Yama pasaulio dievybės...Pasitenkinimo pasaulio dievybės...Kūrimo džiaugsmo pasaulio dievybės... Džiaugsmo kitų kūriniais pasaulio dievybės... Brahmų grupės dievybės sušuko:
+Išgirdę Keturių didžiųjų karalių pasaulio dievybių šauksmą, Trisdešimt trijų pasaulio dievybės... Yama pasaulio dievybės... Pasitenkinimo pasaulio dievybės...Kūrimo džiaugsmo pasaulio dievybės... Džiaugsmo kitų kūriniais pasaulio dievybės... Brahmų grupės dievybės sušuko:
 
 – Varanasyje Išminčių vietovėje Elnių parke Palaimintasis pasuko šį neprilygstamą Dharmos ratą, kurio negali pasukti atgal nei atsiskyrėliai, nei brahmanai, nei dievybės, nei Mara, nei Brahma, nei dar kas nors pasaulyje.
 
