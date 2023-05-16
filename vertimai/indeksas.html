@@ -27,7 +27,7 @@ published: true
             {% endfor %}]
           {% endif %}
           {% if post.suttacentral %}
-          (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} at suttacentral">suttacentral</a>)
+          (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
           {% endif %}
         </li>
       {% endunless %}
@@ -52,6 +52,9 @@ published: true
               {% endif %}
             {% endfor %}]
           {% endif %}
+          {% if post.suttacentral %}
+          (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+          {% endif %}
         </li>
       {% endunless %}
     {% endfor %}
@@ -63,7 +66,11 @@ published: true
   <ul>
     {% assign category = site.vertimai | where: "category","suristos suttos" | sort: 'sortIndex' %}
     {% for post in category %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.suttacentral %}
+        (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
 </article>
@@ -73,7 +80,11 @@ published: true
   <ul>
     {% assign category = site.vertimai | where: "category","palaipsnines" | sort: 'sortIndex' %}
     {% for post in category %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.suttacentral %}
+        (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
 </article>
@@ -84,21 +95,33 @@ published: true
   <ul>
     {% assign category = site.vertimai | where: "category","trumpesni" | sort: 'sortIndex' %}
     {% for post in category %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.suttacentral %}
+        (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
   <h3 class="tag-heading">Džiaugsmingi žodžiai (Uddana, Ud)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","dziaugsmingi" | sort: 'sortIndex' %}
     {% for post in category %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.suttacentral %}
+        (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
   <h3 class="tag-heading">Taip buvo pasakyta (Itivuttaka, Iti)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","pasakyta" | sort: 'sortIndex' %}
     {% for post in category %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        {% if post.suttacentral %}
+        (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
 </article>
@@ -144,6 +167,9 @@ published: true
             {% endif %}
           {% endfor %}]
         {% endif %}
+        {% if post.suttacentral %}
+          (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+          {% endif %}
         </li>
         {% endunless %}
     {% endif %}{% endfor %}

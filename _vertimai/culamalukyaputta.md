@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Mažesnė suta Malukjai (Cūḷamālukyasutta, MN II.ii.3)'
+title: 'Mažesnė suta Malukjai (Cūḷamālukyasutta, MN 63)'
 category: vidutinio
 index: 
   - Pažiūros (diṭṭhi)
@@ -9,6 +9,7 @@ sortIndex: 223
 tags:
   - Pažiūros (diṭṭhi)
   - Taurinančios tiesos
+suttacentral: mn63
 ---
 Taip aš girdėjau:
 Vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi gerbiamą Malukjaputą, jam būnant vienumoje, aplankė tokios mintys: „Šios pažiūros yra Palaimintojo neišreikštos, atidėtos, atmestos: „pasaulis yra amžinas“, „pasaulis nėra amžinas“, „pasaulis yra ribotas“, „pasaulis yra begalinis“, „siela ir kūnas yra vienas ir tas pat“; „siela yra viena, kūnas yra kita“, „Tathagata egzistuoja po mirties“, „Tathagata negzistuoja po mirties“, „Tathagata ir egzistuoja, ir neegzistuoja po mirties“, „Tathagata nei egzistuoja, nei neegzistuoja po mirties“ – to man Palaimintasis nepareiškė. Tai manęs nedžiugina, man tai nepriimtina. Tad, nuėjęs pas Palaimintąjį, aš paklausiu apie šį reikalą. Jeigu Palaimintasis man pareikš: „pasaulis yra amžinas“, arba „pasaulis nėra amžinas“... arba „Tathagata nei egzistuoja, nei neegzistuoja po mirties“, tada aš gyvensiu šventą gyvenimą pagal Palaimintąjį, o jeigu jis man nepareikš: „pasaulis yra amžinas", arba „pasaulis nėra amžinas“... arba „Tathagata nei egzistuoja, nei neegzistuoja po mirties“, tada, palikęs šį mokymąsi, grįšiu į žemesnį gyvenimą.“

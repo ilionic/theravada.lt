@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Didesnis pamokymas Rahulai (Mahārāhulovādasuttaṃ, MN II.ii.2)'
+title: 'Didesnis pamokymas Rahulai (Mahārāhulovādasuttaṃ, MN 62)'
 tags:
  - Meditacija
 index: Meditacija
@@ -10,6 +10,7 @@ sortIndex: 222
 image:
  feature: abstract-2.jpg
 published: true
+suttacentral: mn62
 ---
 
 
