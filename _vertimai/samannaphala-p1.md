@@ -18,6 +18,7 @@ sortIndex: 2
 image:
   feature: abstract-2.jpg
 published: true
+suttacentral: dn2
 ---
 <a href="../samannaphala-p1" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../2019-12-16-samannaphala-p1-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />

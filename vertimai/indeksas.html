@@ -26,6 +26,9 @@ published: true
               {% endif %}
             {% endfor %}]
           {% endif %}
+          {% if post.suttacentral %}
+          (<a href="https://suttacentral.net/{{ post.suttacental }}/lt/piyadassi" title="{{ post.title }} at suttacentral">suttacentral</a>)
+          {% endif %}
         </li>
       {% endunless %}
     {% endfor %}
