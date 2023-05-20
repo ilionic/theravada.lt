@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Pirmoji suta apie tai, kaip atsikratyti pykčio (paṭhamāaghātapaṭivinayasuttaṃ, AN 5.161)'
+title: 'Pirmoji sutta apie tai, kaip atsikratyti pykčio (Paṭhamaāghātapaṭivinayasuttaṃ, AN 5.161)'
 category: palaipsnines
 image:
   feature: Burmese.jpg
