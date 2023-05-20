@@ -3,12 +3,13 @@ layout: page
 title: 'Atida kūnui (Kāyagatāsatisuttaṃ, MN 119)'
 category: vidutinio
 index: Meditacija
-sortIndex: 329
+sortIndex: 119
 tags:
   - Meditacija
 image:
-  feature: Burmese.jpg
+  feature: Burmese.jpg`
 published: true
+suttacentral: mn119
 ---
 <a href="../kayagatasatisuttam" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../2019-12-08-kāyagatāsatisuttaṃ-atidumas-kūnui-mn-119-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a>

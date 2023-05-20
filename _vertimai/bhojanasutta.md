@@ -1,20 +1,18 @@
-
-	---
+---
 layout: page
-title: 'Suta apie maistą (bhojanasuttaṃ, AN V.i.IV.7)'
+title: 'Suta apie maistą (bhojanasuttaṃ, AN 5.37)'
 category: palaipsnines
 index: Dorovė 
-sortIndex: 5147
+sortIndex: 5037
 tags: Dosnumas
----
-	
-	
+suttacentral: an5.37
+---		
 Vienuoliai, dovanojantis maistą, gavėjui dovanoja penkis dalykus. Kokius penkis? Jis dovanoja gyvenimą, grožį, laimę, stiprumą ir sumanumą. Padovanojęs gyvenimą, jis gauna gyvenimą, žmogišką ar dangišką; padovanojęs grožį, jis gauną grožį, žmogišką ar dangišką;  padovanojęs laimę, jis gauną laimę, žmogišką ar dangišką;  padovanojęs stiprumą, jis gauną stiprumą, žmogišką ar dangišką;  padovanojęs sumanumą, jis gauną sumanumą, žmogišką ar dangišką. Vienuoliai, dovanojantis maistą, gavėjui dovanoja penkis dalykus.
 
 Išmintingasis dovanoja gyvenimą, stiprumą, grožį ir sumanumą.\
 Išmaningasis dovanoja laimę, [ir dėl to] jis pasiekia laimę.\
 Padovanojęs gyvenimą, stiprumą, grožį, laimę ir sumanumą,\
-Kur begimtų, jis gyvena ilgai, ir pasklinda apie jį garsa.
+Kur begimtų, jis gyvena ilgai, ir pasklinda apie jį garsai.
 
 __Bhojanasuttaṃ (Suta apie maistą)__
 

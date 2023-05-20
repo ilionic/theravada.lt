@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 'Pirma suta apie tai, kaip atsikratyti pykčio (paṭhamāaghātapaṭivinayasuttaṃ, AN 5.iv.II.1)'
+title: 'Pirmoji suta apie tai, kaip atsikratyti pykčio (paṭhamāaghātapaṭivinayasuttaṃ, AN 5.161)'
 category: palaipsnines
 image:
   feature: Burmese.jpg
 index: Pyktis
-sortIndex: 5421 
+sortIndex: 5161 
 tags: Pyktis
+suttacentral: an5.161
 ---
 Vienuoliai, yra šie penki [būdai] atsikratyti pykčio. Kad ir į ką būtų nukreiptas vienuoliui sukilęs pyktis, šiais [būdais] jo turėtų būti visiškai atsikratoma. Kuriais penkiais?
 Žmogaus atžvilgiu, į kurį nukreiptas užgimęs pyktis, turėtų būti ugdomas geraširdiškumas. Taip to žmogaus atžvilgiu turėtų būti visiškai atsikratoma pykčio.

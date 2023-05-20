@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 'Pusė (Upaḍḍhasutta, SN III.I.i.2)'
-category: suristos suttos
+title: 'Pusė (Upaḍḍhasutta, SN 45.2)'
+category: susijusios suttos
 index: Praktika
 tags:
  - Praktika
 image:
  feature: Burmese.jpg
-sortIndex: 3112
+sortIndex: 45002
+suttacentral: sn45.2
 ---
 
 

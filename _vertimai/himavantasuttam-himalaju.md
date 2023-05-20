@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Himalajai (Himavantasuttaṃ, SN V.II.i.1)'
-category: suristos suttos
+title: 'Himalajai (Himavantasuttaṃ, SN 46.1)'
+category: susijusios suttos
 index: Nušvitimo veiksniai
-sortIndex: 5211
+sortIndex: 46001
 tags:
   - Nušvitimo veiksniai
+suttacentral: sn46.1
 ---
 Savathėje. „Vienuoliai, palaikomi kalnų karaliaus – Himalajų – Nagai brandina kūną, kaupiasi jėgas, o ten subrandinę kūną, prisikaupę jėgų, paneria į mažą tvenkinį; panėrę į mažą tvenkinį, paneria į didelį tvenkinį; panėrę į didelį tvenkinį, paneria į mažą upę; panėrę į mažą upę, paneria į didelę upę; panėrę į didelę upę, paneria į didį vandenyną; ten jų kūnas pasiekia didumą, visišką išsivystymą. Lygiai gi, vienuoliai, taip, palaikomas dorovės, įsitvirtinęs joje, vienuolis ugdydamas, puoselėdamas septynis nušvitimo veiksnius, pasiekia didumą, visišką išsivystymą _Dhammoje_. Ir kaip, vienuoliai, palaikomas dorovės, įsitvirtinęs joje, vienuolis ugdydamas, puoselėdamas septynis nušvitimo veiksnius, pasiekia didumą, visišką išsivystymą _Dhammoje_? Štai vienuolis ugdo atidos nušvitimo veiksnį, palaikomą atsiskyrimo, potraukio užgesimo, \[teršalų] išnykimo, brandinantį paleidimą; ugdo reiškinių tyrinėjimo nušvitimo veiksnį... ugdo uolumo nušvitimo veiksnį... ugdo žavėjimоsi nušvitimo veiksnį... ugdo ramybės nušvitimo veiksnį... ugdo sutelkties nušvitimo veiksnį... ugdo lygiažiūros nušvitimo veiksnį, palaikomą atsiskyrimo, potraukio užgesimo, \[teršalų] išnykimo, brandinantį paleidimą. Štai taip, vienuoliai, palaikomas dorovės, įsitvirtinęs joje, vienuolis ugdydamas,puoselėdamas septynis nušvitimo veiksnius, pasiekia didumą, visišką išsivystymą  _Dhammoje_.”
 

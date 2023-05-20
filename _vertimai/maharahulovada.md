@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Didesnis pamokymas Rahulai (Mahārāhulovādasuttaṃ, MN 62)'
+title: 'Ilgesnis pamokymas Rahulai (Mahārāhulovādasuttaṃ, MN 62)'
 tags:
  - Meditacija
 index: Meditacija

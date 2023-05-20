@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Pasitenkinimas (Assādasuttaṃ, SN III.I.iii.5-7)'
-category: suristos suttos
+title: 'Pasitenkinimas (Assādasuttaṃ, SN 22.26)'
+category: susijusios suttos
 index: Penkios sankaupos (khandhā)
 tags:
   - Penkios sankaupos (khandhā)
-sortIndex: 3135
+sortIndex: 22026
+suttacentral: sn22.26
 ---
 Savathėje. 
 Vienuoliai, prieš tai, kai aš pasiekiau nušvitimą, kai buvau tik nenušvitęs _bodhisattva_, aš pagalvojau: „Kokį pasitenkinimą teikia materija, koks pavojus \[glūdi joje], kas yra ištrūkimas iš jos? Kokį pasitenkinimą teikia jausmas... Kokį pasitenkinimą teikia suvokimas... Kokį pasitenkinimą teikia proto dariniai... Kokį pasitenkinimą teikia sąmonė, koks pavojus \[glūdi joje], kas yra ištrūkimas iš jos?“ Apie tai aš taip pagalvojau: „Dėl materijos gimę laimė ir malonumas – tai yra materijos teikiamas pasitenkinimas. Materijos nepastovumo, kančios, kitimo prigimtis – tai yra pavojus \[glūdintis] materijoje. Materijos norėjimo ir geismo panaikinimas, pašalinimas – tai yra ištrūkimas iš materijos. Dėl jausmo gimę... Dėl suvokimo gimę... Dėl proto darinių gimę... Dėl sąmonės gimę laimė ir malonumas – tai yra sąmonės teikiamas pasitenkinimas. Sąmonės nepastovumo, kančios, kitimo prigimtis – tai yra pavojus \[glūdintis] sąmonėje. Sąmonės norėjimo ir geismo panaikinimas, pašalinimas – tai yra ištrūkimas iš sąmonės.“\

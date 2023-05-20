@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Nežinojimas (Avijjāsuttaṃ, AN10.II.ii.1)'
+title: 'Neišmanymas (Avijjāsuttaṃ, AN 10.61)'
 tags:
   - Teršalai (kilesā)
   - Praktika
@@ -9,10 +9,11 @@ index:
   - Praktika
 comments: false
 category: palaipsnines
-sortIndex: 10221
+sortIndex: 10061
 image:
   feature: abstract-2.jpg
 published: true
+suttacentral: an10.61
 ---
 — Vienuoliai, yra sakoma, kad neįmanoma nurodyti nežinojimo pradinį tašką [sakant]: „Prieš tai nežinojimo nebuvo, o tada, vėliau, atsirado.” Bet vis dėl to įmanoma nurodyti, kad nežinojimas yra tam tikru būdu sąlygotas.
 

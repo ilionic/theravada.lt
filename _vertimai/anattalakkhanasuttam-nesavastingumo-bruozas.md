@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Nesavastingumo bruožas (Anattalakkhaṇasuttaṃ, SNIII.I.vi.7)'
-category: suristos suttos
+title: 'Nesavastingumo bruožas (Anattalakkhaṇasuttaṃ, SN 22.59)'
+category: susijusios suttos
 index: Nesavastingumas (anatta)
-sortIndex: 3167
+sortIndex: 22059
 tags:
   - Nesavastingumas (anatta)
+suttacentral: sn22.59
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Varanasyje Išminčių vietovėje Elnių parke. Tada gi Palaimintasis kreipėsi į vienuolių penketuką:
 

@@ -10,6 +10,7 @@ hideIndex: true
 image:
   feature: abstract-2.jpg
 published: true
+suttacentral: mn119
 ---
 <a href="../kayagatasatisuttam" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../2019-12-08-kāyagatāsatisuttaṃ-atidumas-kūnui-mn-119-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />

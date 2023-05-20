@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Mama (Mātusuttaṃ, SN II.IV.ii.4)'
-category: suristos suttos
+title: 'Motina (Mātusuttaṃ, SN 15.14)'
+category: susijusios suttos
 index: Samsara
-sortIndex: 2424
+sortIndex: 15014
 tags:
   - Samsara
+suttacentral: sn15.14
 ---
 
 Buvo apsistojęs Savathėje...

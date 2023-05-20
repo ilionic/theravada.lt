@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 'Keturios atidos sritys (Satipaṭṭhānasuttaṃ, MN I.i.10)'
+title: 'Keturios atidos sritys (Satipaṭṭhānasuttaṃ, MN 10)'
 category: vidutinio
-sortIndex: 110
+sortIndex: 10
 tags:
   - keturios atidos sritys (satipaṭṭhāna)
   - Meditacija
@@ -18,6 +18,7 @@ index:
 image:
   feature: Burmese.jpg
 published: true
+suttacentral: mn10
 ---
 <a href="../satipatthanasuttam-p1" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../satipatthanasuttam-p2" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Apie pasaulį (Lokasuttaṃ, SN II.I.v.4)'
-category: suristos suttos
+title: 'Pasaulis (Lokasuttaṃ, SN 12.44)'
+category: susijusios suttos
 index: Sąlygotas atsiradimas (paṭiccasamuppāda)
-sortIndex: 2154
+sortIndex: 12044
 tags:
   - Sąlygotas atsiradimas (paṭiccasamuppāda)
+suttacentral: sn12.44
 ---
 Buvo apsistojęs Savathėje...
 

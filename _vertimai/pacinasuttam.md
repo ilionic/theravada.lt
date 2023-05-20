@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Rytai (Pācīnasuttaṃ, SN V.v.I.1)'
-category: suristos suttos
+title: 'Rytai ir taip toliau (Pācīnādisuttaṃ, SN 49.1-12)'
+category: susijusios suttos
 index: Praktika
-sortIndex: 5511
+sortIndex: 49001
 tags:
   - Praktika
+suttacentral: sn49.1-12
 ---
 Savathėje. Tada gi Palaimintasis štai ką pasakė: „Vienuoliai, keturi yra teisingi stengimaisi. Kurie keturi? Štai vienuolis užsidega noru, kad atsiradusios blogos, nedoros būsenos neatsirastų – jis stengiasi, deda pastangas, energingai naudoja protą, siekia to; užsidega noru pašalinti atsiradusias blogas, nedoras – jis stengiasi, deda pastangas, energingai naudoja protą, siekia to; užsidega noru, kad neatsiradusios doros būsenos atsirastų – jis stengiasi, deda pastangas, energingai naudoja protą, siekia to; užsidega noru atsiradusias doras būsenas įtvirtinti, padaryti neabejotinomis, dauginti, visiškai išugdyti, ištobulinti – jis stengiasi, deda pastangas, energingai naudoja protą, siekia to. Šie, vienuoliai, yra keturi teisingi stengimaisi.
 

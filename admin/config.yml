@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       # - {label: "Category", name: "category", widget: "string", required: true}
-      - {label: "Category", name: "category", widget: "select", options: ["ilgos suttos", "vidutinio", "suristos suttos", "palaipsnines", "dziaugsmingi", "trumpesni"]}
+      - {label: "Category", name: "category", widget: "select", options: ["ilgos suttos", "vidutinio", "susijusios suttos", "palaipsnines", "dziaugsmingi", "trumpesni"]}
       - {label: "Index", name: "index", widget: "string", required: true}
       - {label: "Sort Index", valueType: "int", default: 1, name: "sortIndex", widget: "number", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}

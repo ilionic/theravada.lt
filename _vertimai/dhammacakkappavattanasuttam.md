@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 'Dharmos rato pasukimas (Dhammacakkappavattanasuttaṃ, SN V.XXII.ii.1)'
-category: suristos suttos
+title: 'Dharmos rato pasukimas (Dhammacakkappavattanasuttaṃ, SN 56.11)'
+category: susijusios suttos
 index: Taurinančios tiesos
-sortIndex: 5921
+sortIndex: 56011
 image:
   feature: Burmese.jpg
 tags:
   - Taurinančios tiesos
+suttacentral: sn56.11
 ---
 Vieną kartą Palaimintasis gyveno Varanasyje Išminčių vietovėje Elnių parke. Tada gi Palaimintasis kreipėsi į vienuolių penketuką:
 

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Antras nagrinėjimas (Dutiyavibhaṅgasuttaṃ, SN V.iv.I.10)'
-category: suristos suttos
+title: 'Antras nagrinėjimas (Dutiyavibhaṅgasuttaṃ, SN 48.10)'
+category: susijusios suttos
 index: Valdantys gebėjimai (indriya)
-sortIndex: 5419
+sortIndex: 48010
 tags:
   - Valdantys gebėjimai (indriya)
+suttacentral: sn48.10
 ---
 Vienuoliai, yra penki valdantys gebėjimai. Kurie penki? Tikėjimo valdantis gebėjimas, energingumo valdantis gebėjimas, atidos valdantis gebėjimas, susitelkimo valdantis gebėjimas, išminties valdantis gebėjimas. Ir kas, vienuoliai, yra tikėjimo valdantis gebėjimas? Štai, vienuoliai, tauriųjų mokinys yra tikintis, jis tiki Tathagatos nušvitimu: „Šis Palaimintasis yra arahantas, tobulai nušvitęs, įgijęs žinojimą ir gerą elgesį, gerai žengęs, žinantis pasaulį, neprilygstamas tramdytinų žmonių treneris, dievybių ir žmonių mokytojas, nušvitęs, palaimintas.“ Tai, vienuoliai, vadinama tikėjimo valdančiu gebėjimu.
 

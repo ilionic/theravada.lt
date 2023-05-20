@@ -1,15 +1,16 @@
 ---
 layout: page
-title: 'Palyginimas su putų gumulu (Pheṇapiṇḍūpamasuttaṃ, SN II.I.x.3)'
+title: 'Palyginimas su putų gumulu (Pheṇapiṇḍūpamasuttaṃ, SN 22.95)'
 tags:
-  - Penkios sankaupos (khandhā)
-index: Penkios sankaupos (khandhā)
+  - Penki sandai (khandhā)
+index: Penki sandai (khandhā)
 comments: false
-category: suristos suttos
-sortIndex: 2193
+category: susijusios suttos
+sortIndex: 22095
 image:
   feature: abstract-2.jpg
 published: true
+suttacentral: sn22.95
 ---
 
 Vieną kartą Palaimintasis buvo apsistojęs Ajudžhajoje, Gangos upės pakrantėje. Tada gi Palaimintasis kreipėsi į vienuolius:

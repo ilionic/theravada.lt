@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 'Mažoji Dharmos praktikos ėmimosi sutra (Cūḷadhammasamādānasuttaṃ, MN I.v.5)'
+title: 'Mažoji sutta apie užsiėmimą Dhammos praktiką (Cūḷadhammasamādānasuttaṃ, MN 45)'
 category: vidutinio
 index: Praktika
-sortIndex: 155
+sortIndex: 45
 image:
   feature: Burmese.jpg
 tags:
   - Praktika
+suttacentral: mn45
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi Palaimintasis kreipėsi į vienuolius:
 

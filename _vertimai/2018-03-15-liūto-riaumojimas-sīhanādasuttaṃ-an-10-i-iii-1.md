@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Liūto riaumojimas (Sīhanādasuttaṃ, AN 10.I.iii.1)'
+title: 'Liūto riaumojimas (Sīhanādasuttaṃ, AN 10.21)'
 category: palaipsnines
 index: Buda
 tags:
   - Buda
-sortIndex: 10131
+sortIndex: 10021
+suttacentral: an10.21
 ---
 Vienuoliai, liūtas, žvėrių karalius, iš ryto išlenda iš guolio. Išlindęs iš guolio, pasirąžo, pažiovauja. Pasirąžęs, pažiovavęs, apžiūri visas keturias \[pasaulio] puses. Apžiūrėjęs visas keturias \[pasaulio] puses, tris kartus suriaumoja liūto riaumojimą. Tris kartus suriaumojęs liūto riaumojimą, eina ieškoti grobio. Kodėl? \[Jis galvoja]: „Kad tik pavojų kupinuose keliuose netyčia nesužaločiau mažų būtybių!“\
 „Liūtas“, vienuoliai, simbolizuoja Tathagatą, Arahantą, tobulai Nušvitusįjį. Tathagatos Dharmos dėstymas sambūriuose, vienuoliai, yra jo „liūto riaumojimas“.\

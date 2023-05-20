@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 'Nagrinėjimas (Vibhaṅgasuttaṃ, SN V.I.i.8)'
-category: suristos suttos
+title: 'Nagrinėjimas (Vibhaṅgasuttaṃ, SN 45.8)'
+category: susijusios suttos
 index: Aštuonialypis kelias
-sortIndex: 5118
+sortIndex: 45008
 image:
   feature: Burmese.jpg
 tags:
   - Aštuonialypis kelias
+suttacentral: sn45.8
 ---
 Savathėje.
 

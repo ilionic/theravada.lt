@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Našta (Bhārasuttaṃ, SN III.I.iii.1)'
-category: suristos suttos
-index: Penkios sankaupos (khandhā)
+title: 'Našta (Bhārasuttaṃ, SN 22.22)'
+category: susijusios suttos
+index: Penki sandai (khandhā)
 tags:
-  - Penkios sankaupos (khandhā)
-sortIndex: 3131
+  - Penki sandai (khandhā)
+sortIndex: 22022
+suttacentral: sn22.22
 ---
 Savathėje... tada gi... <br />
 

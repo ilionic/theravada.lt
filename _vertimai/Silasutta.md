@@ -1,10 +1,11 @@
 ---
 layout: page
-title: 'Suta apie dorovę (Sīlasuttaṃ, AN 5.v.II.3)'
+title: 'Apie dorovę (Sīlasuttaṃ, AN 5.213)'
 category: palaipsnines
 index: Dorovė 
-sortIndex: 5523 
+sortIndex: 5213 
 tags: Dorovė
+suttacentral: an5.213
 ---
 Vienuoliai, šie penki pavojai gresia nedoram, dorovės netekusiam [žmogui]. Kokie penki?
 

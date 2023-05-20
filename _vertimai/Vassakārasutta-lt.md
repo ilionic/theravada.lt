@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 'Suta Vasakarai (Vassakārasuttaṃ, AN VII.i.III.2)'
+title: 'Suta Vasakarai (Vassakārasuttaṃ, AN 7.22)'
 category: palaipsnines
 index:  
-sortIndex: 7132
+sortIndex: 7022
 tags:
 image:
   feature: Burmese.jpg
+suttacentral: an7.22
 ---
 <a href="../Vassakārasutta-lt" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../Vassakārasutta pali" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />

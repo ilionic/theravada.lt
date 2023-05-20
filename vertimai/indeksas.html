@@ -15,17 +15,7 @@ published: true
     {% assign category = site.vertimai | where: "category","ilgos suttos" | sort: 'sortIndex' %}
     {% for post in category %}
       {% unless post.hideIndex %}
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-          {% if post.parts %}
-            [{% for part in post.parts %}
-              {% capture postNum %}-p{{ part }}{% endcapture %}
-              {% assign postName = post.url | replace: '-p1', postNum %}
-              <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">{{ part }}-a dalis</a>
-              {% if part != post.parts.size %}
-              |
-              {% endif %}
-            {% endfor %}]
-          {% endif %}
+        <li class="entry-title">{{ post.title }}
           {% if post.suttacentral %}
           (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
           {% endif %}
@@ -36,22 +26,12 @@ published: true
 </article>
 
 <article>
-  <h2 class="tag-heading">Vidutinio ilgio sutos (Majjhimanikāyo, MN)</h2>
+  <h2 class="tag-heading">Vidutinio ilgio suttos (Majjhimanikāyo, MN)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","vidutinio" | sort: 'sortIndex' %}
     {% for post in category %}
       {% unless post.hideIndex %}
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-          {% if post.parts %}
-            [{% for part in post.parts %}
-              {% capture postNum %}-p{{ part }}{% endcapture %}
-              {% assign postName = post.url | replace: '-p1', postNum %}
-              <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">{{ part }}-a dalis</a>
-              {% if part != post.parts.size %}
-              |
-              {% endif %}
-            {% endfor %}]
-          {% endif %}
+        <li class="entry-title">{{ post.title }}
           {% if post.suttacentral %}
           (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
           {% endif %}
@@ -62,11 +42,11 @@ published: true
 </article>
 
 <article>
-  <h2 class="tag-heading">Surištos sutos (Saṃyuttanikāyo, SN)</h2>
+  <h2 class="tag-heading">Pagal temą susijusios suttos (Saṃyuttanikāyo, SN)</h2>
   <ul>
-    {% assign category = site.vertimai | where: "category","suristos suttos" | sort: 'sortIndex' %}
+    {% assign category = site.vertimai | where: "category","susijusios suttos" | sort: 'sortIndex' %}
     {% for post in category %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <li class="entry-title">{{ post.title }}
         {% if post.suttacentral %}
         (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
         {% endif %}
@@ -76,11 +56,11 @@ published: true
 </article>
 
 <article>
-  <h2 class="tag-heading">Palaipsninės sutos (Aṅguttaranikāyo, AN)</h2>
+  <h2 class="tag-heading">Palaipsninės suttos (Aṅguttaranikāyo, AN)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","palaipsnines" | sort: 'sortIndex' %}
     {% for post in category %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <li class="entry-title">{{ post.title }}
         {% if post.suttacentral %}
         (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
         {% endif %}
@@ -156,17 +136,7 @@ published: true
 
     {% for post in tagPosts %}{% if post.title != null %}
         {% unless post.hideIndex %}
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-        {% if post.parts %}
-          [{% for part in post.parts %}
-            {% capture postNum %}-p{{ part }}{% endcapture %}
-            {% assign postName = post.url | replace: '-p1', postNum %}
-            <a href="{{ site.url }}{{ postName }}" title="{{ post.title }}">dalis {{ part }}</a>
-            {% if part != post.parts.size %}
-            |
-            {% endif %}
-          {% endfor %}]
-        {% endif %}
+        <li class="entry-title">{{ post.title }}
         {% if post.suttacentral %}
           (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
           {% endif %}

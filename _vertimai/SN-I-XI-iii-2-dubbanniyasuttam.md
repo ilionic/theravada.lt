@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 'Sutta apie bjaurųjį (Dubbaṇṇiyasuttaṃ, SN I.XI.iii.2)'
-category: suristos suttos
+title: 'Sutta apie bjaurųjį (Dubbaṇṇiyasuttaṃ, SN 11.22)'
+category: susijusios suttos
 index: 
-sortIndex: 1932
-tags:
+sortIndex: 11022
+tags: Pyktis
 image:
   feature: Burmese.jpg
+suttacentral: sn11.22
 ---
 Prie Savačio, Džetos girioje. Ten Palaimintasis pasakė štai ką: „Vienuoliai, kažkada ant Sakkos, dievybių valdovo, sosto atsisėdo vienas bjaurus išsigimęs jakkha. Tuomet Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, sakydami: „Nieko sau, ponai! Neįtikėtina, ponai! Šis bjaurus išsigimęs jakkha atsisėdo ant Sakkos, dievybių valdovo, sosto!” Tačiau kiek Tāvatiṁsa dievybės dėl to skundėsi, murmėjo ir piktinosi, tiek tas jakkha darėsi tik gražesnis, patrauklesnis ir grakštesnis.
 

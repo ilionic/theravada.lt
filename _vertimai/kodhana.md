@@ -1,12 +1,17 @@
 ---
 layout: page
-title: 'Apie pikčiurną (kodhanasuttaṃ, AN 7.ii.VI.11)'
+title: 'Apie pikčiurną (kodhanasuttaṃ, AN 7.64)'
 category: palaipsnines
-index: Pyktis 
-sortIndex: 72611 
-tags: Geraširdiškumas
+index:
+  - Geraširdiškumas
+  - Pyktis
+sortIndex: 7064 
+tags: 
+  - Geraširdiškumas
+  - Pyktis
 image:
   feature: Burmese.jpg
+suttacentral: an7.64
 ---
 
 Vienuoliai, pikčiurnai vyrui ar moteriai atsitinka septyni priešą pamaloninantys, priešui padedantys dalykai. Kurie septyni?

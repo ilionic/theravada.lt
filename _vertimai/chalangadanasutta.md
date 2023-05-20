@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 'Dovanojimas pasižymintis šešiais bruožais (chaḷaṅgadānasuttaṃ, AN VI.i.IV.7)'
+title: 'Dovanojimas pasižymintis šešiais bruožais (chaḷaṅgadānasuttaṃ, AN 6.37)'
 category: palaipsnines
 index: Dosnumas 
-sortIndex: 5147
+sortIndex: 6037
 tags: Dosnumas
 image:
   feature: dana.jpg
+suttacentral: an6.37
 ---
 
 Taip aš girdėjau:

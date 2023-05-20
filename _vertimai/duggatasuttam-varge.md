@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Varge (Duggatasuttaṃ, SN II.IV.ii.1)'
-category: suristos suttos
+title: 'Varge (Duggatasuttaṃ, SN 15.11)'
+category: susijusios suttos
 index: Samsara
-sortIndex: 2421
+sortIndex: 15011
 tags:
   - Samsara
+suttacentral: sn15.11
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Savathėje. Tada gi Palaimintasis kreipėsi į vienuolius:
 

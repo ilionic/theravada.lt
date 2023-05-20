@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Nagrinėjimas (Vibhaṅgasuttaṃ, SN II.I.i.2)'
-category: suristos suttos
+title: 'Nagrinėjimas (Vibhaṅgasuttaṃ, SN 12.2)'
+category: susijusios suttos
 index: Sąlygotas atsiradimas (paṭiccasamuppāda)
-sortIndex: 2112
+sortIndex: 12002
 tags:
   - Sąlygotas atsiradimas (paṭiccasamuppāda)
+suttacentral: sn12.2
 ---
 Buvo apsistojęs Savathėje...
 

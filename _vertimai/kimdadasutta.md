@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 'Duodantis ką? (kiṃdadasuttaṃ, SN I.I.v.2)'
-category: suristos suttos
+title: 'Duodantis ką? (kiṃdadasuttaṃ, SN 1.42)'
+category: susijusios suttos
 index: Dosnumas
 tags:
   - Dosnumas
 image:
   feature: dana_indagaw_2.jpg  
-sortIndex: 1152
+sortIndex: 1042
+suttacentral: sn1.42
 ---
 
 [Deva paklausė:]

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Sąlygotas atsiradimas (Paṭiccasamuppādasuttaṃ, SN II.I.i.1)'
-category: suristos suttos
-index: Sąlygotas atsiradimas (paṭiccasamuppāda)
-sortIndex: 2111
+title: 'Sąlygotoji kilmė (Paṭiccasamuppādasuttaṃ, SN 12.1)'
+category: susijusios suttos
+index: Sąlygotoji kilmė (paṭiccasamuppāda)
+sortIndex: 12001
 tags:
-  - Sąlygotas atsiradimas (paṭiccasamuppāda)
+  - Sąlygotoji kilmė (paṭiccasamuppāda)
+suttacentral: sn12.1
 ---
 Taip aš girdėjau: vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tada gi Palaimintasis kreipėsi į vienuolius:\
 －Vienuoliai!\

@@ -1,14 +1,15 @@
 ---
 layout: page
-title: 'Pirma suta Kotigamoje (Paṭhamakoṭigāmasuttaṃ, SN V.xii.III.1)'
-category: suristos suttos
+title: 'Pirmoji suta Kotigamoje (Paṭhamakoṭigāmasuttaṃ, SN 56.21)'
+category: susijusios suttos
 index:  
   - Taurinančios tiesos
   - Samsara
-sortIndex: 51231
+sortIndex: 56021
 tags:
   - Taurinančios tiesos
   - Samsara
+suttacentral: sn56.21
 ---
 Vieną kartą Palaimintasis buvo apsistojęs vadžių šalyje Kotigamoje. Tada gi Palaimintasis kreipėsi į vienuolius:
 

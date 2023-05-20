@@ -5,7 +5,7 @@ category: vidutinio
 index: 
   - Pažiūros (diṭṭhi)
   - Taurinančios tiesos
-sortIndex: 223
+sortIndex: 63
 tags:
   - Pažiūros (diṭṭhi)
   - Taurinančios tiesos

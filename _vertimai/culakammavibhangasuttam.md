@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 'Mažoji veiksmų analizė (Cūḷakammavibhaṅgasuttaṃ, MN III.iv.5)'
+title: 'Trumpesnė veiksmų analizė (Cūḷakammavibhaṅgasuttaṃ, MN 135)'
 category: vidutinio
-index: Karma
-sortIndex: 345
+index: Kamma
+sortIndex: 135
 tags:
-  - Karma
+  - Kamma
+suttacentral: mn135
 ---
 Taip aš girdėjau:
 

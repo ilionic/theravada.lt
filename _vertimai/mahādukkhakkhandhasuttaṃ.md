@@ -1,14 +1,15 @@
 ---
 layout: page
-title: 'Didžioji sutra apie kančios krūvą (Mahādukkhakkhandhasuttaṃ, MN I.ii.3)'
+title: 'Didžioji sutta apie kalną kančios (Mahādukkhakkhandhasuttaṃ, MN 13)'
 category: vidutinio
-index: Pavojus
-sortIndex: 123
+index: Kartumas (pavojus)
+sortIndex: 13
 tags:
-  - Pavojus
+  - Kartumas (pavojus)
 image:
   feature: Burmese.jpg
 published: true
+suttacentral: mn13
 ---
 <a href="../mahādukkhakkhandhasuttaṃ" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../mahādukkhakkhandhasuttaṃ-pali-lt" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />
