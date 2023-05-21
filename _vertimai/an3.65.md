@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Kesamuttisutta (Kālāmasutta, AN3.II.ii.5)
+title: Kėsamutyje (Kesamuttisuttaṃ, AN3.65)
 tags:
-- 
+- Dorovė
+- Kamma
 index: 
-- 
+- Dorovė
+- Kamma
 comments: false
-sortIndex: 3225
+sortIndex: 3065
 category: palaipsnines
 image:
   feature: abstract-2.jpg
 published: true
+suttacentral: an3.65
 ---
 <a href="../kesamuttisutta_lt" class="btn btn-primary btn-next">Lietuvių</a>
 <a href="../kesamuttisutta" class="btn btn-primary btn-next">Pali -Lietuvių</a> <br />

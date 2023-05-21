@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Suta Vasakarai (Vassakārasuttaṃ, AN 7.22)'
+title: 'Sutta Vasakarai (Vassakārasuttaṃ, AN 7.22)'
 category: palaipsnines
 index:  
 sortIndex: 7022
