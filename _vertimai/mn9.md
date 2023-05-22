@@ -2,7 +2,8 @@
 layout: page
 title: 'Apie teisingą požiūrį (Sammādiṭṭhisuttaṃ, MN 9)'
 category: vidutinio
-index: Teisingas požiūris
+index: 
+  - Teisingas požiūris
 sortIndex: 9
 tags:
   - Teisingas požiūris

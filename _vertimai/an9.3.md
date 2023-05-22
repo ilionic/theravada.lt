@@ -2,8 +2,8 @@
 layout: page
 title: 'Apie Meghiją (Meghiyasuttaṃ, AN 9.3)'
 category: palaipsnines
-index: meditacija
+index: Meditacija
 sortIndex: 9003
-tags: meditacija
+tags: Meditacija
 suttacentral: an9.3
 ---

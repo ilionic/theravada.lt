@@ -3,11 +3,11 @@ layout: page
 title: 'Apie pikčiurną (kodhanasuttaṃ, AN 7.64)'
 category: palaipsnines
 index:
-  - Geraširdiškumas
+  - Geraširdiškumas (mettā)
   - Pyktis
 sortIndex: 7064 
 tags: 
-  - Geraširdiškumas
+  - Geraširdiškumas (mettā)
   - Pyktis
 image:
   feature: Burmese.jpg
