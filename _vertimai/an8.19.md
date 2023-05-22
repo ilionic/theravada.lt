@@ -7,7 +7,7 @@ sortIndex: 829
 image:
   feature: Burmese.jpg
 tags:
-  - Dharma ir disciplina
+  - Dhamma ir disciplina
 suttacentral: an8.19
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio nimo medžio papėdėje. Tada gi pas Palaimintąjį nuėjo asura Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:

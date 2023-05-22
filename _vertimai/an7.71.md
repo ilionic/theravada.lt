@@ -8,7 +8,7 @@ image:
   feature: Burmese.jpg
 tags:
   - Meditacija
-suttacantral: an7.71
+suttacentral: an7.71
 ---
 Vienuoliai, kad ir kiltų vienuoliui, neužsiimančiam \[proto] vystymu {meditacija}, toks noras: „O, kad mano protas dėl nesisavinimo išsilaisvintų nuo ydingų polinkių!“ Jo protas dėl nesisavinimo išsilaisvints nuo ydingų polinkių. Kodėl taip yra? Pasakytina, dėl \[proto] neišvystymo. Ko neišvystymo? <a href="http://theravada.lt/vertimai/satipatthanasuttam-p1">Atidos keturioms sritims</a>, <a href="http://theravada.lt/vertimai/pacinasuttam">keturių teisingų stengimųsi</a>, keturių viršžmogiškų galių pagrindų, <a href="http://theravada.lt/vertimai/dutiyavibhangasutta%E1%B9%83">penkių valdančių gebėjimų</a>, penkių stiprybių, <a href="http://theravada.lt/vertimai/himavantasuttam-himalaju">septynių nušvitimo veiksnių</a>, <a href="http://theravada.lt/vertimai/SN-V-I-i-8-vibhangasuttam">taurinančio aštuonialypio kelio</a>.
 

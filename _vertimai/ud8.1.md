@@ -1,53 +1,53 @@
 ---
 layout: page
-title: 'Su Nirvana susijusios sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1-4)'
+title: 'Su Nibbāna susijusios sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1-4)'
 category: dziaugsmingi
-index: Nirvana
+index: Nibbāna
 sortIndex: 81
 tags:
-  - Nirvana
+  - Nibbāna
 ---
 
 
-### Pirma su Nirvana surišta suta (Ud 8.1)
+### Pirma su Nibbāna surišta sutta (Ud 8.1)
 
 *Paṭhamanibbānapaṭisaṃyuttasuttaṃ*
 
 Taip aš girdėjau:
 
-vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nirvana surišta Dharmos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
+vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nibbāna surišta Dhammos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dhammos.
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Vienuoliai, yra tokia sritis, kur nėra nei žemės, nei vandens, nei ugnies, nei vėjo, nei begalinės erdvės [patyrimo] būsenos, nei begalinės sąmonės [patyrimo] būsenos, nei nieko nebuvimo [patyrimo] būsenos, nei nei suvokimo nei nesuvokimo [patyrimo] būsenos, nei šio pasaulio, nei kito pasaulio, nei Mėnulio ar Saulės. Aš taip pat sakau, vienuoliai, ten tikrai nėra nei atėjimo, nei išėjimo, nei būvimo, nei išnykimo, nei gimimo; gan neparemta, be vyksmo, be objekto tai yra.”
 
-### Antra su Nirvana surišta suta (Ud 8.2)
+### Antra su Nibbāna surišta sutta (Ud 8.2)
 
 *Dutiyanibbānapaṭisaṃyuttasuttaṃ*
 
 Taip aš girdėjau:
 
-vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nirvana surišta Dharmos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
+vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nibbāna surišta Dhammos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
 
-Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Nelengva pamatyti, tai kas vadinama "be polinkio"- tiesą {comy =Nirvaną} gi sunku pamatyti. Tam, kuris mato ir žino prasiskverbimą pro trošimą, nieko nėra."
+Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Nelengva pamatyti, tai kas vadinama "be polinkio"- tiesą {comy =Nibbāną} gi sunku pamatyti. Tam, kuris mato ir žino prasiskverbimą pro trošimą, nieko nėra."
 
-### Trečia su Nirvana surišta suta (Ud 8.3)
+### Trečia su Nibbāna surišta sutta (Ud 8.3)
 
 *Tatiyanibbānapaṭisaṃyuttasuttaṃ*
 
 Taip aš girdėjau:
 
-vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nirvana surišta Dharmos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
+vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nibbāna surišta Dhammos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius:
 
 „Yra, vienuoliai, tai, kas nesukelta, neatsiradę, nesutverta, nesąlygota. Vienuoliai, jeigu nebūtų to, kas nesukelta, neatsiradę, nesutverta, nesąlygota, nebūtų įmanoma pažinti to, kas nesukelta, neatsiradę, nesutverta, nesąlygota. Bet dėl to gi, vienuoliai, kad yra tai, kas nesukelta, neatsiradę, nesutverta, nesąlygota, yra įmanoma pažinti tai, kas nesukelta, neatsiradę, nesutverta, nesąlygota."
 
-### Ketvirta su Nirvana surišta suta (Ud 8.4)
+### Ketvirta su Nibbāna surišta suta (Ud 8.4)
 
 *Catutthanibbānapaṭisaṃyuttasuttaṃ*
 
 Taip aš girdėjau:
 
-vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nirvana surišta Dharmos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
+vieną kartą Palaimintasis buvo apsistojęs Savathėje Džetos girioje Anathapindikos vienuolyne. Tuomet gi Palaimintasis aiškino vienuoliams su Nibbāna surišta Dhammos mokymą, skatino, žavėjo, džiugino [juos]. Šitie vienuoliai, supratę [mokymo] svarbą, sukaupę dėmesį, sutelkę visą protą, pastatę ausis, klausėsi Dharmos.
 
 Tada gi Palaimintasis supratęs to reikšmingumą, ta proga ištarė šiuos džiaugsmingus žodžius: „Tai kas priklausoma svyruoja, nepriklausoma yra be svyravimų. Kai nėra svyravimų - yra ramybė, kai yra ramybė - nėra polinkių. Kai nėra polinkių - nėra atėjimo ir išėjimo. Kai nėra atėjimo ir išėjimo - nėra išnykimo ir gimimo. Kai nėra išnykimo ir gimimo - nėra nei "čia" {šio pasaulio}, nei "kitur" {kito pasaulio}, nei ko tarp jų. Tai yra visiškas kentėjimo galas."
 

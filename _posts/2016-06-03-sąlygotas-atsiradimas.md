@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sąlygotas Atsiradimas
+title: Sąlygotoji kilmė
 category: mokymas
 tags:
   - mokymas
@@ -8,9 +8,9 @@ tags:
 
 ***(Paṭiccasamuppāda)***
 
-Patičasamupada (*Paṭiccasamuppāda*) arba Sąlygotas atsiradimas yra labai svarbus Budos mokymas, kuris išskyria budizmą iš visų kitų religijų. Ši doktrina moko, kad visi gyvųjų būtybių proto ir materijos reiškiniai yra sąlygoti, kad nėra nieko, kas atsirastų be priežasties. Ir dėl to, kad viskas kyla dėl priežasčių, nėra tokio dalyko kaip kūrėjas arba sukurtas pasaulis.
+Patičasamupada (*Paṭiccasamuppāda*) arba Sąlygotoji kilmė yra labai svarbus Budos mokymas, kuris išskyria budizmą iš visų kitų religijų. Ši doktrina moko, kad visi gyvųjų būtybių proto ir materijos reiškiniai yra sąlygoti, kad nėra nieko, kas atsirastų be priežasties. Ir dėl to, kad viskas kyla dėl priežasčių, nėra tokio dalyko kaip kūrėjas arba sukurtas pasaulis.
 
-Į lietuvių kalbą terminas „Patičasamupada“ (PS) verčiamas įvairiai: priklausomas radimasis, sąlygotas radimasis, sąlygota bendroji kilmė, sąlygotas atsiradimas ir pan. Žodis „patiča“ (*paṭicca*) reiškia „priklausomai nuo“, o „samupada“ (*samuppāda*) - „tai, kas atsiranda kartu“. Ir nors pažodžiui šis junginys reikštų „atsiradimo sąlygos“, jis nurodo kaip į sąlygas, taip ir į pasėkmes. Taip yra dėl to, kad bet kuri vieno reiškinio pasėkmė taip pat yra ir kito reiškinio atsiradimo sąlyga.
+Į lietuvių kalbą terminas „Patičasamupada“ (PS) verčiamas įvairiai: priklausomas radimasis, sąlygotas radimasis, sąlygota bendroji kilmė, Sąlygotoji kilmė ir pan. Žodis „patiča“ (*paṭicca*) reiškia „priklausomai nuo“, o „samupada“ (*samuppāda*) - „tai, kas atsiranda kartu“. Ir nors pažodžiui šis junginys reikštų „atsiradimo sąlygos“, jis nurodo kaip į sąlygas, taip ir į pasėkmes. Taip yra dėl to, kad bet kuri vieno reiškinio pasėkmė taip pat yra ir kito reiškinio atsiradimo sąlyga.
 
 Bendra šio dėsnio formuluotė skamba taip:
 
@@ -120,4 +120,4 @@ Nagrinėjant kaip ir kodėl atsiranda individuali gyvybė, galime skirtingai žv
 
     * samonė, protas-materija, šeši jutimo pagrindai, sąlytis, jausmas sudaro ateities rezultatus.
 
-Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: „Gilus, Ananda, yra ir atrodo gilus šis sąlygotas atsiradimas. Dėl šios dharmos nesupratimo ir neperpratimo ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą.“ (DN15)
+Šio mokymo supratimo, perpratimo svarbą ir gelmę Buda išreiškė taip: „Gilus, Ananda, yra ir atrodo gilus šis Sąlygotoji kilmė. Dėl šios dharmos nesupratimo ir neperpratimo ši karta yra susipainiojusi lyg siūlų kamuolys, lyg paukščių lizdas, lyg šiaudai ir šienas, ir ji negali įveikti nelaimingas sferas, blogas vietas, kančių sferas, samsarą.“ (DN15)

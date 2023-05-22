@@ -8,6 +8,7 @@ tags:
 sortIndex: 9
 image:
   feature: Burmese.jpg
+suttacentral: snp1.8
 ---
 1. Tai turėtų daryti tas, kuris turi prasmingų įgūdžių ir supranta apie tą ramybės būvį (nirvaną).\
 Būdamas gebančiu, tiesiaširdžiu, atviru, nuolankiu, lanksčiu ir nepasipūtusiu,

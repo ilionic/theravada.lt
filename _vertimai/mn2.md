@@ -2,10 +2,11 @@
 layout: page
 title: 'Visos ydos (Sabbāsavasuttaṃ, MN 2)'
 category: vidutinio
-index: Teršalai
+index: 
+  - Teršalai (kilesā)
 sortIndex: 2
 tags:
-  - Teršalai
+  - Teršalai (kilesā)
 image:
   feature: Burmese.jpg
 published: true

@@ -2,8 +2,10 @@
 layout: page
 title: 'Pirmoji sutta apie mirties kontempliacija (Dutiyamaraṇassatisuttaṃ, AN 6.20)'
 category: palaipsnines
-index: mirties kontempliacija (anussati)
+index: 
+    - Mirties kontempliacija (maraṇanussati)
 sortIndex: 6019
-tags: mirties kontempliacija (anussati)
+tags:  
+    - Mirties kontempliacija (maraṇanussati)
 suttacentral: an6.20
 ---

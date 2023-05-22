@@ -2,10 +2,11 @@
 layout: page
 title: 'Palyginimas su drobe (Vatthasuttaṃ, MN 7)'
 category: vidutinio
-index: Teršalai
+index: 
+  - Teršalai (kilesā)
 sortIndex: 7
 tags:
-  - Teršalai
+  - Teršalai (kilesā)
 image:
   feature: Burmese.jpg
 published: true

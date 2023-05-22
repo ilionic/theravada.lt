@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Duodantis ką? (kiṃdadasuttaṃ, SN 1.42)'
+title: 'Duodantis ką? (Kiṃdadasuttaṃ, SN 1.42)'
 category: susijusios suttos
 index: Dosnumas
 tags:
