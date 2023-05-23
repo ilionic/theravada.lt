@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 'Pasaulėžiūros (Diṭṭhigatasuttaṃ, Iti 49)'
-category: trumpesni
+category: pasakyta
 index: Pažiūros (diṭṭhi)
 tags:
   - Pažiūros (diṭṭhi)
-sortIndex: 1
+sortIndex: 49
 image:
   feature: Burmese.jpg
 ---

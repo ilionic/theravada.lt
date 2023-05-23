@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Dovanos (Dānasuttaṃ, Iti 1.26)'
+title: 'Dovanos (Dānasuttaṃ, Iti 26)'
 category: pasakyta
 index: Dosnumas
-sortIndex: 126
+sortIndex: 26
 tags:
   - Dosnumas
 image:

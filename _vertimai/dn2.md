@@ -5,10 +5,14 @@ tags:
   - Dorovė
   - Meditacija
   - Praktika
+  - Juslių sulaikymas (indriyasaṁvara)
+  - Džhana (jhāna)
 index: 
   - Dorovė 
   - Meditacija 
   - Praktika
+  - Juslių sulaikymas (indriyasaṁvara)
+  - Džhana (jhāna)
 comments: false
 category: ilgos suttos
 sortIndex: 2
