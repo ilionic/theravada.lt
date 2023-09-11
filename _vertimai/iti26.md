@@ -1,9 +1,11 @@
 ---
 layout: page
 title: 'Dovanos (Dānasuttaṃ, Iti 26)'
-category: pasakyta
+category: bylota
 index: Dosnumas
 sortIndex: 26
+suttacentral: iti26
+date: 2023-09-03
 tags:
   - Dosnumas
 image:

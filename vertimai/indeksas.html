@@ -7,7 +7,24 @@ image:
   feature: Khmer.jpg
 published: true
 ---
+<h1 class="text-center">Naujausi vertimai</h1>
 
+<article>
+  <ul>
+    {% assign category = site.vertimai | sort: 'date' %}
+    {% for post in category limit:"20" %}
+      {% unless post.hideIndex %}
+        <li class="entry-title">{{ post.title }}
+          {% if post.suttacentral %}
+          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
+          {% endif %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</article>
+
+<h1 class="text-center">Indeksas pagal tekstų trinkinius</h1>
 
 <article>
   <h2 class="tag-heading">Ilgosios suttos (Dīghanikāyo, DN)</h2>
@@ -17,7 +34,7 @@ published: true
       {% unless post.hideIndex %}
         <li class="entry-title">{{ post.title }}
           {% if post.suttacentral %}
-          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
           {% endif %}
         </li>
       {% endunless %}
@@ -33,7 +50,7 @@ published: true
       {% unless post.hideIndex %}
         <li class="entry-title">{{ post.title }}
           {% if post.suttacentral %}
-          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
           {% endif %}
         </li>
       {% endunless %}
@@ -48,7 +65,7 @@ published: true
     {% for post in category %}
       <li class="entry-title">{{ post.title }}
         {% if post.suttacentral %}
-        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
         {% endif %}
       </li>
     {% endfor %}
@@ -62,7 +79,7 @@ published: true
     {% for post in category %}
       <li class="entry-title">{{ post.title }}
         {% if post.suttacentral %}
-        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
         {% endif %}
       </li>
     {% endfor %}
@@ -77,7 +94,7 @@ published: true
     {% for post in category %}
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         {% if post.suttacentral %}
-        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
         {% endif %}
       </li>
     {% endfor %}
@@ -88,18 +105,18 @@ published: true
     {% for post in category %}
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         {% if post.suttacentral %}
-        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
         {% endif %}
       </li>
     {% endfor %}
   </ul>
-  <h3 class="tag-heading">Taip buvo pasakyta (Itivuttaka, Iti)</h2>
+  <h3 class="tag-heading">Taip bylota (Itivuttaka, Iti)</h2>
   <ul>
-    {% assign category = site.vertimai | where: "category","pasakyta" | sort: 'sortIndex' %}
+    {% assign category = site.vertimai | where: "category","bylota" | sort: 'sortIndex' %}
     {% for post in category %}
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
         {% if post.suttacentral %}
-        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+        (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
         {% endif %}
       </li>
     {% endfor %}
@@ -138,7 +155,7 @@ published: true
         {% unless post.hideIndex %}
         <li class="entry-title">{{ post.title }}
         {% if post.suttacentral %}
-          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral</a>)
+          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
           {% endif %}
         </li>
         {% endunless %}

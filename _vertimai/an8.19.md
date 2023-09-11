@@ -2,12 +2,12 @@
 layout: page
 title: 'Paharadai (Pahārādasuttaṃ, AN 8.19)'
 category: palaipsnines
-index: Dhamma ir disciplina
-sortIndex: 829
+index: Mokymas ir Disciplina
+sortIndex: 8019
 image:
   feature: Burmese.jpg
 tags:
-  - Dhamma ir disciplina
+  - Mokymas ir Disciplina
 suttacentral: an8.19
 ---
 Vieną kartą Palaimintasis buvo apsistojęs Verandžijos nendryne didžiulio nimo medžio papėdėje. Tada gi pas Palaimintąjį nuėjo asura Paharadas, atėjęs pasveikino jį ir atsistojo iš šono. Stovinčiam gi iš šono asurai Paharadai Palaimintasis pasakė štai ką:

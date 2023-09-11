@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Su Uttara (Uttarasuttaṃ, SN 2.19)'
-category: palaipsnines
+category: susijusios suttos
 index:
 sortIndex: 2019
 tags:
