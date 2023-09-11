@@ -16,7 +16,7 @@ published: true
       {% unless post.hideIndex %}
         <li class="entry-title">{{ post.title }}
           {% if post.suttacentral %}
-          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
+          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}, {{ date }}</a>)
           {% endif %}
         </li>
       {% endunless %}
@@ -24,7 +24,7 @@ published: true
   </ul>
 </article>
 
-<h1 class="text-center">Indeksas pagal tekstų trinkinius</h1>
+<h1 class="text-center">Indeksas pagal tekstų rinkinius</h1>
 
 <article>
   <h2 class="tag-heading">Ilgosios suttos (Dīghanikāyo, DN)</h2>
