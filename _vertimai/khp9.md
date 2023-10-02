@@ -1,14 +1,11 @@
 ---
 layout: page
 title: 'Geraširdiškumas (Mettasuttaṃ, Sn 1.8, Khp 9)'
-category: rinkinukas
-index: 
-  - Praktika
-  - Geraširdiškumas (mettā)
+category: trumpesni
+index: Praktika
 tags:
   - Praktika
-  - Geraširdiškumas (mettā)
-sortIndex: 108
+sortIndex: 9
 image:
   feature: Burmese.jpg
 suttacentral: snp1.8

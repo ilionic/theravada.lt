@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 'Palaima (Maṅgalasuttaṃ, Khp 5, Sn 2.4)'
-category: rinkinukas
+category: trumpesni
 index: Praktika
-sortIndex: 204
+sortIndex: 5
 tags:
   - Praktika
 image:

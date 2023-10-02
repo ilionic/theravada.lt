@@ -99,6 +99,17 @@ published: true
       </li>
     {% endfor %}
   </ul>
+  <h3 class="tag-heading">Suttų rinkinukas (Suttanipāta, Snp)</h2>
+    <ul>
+      {% assign category = site.vertimai | where: "category","rinkinukas" | sort: 'sortIndex' %}
+      {% for post in category %}
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+          {% if post.suttacentral %}
+          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}</a>)
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
   <h3 class="tag-heading">Džiaugsmingi žodžiai (Uddana, Ud)</h2>
   <ul>
     {% assign category = site.vertimai | where: "category","dziaugsmingi" | sort: 'sortIndex' %}
