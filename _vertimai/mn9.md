@@ -5,6 +5,7 @@ category: vidutinio
 index: 
   - Teisingas požiūris
 sortIndex: 9
+date: 2020-09-22
 tags:
   - Teisingas požiūris
 image:

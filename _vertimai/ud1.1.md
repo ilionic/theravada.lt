@@ -7,6 +7,7 @@ index: Sąlygotoji kilmė (paṭiccasamuppāda)
 comments: false
 category: dziaugsmingi
 sortIndex: 11
+date: 2020-09-22
 image:
   feature: abstract-2.jpg
 published: true

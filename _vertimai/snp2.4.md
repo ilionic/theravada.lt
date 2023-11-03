@@ -4,6 +4,7 @@ title: 'Palaima (Maṅgalasuttaṃ, Khp 5, Sn 2.4)'
 category: rinkinukas
 index: Praktika
 sortIndex: 204
+date: 2020-09-22
 tags:
   - Praktika
 image:

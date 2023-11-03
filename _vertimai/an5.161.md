@@ -6,6 +6,7 @@ image:
   feature: Burmese.jpg
 index: Pyktis
 sortIndex: 5161 
+date: 2020-09-22
 tags: Pyktis
 suttacentral: an5.161
 ---

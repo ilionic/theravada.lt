@@ -4,6 +4,7 @@ title: 'Paharadai (Pahārādasuttaṃ, AN 8.19)'
 category: palaipsnines
 index: Mokymas ir Disciplina
 sortIndex: 8019
+date: 2020-09-22
 image:
   feature: Burmese.jpg
 tags:

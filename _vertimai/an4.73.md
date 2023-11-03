@@ -4,6 +4,7 @@ title: 'Apie gerą žmogų (Sappurisasuttaṃ, AN 4.73)'
 category: palaipsnines
 index: Dorovė
 sortIndex: 4073
+date: 2020-09-22
 tags:
   - Dorovė
 suttacentral: an4.73

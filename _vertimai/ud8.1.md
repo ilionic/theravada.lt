@@ -4,6 +4,7 @@ title: 'Su Nibbāna susijusios sutos (Nibbānapaṭisaṃyuttasuttāni, Ud 8.1-4
 category: dziaugsmingi
 index: Nibbāna
 sortIndex: 81
+date: 2020-09-22
 tags:
   - Nibbāna
 ---

@@ -4,6 +4,7 @@ title: 'Dovanojimas pasižymintis šešiais bruožais (chaḷaṅgadānasuttaṃ
 category: palaipsnines
 index: Dosnumas 
 sortIndex: 6037
+date: 2020-09-22
 tags: Dosnumas
 image:
   feature: dana.jpg

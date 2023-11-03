@@ -6,6 +6,7 @@ index: Praktika
 tags:
   - Praktika
 sortIndex: 9
+date: 2020-09-22
 image:
   feature: Burmese.jpg
 suttacentral: snp1.8

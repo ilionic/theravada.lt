@@ -5,6 +5,7 @@ category: palaipsnines
 index: 
     - Geraširdiškumas (mettā)
 sortIndex: 8001
+date: 2020-09-22
 tags: 
     - Geraširdiškumas (mettā)
 suttacentral: an8.1

@@ -8,6 +8,7 @@ tags:
 image:
   feature: dana_indagaw_2.jpg  
 sortIndex: 1042
+date: 2020-09-22
 suttacentral: sn1.42
 ---
 

@@ -4,6 +4,7 @@ title: 'Palaima (Maṅgalasuttaṃ, Khp 5, Sn 2.4)'
 category: trumpesni
 index: Praktika
 sortIndex: 5
+date: 2020-09-22
 tags:
   - Praktika
 image:

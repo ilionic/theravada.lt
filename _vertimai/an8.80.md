@@ -4,6 +4,7 @@ title: 'Pagrindai tingėti ir energijai sužadinti (Kusītārambhavatthusuttaṃ
 category: palaipsnines
 index:
 sortIndex: 8080
+date: 2020-09-22
 tags:
 suttacentral: an8.80
 ---

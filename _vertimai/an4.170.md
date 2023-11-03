@@ -6,6 +6,7 @@ index:
  - Meditacija 
  - Praktika
 sortIndex: 4170
+date: 2020-09-22
 tags:
  - Meditacija
  - Praktika

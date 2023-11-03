@@ -6,6 +6,7 @@ index:
   - Geraširdiškumas (mettā)
   - Pyktis
 sortIndex: 7064 
+date: 2020-09-22
 tags: 
   - Geraširdiškumas (mettā)
   - Pyktis

@@ -7,6 +7,7 @@ index: Pažiūros (diṭṭhi)
 comments: false
 category: dziaugsmingi
 sortIndex: 19
+date: 2020-09-22
 image:
   feature: abstract-2.jpg
 published: true

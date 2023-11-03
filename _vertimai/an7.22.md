@@ -4,6 +4,7 @@ title: 'Sutta Vasakarai (Vassakārasuttaṃ, AN 7.22)'
 category: palaipsnines
 index:  
 sortIndex: 7022
+date: 2020-09-22
 tags:
 image:
   feature: Burmese.jpg

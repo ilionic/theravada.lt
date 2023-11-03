@@ -7,6 +7,7 @@ index:
   - Juslių sulaikymas (indriyasaṁvara)
   - Pažiūros (diṭṭhi)
 sortIndex: 2
+date: 2020-09-22
 tags:
   - Teršalai (kilesā)
   - Juslių sulaikymas (indriyasaṁvara)

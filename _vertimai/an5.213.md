@@ -3,7 +3,8 @@ layout: page
 title: 'Apie dorovę (Sīlasuttaṃ, AN 5.213)'
 category: palaipsnines
 index: Dorovė 
-sortIndex: 5213 
+sortIndex: 5213
+date: 2020-09-22 
 tags: Dorovė
 suttacentral: an5.213
 ---

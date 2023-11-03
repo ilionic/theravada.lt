@@ -4,6 +4,7 @@ title: 'Sutta apie maistą (bhojanasuttaṃ, AN 5.37)'
 category: palaipsnines
 index: Dorovė 
 sortIndex: 5037
+date: 2020-09-22
 tags: Dosnumas
 suttacentral: an5.37
 ---		
