@@ -11,7 +11,7 @@ published: true
 
 <article>
   <ul>
-    {% assign category = site.vertimai | sort: 'date' %}
+    {% assign category = site.vertimai | sort: 'date' | reverse %}
     {% for post in category limit:"20" %}
       {% unless post.hideIndex %}
         <li class="entry-title">{{ post.title }}
