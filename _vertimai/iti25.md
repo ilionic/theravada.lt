@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Griaučių krūva (Aṭṭhipuñjasuttaṃ, Iti 25)'
+title: 'Melagystė (Musāvādasuttaṃ, Iti 25)'
 category: bylota
 sortIndex: 25
 suttacentral: iti25

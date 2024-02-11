@@ -7,6 +7,8 @@ suttacentral: iti22
 date: 2023-09-22
 tags:
     - Geraširdiškumas (mettā)
+    - Kamma
 index:
     - Geraširdiškumas (mettā)
+    - Kamma
 ---
