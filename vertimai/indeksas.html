@@ -16,7 +16,7 @@ published: true
       {% unless post.hideIndex %}
         <li class="entry-title">{{ post.title }}
           {% if post.suttacentral %}
-          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target=”_blank”>suttacentral {{ post.suttacentral }}, {{ page.date | date: "%F" }}</a>)
+          (<a href="https://suttacentral.net/{{ post.suttacentral }}/lt/piyadassi" title="{{ post.title }} suttacentral portale" target="_blank">suttacentral {{ post.suttacentral }}, {{ post.date | date: "%Y-%m-%d" }}</a>)
           {% endif %}
         </li>
       {% endunless %}
