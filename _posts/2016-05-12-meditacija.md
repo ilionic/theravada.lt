@@ -14,19 +14,19 @@ image:
 
 Meditacija (*bhāvana*) šiais laikais tapo plačiai žinoma sąvoka. Įvairių religinių pažiūrų žmonės medituoja ir tai daro dėl skirtingų priežasčių: vieni siekia sumažinti stresą, įgauti ramų protą, kiti - išsilaisvinimo iš atgimimų rato, visų kančių pabaigos.
 
-Meditacijos tikslas yra proto vystymas, jo lavinimas, dorų proto būsenų inicijavimas ir kultivavimas. Budistinė meditacija skirstoma į dvi rūšis: ramuma (*samatha*) ir įžvalga (*vipassana*).
+Meditacijos tikslas yra proto vystymas, jo lavinimas, dorų proto būsenų inicijavimas ir kultivavimas. Budistinė meditacija skirstoma į dvi rūšis: rimtį (*samatha*) ir įžvalgą (*vipassana*).
 
-**Ramuma**
+**Rimtis**
 
 **_Samatha_**
 
-Ramuma yra protinio susitelkimo būsena, kuri nuramina negatyvias proto būsenas (tokias kaip jusliniai troškimai, neapykanta ir panašiai). Ramuma taip pat vadinamas susitelkimas, kuris pašalina žalingas emocijas ir stresą.
+Rimtis yra sutelktis, nuraminanti negatyvias proto būsenas (tokias kaip jusliniai troškimai, neapykanta ir panašiai). Rimtimi taip pat vadinama pašalinanti žalingas emocijas ir stresą sutelktis.
 
 <!--break-->
 
-Žmogaus protas, kontaktuodamas su išoriniais objektais, tampa nestabiliu. Jei matant objektą atsiranda jo troškimas, protą aplanko jaudinimasis ir nerimavimas, nestabilumas. Jei atsiranda neapykanta, įsivyrauja nerimavimas, nestabilumas. Taip pat jei atsiranda nežinojimas, protą lydės nerimavimas, nestabilumas. Šis proto nestabilumas yra nuraminamas *samathos* pagalba. „*Paccanīkadhamme sametīti samatho*“. Dharma kuri nuramina ir pašalina priešingą dharmą vadinama *samatha*.
+Žmogaus protas, kontaktuodamas su išoriniais objektais, tampa nestabiliu. Jei matant objektą atsiranda jo troškimas, protą aplanko jaudinimasis ir nerimavimas, nestabilumas. Jei atsiranda neapykanta, įsivyrauja nerimavimas, nestabilumas. Taip pat jei atsiranda neišmanymas, protą lydės nerimavimas, nestabilumas. Šis proto nestabilumas yra nuraminamas *samathos* pagalba. „*Paccanīkadhamme sametīti samatho*“. Dharma nuraminanti ir pašalinanti priešingą dharmą vadinama *samatha*.
 
-Ramumos meditacija yra ne tik žingsnis  galutinio tikslo link, ji taip pat gali padėti gyvenimo kasdienybėje: sumažinti stresą, vystyti ramybę, kantrybę, atmintį ir panašiai.
+Rimties meditacija yra ne tik žingsnis  galutinio tikslo link, ji taip pat gali padėti gyvenimo kasdienybėje: sumažinti stresą, vystyti ramybę, kantrybę, atmintį ir panašiai.
 
 Paprastai šiai meditacijai naudojamas vienas iš šių 40 objektų:
 
@@ -44,10 +44,10 @@ Paprastai šiai meditacijai naudojamas vienas iš šių 40 objektų:
 
 7. Viena (keturių elementų) analizė (*eka vavatthana* arba *catudhātuvavatthāna*)
 
-Priklausomai nuo meditacijos objekto, šia praktika galima išvystyti gilų proto susitelkimą: pasinėrimą (*jhāna*) arba prieigą (*upacāra*). Beveik visi *samathos* objektai yra sampratos. Kai protas įgyja sugebėjimą nesiblaškant ilgam laikui susikoncentruoti į vieną objektą, jis tampa labai aštrus. Ir su tuo *samatha* užaštrintu protu žmogus gali žengti toliau ir leistis į nuodugnų, skvarbų vidinio ir išorinio pasaulių galutinių tiesų nagrinėjimą, t.y. į *vipasanos* praktiką.
+Priklausomai nuo meditacijos objekto, šia praktika galima išvystyti gilią proto sutelktį: panertį (*jhāna*) arba prieigą (*upacāra*). Beveik visi *samathos* objektai yra sampratos. Kai protas įgyja gebėjimą nesiblaškant ilgam laikui telktis į vieną objektą, jis tampa labai aštriu. Ir su tuo *samathos* užaštrintu protu žmogus gali žengti toliau ir leistis į nuodugnų, skvarbų vidinio ir išorinio pasaulių galutinių tiesų nagrinėjimą, t.y. į *vipassanos* praktiką.
 
 **Įžvalga**
 
 **_Vipassana_**
 
-*Vipasana* yra dalykų matymas skirtingais būdais. „*Vi*“ reiškia skirtingus, įvairius aspektus, „*passana*“ reiškia žinojimą matymu. Kitaip sakant *vipasana* yra žinojimas, kuris mato ypatingais būdais. Paprastai žmonės mato gyvenimą kaip laimės šaltinį, kaip kažką jiems priklausantį. Priešingas gyvenimo matymas, tai yra jame esančių nepastovumo, kančios, ir nekontroliuojamumo įžvelgimas, yra *vipasana*. Skirtingai nuo *samathos*, *vipasanos* objektai yra baigtinės (kurių nebegalima padalinti į mažesnius komponentus) realybės: baigtinė materija, baigtinis protas bei jų priežastiniai ryšiai. Pirmiausia, aštraus, sutelkto  proto pagalba protiniai ir materialiniai reiškiniai analizuojami ir skaidomi į mažiausias sudedamąsias dalis, o tuomet žvilgsnis nukreipiamas į visiems jiems būdingus bruožus: nuolatinį kitimą, kančią ir savasties nebuvimą. Būtent tas žvilgsnis, kai jis išvystomas ir visiškai subręsta, ir atveda į galutinį proto  išsilaisvinimą nuo visų teršalų, nuo visų kančių. *Vipasana* yra Budos mokymo perlas. Kitas praktikas - dorovę bei susitelkimą - galime rasti ir kituose mokymuose, bet šis *vipasanos* žvilgsnis į tikrąją sąlygoto pasaulio prigimtį yra unikalus budizmui.
+*Vipasana* yra dalykų matymas skirtingais būdais. „*Vi*“ reiškia skirtingus, įvairius aspektus, „*vipassana*“ reiškia žinojimą matymu. Kitaip sakant *vipassana* yra žinojimas, matantis ypatingais būdais. Paprastai žmonės mato gyvenimą kaip laimės šaltinį, kaip kažką jiems priklausantį. Priešingas gyvenimo matymas, tai yra jame esančių nepastovumo, kančios, ir nekontroliuojamumo įžvelgimas, yra *vipassana*. *Samathos* užaštrintas, sutelktas protas gali nuolat, nenutrukstamai, kiekvieną akimirką įžvelgti ir apmąstyti šio kūno ir proto prigimtį – jų laikinumą, nepatenkinamumą ir beasmeniškumą. Pradedame nuo kūno prigimties apmąstymų – mirties ir kūno dalių kontempliacija. Protui paleidus prisirišimą ir tapatinimąsi su kūnu, išryškėja ir psichinio pasaulio prigimtis – laikina, nepatenkinama ir beasmenė. Galiausiai protas pamato save patį – tą stebėtoją, patyriantįjį, komentuotoją, žinantįjį – kaip tiesiog dar vieną kintantį, sąlygotą reiškinį. Tapatinimosi pančiai sugriūva. Paragaujama tikroji, nesąlygota taika, ramybė ir tyla. Čia prasideda tikrasis kelias. Tampa akivaizdu, kad kenčiantysis tėra iliuzija, tad kelias iš kančios – kiekvieną akimirką matyti ir žinoti tikrovę tokia, kokia ji yra. Tiesiog žinoti, tik žinoti – su sąmoningumu, sutelktimi ir išmintimi – tai tikroji *vipassana*. 
