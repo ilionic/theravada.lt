@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Pirmoji sutta apie tai, kaip atsikratyti pykčio (Paṭhamaāghātapaṭivinayasuttaṃ, AN 5.148)'
+title: 'Gero žmogaus dovanos (Sappurisadānasuttaṃ, AN 5.148)'
 category: palaipsnines
 index: Dosnumas
 sortIndex: 5148 
